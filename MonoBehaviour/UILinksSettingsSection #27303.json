@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6257078040320234309
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3826119787603012534
+  },
+  "m_Name": "",
+  "_headerWidget": {
+    "m_FileID": 0,
+    "m_PathID": 6903729485261684729
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 425617960429943815
+  },
+  "_privacyPolicyButton": {
+    "m_FileID": 0,
+    "m_PathID": 6786134562509232676
+  },
+  "_supportButton": {
+    "m_FileID": 0,
+    "m_PathID": 4607986550002952110
+  },
+  "_termsButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withdrawConsentButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_joinDiscordButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_dialog": {
+    "m_FileID": 0,
+    "m_PathID": 624178618897087450
+  },
+  "_background": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

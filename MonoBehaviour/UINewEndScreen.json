@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3323663937298445681
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6998079933070592015
+  },
+  "m_Name": "",
+  "screenID": 13,
+  "_endScreenScoring": {
+    "m_FileID": 0,
+    "m_PathID": 1950770988436264963
+  },
+  "_statsButton": {
+    "m_FileID": 0,
+    "m_PathID": -1047273658164527403
+  },
+  "_buttonTween": {
+    "m_FileID": 0,
+    "m_PathID": -3738063814433449848
+  },
+  "_homeButton": {
+    "m_FileID": 0,
+    "m_PathID": -3370568188647395456
+  },
+  "_socialLinker": {
+    "m_FileID": 0,
+    "m_PathID": 2841676842202837665
+  },
+  "_leaderboards": {
+    "m_FileID": 0,
+    "m_PathID": 3060119435435988817
+  },
+  "_eventBlocker": {
+    "m_FileID": 0,
+    "m_PathID": -8649329157399048404
+  },
+  "_leaderboardElements": {
+    "m_FileID": 0,
+    "m_PathID": -7657420174413901464
+  }
+}

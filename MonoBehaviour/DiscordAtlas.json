@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6633576850566954953
+  },
+  "m_Name": "DiscordAtlas",
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 7647660292338857211
+  },
+  "mSprites": [
+    {
+      "name": "Button_Fill_DSCRD",
+      "x": 173,
+      "y": 64,
+      "width": 32,
+      "height": 64,
+      "borderLeft": 14,
+      "borderRight": 12,
+      "borderTop": 12,
+      "borderBottom": 12,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "Discord-Logo_small",
+      "x": 0,
+      "y": 80,
+      "width": 172,
+      "height": 48,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 8,
+      "paddingRight": 8,
+      "paddingTop": 8,
+      "paddingBottom": 8
+    },
+    {
+      "name": "SlicableUpgradeStepNew",
+      "x": 206,
+      "y": 108,
+      "width": 5,
+      "height": 20,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    }
+  ],
+  "mPixelSize": 1.0,
+  "mReplacement": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

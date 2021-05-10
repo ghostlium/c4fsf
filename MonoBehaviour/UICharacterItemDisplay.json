@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6622355263698558078
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7098202702726689640
+  },
+  "m_Name": "",
+  "_interactionStateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -1896570061113896004
+  },
+  "_equipButton": {
+    "m_FileID": 0,
+    "m_PathID": -7712833403861908179
+  },
+  "_purchaseButton": {
+    "m_FileID": 0,
+    "m_PathID": 285233110224063979
+  },
+  "_heroBannerSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1544177999409339681
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -87191110744315443
+    }
+  ],
+  "_characterName": {
+    "m_FileID": 0,
+    "m_PathID": 7886243947014734792
+  },
+  "_characterDescription": {
+    "m_FileID": 0,
+    "m_PathID": -6553067212557571706
+  },
+  "_characterUnlockDescription": {
+    "m_FileID": 0,
+    "m_PathID": 5257251601979312877
+  },
+  "_scoreBonusDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 5718333384898908373
+  }
+}

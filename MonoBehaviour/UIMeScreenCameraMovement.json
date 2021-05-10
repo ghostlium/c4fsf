@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8497139630436068722
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -112802896156178312
+  },
+  "m_Name": "",
+  "_cameraPositions": [
+    {
+      "TabIndex": 0,
+      "Position": {
+        "m_FileID": 0,
+        "m_PathID": 1962436300285549054
+      }
+    },
+    {
+      "TabIndex": 1,
+      "Position": {
+        "m_FileID": 0,
+        "m_PathID": -3101268289731304713
+      }
+    },
+    {
+      "TabIndex": 2,
+      "Position": {
+        "m_FileID": 0,
+        "m_PathID": -1139881448107125509
+      }
+    },
+    {
+      "TabIndex": 3,
+      "Position": {
+        "m_FileID": 0,
+        "m_PathID": 8022161371364830588
+      }
+    },
+    {
+      "TabIndex": 4,
+      "Position": {
+        "m_FileID": 0,
+        "m_PathID": -3686276632182167113
+      }
+    },
+    {
+      "TabIndex": 5,
+      "Position": {
+        "m_FileID": 0,
+        "m_PathID": -7528990077156612559
+      }
+    }
+  ],
+  "_noPetOffset": {
+    "x": 70.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "_cameraRoot": {
+    "m_FileID": 0,
+    "m_PathID": -3008215779870095300
+  }
+}

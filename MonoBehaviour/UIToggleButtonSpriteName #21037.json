@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9138372160682624278
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -613824587685565310
+  },
+  "m_Name": "",
+  "toggledSpriteName": "Button_Fill_Red",
+  "notToggledSpriteName": "Button_Fill_Grey",
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 1928690628511953858
+  }
+}

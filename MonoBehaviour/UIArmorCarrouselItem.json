@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5727963898997055689
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7451609624525455078
+  },
+  "m_Name": "",
+  "_armorModelRoot": {
+    "m_FileID": 0,
+    "m_PathID": -4062423720034089917
+  },
+  "_sinMove": {
+    "m_FileID": 0,
+    "m_PathID": -4840777430015516887
+  }
+}

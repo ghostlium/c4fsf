@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6468609860217124675
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8656499433400451123
+  },
+  "m_Name": "",
+  "popupID": 31,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 6786439466735536766
+  },
+  "_maximumAge": 65,
+  "_ageSelectionTile": {
+    "m_FileID": 0,
+    "m_PathID": 7648839938662140662
+  },
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": -7163370187692718073
+  },
+  "_centerOnChild": {
+    "m_FileID": 0,
+    "m_PathID": 2586855270602136544
+  },
+  "_recycleScrolling": {
+    "m_FileID": 0,
+    "m_PathID": 4205646052714387771
+  },
+  "_openConfirmationPopupButton": {
+    "m_FileID": 0,
+    "m_PathID": 448288377968382151
+  },
+  "_openConfirmationPopupButtonSprite": {
+    "m_FileID": 0,
+    "m_PathID": 4844299303368090516
+  },
+  "_closeConfirmationPopupButton": {
+    "m_FileID": 0,
+    "m_PathID": -6157579438170070842
+  },
+  "_confirmationPopupTextLabel": {
+    "m_FileID": 0,
+    "m_PathID": -6322529493951267001
+  },
+  "_confirmationPopupPanel": {
+    "m_FileID": 0,
+    "m_PathID": -1224503324128231732
+  },
+  "_ageSelectionTileForSlider": {
+    "m_FileID": 0,
+    "m_PathID": -6869426374744621864
+  },
+  "_ageSelectionSlider": {
+    "m_FileID": 0,
+    "m_PathID": 884947961771618497
+  }
+}

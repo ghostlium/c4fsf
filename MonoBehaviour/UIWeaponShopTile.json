@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4782853199334828593
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8820392625193101341
+  },
+  "m_Name": "",
+  "_buyButton": {
+    "m_FileID": 0,
+    "m_PathID": 34897622319989654
+  },
+  "_showButton": {
+    "m_FileID": 0,
+    "m_PathID": -8330456329093230783
+  },
+  "_raritySprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1220513586361492852
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4133834991262316233
+    }
+  ],
+  "_weaponDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 7388806772473039020
+  },
+  "_banner": {
+    "m_FileID": 0,
+    "m_PathID": -2130183468010247201
+  },
+  "_weaponTileModel": {
+    "m_FileID": 0,
+    "m_PathID": -5227757493845783817
+  }
+}

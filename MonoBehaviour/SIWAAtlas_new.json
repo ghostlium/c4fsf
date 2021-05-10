@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6633576850566954953
+  },
+  "m_Name": "SIWAAtlas_new",
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 8856393047185492708
+  },
+  "mSprites": [
+    {
+      "name": "Btn_Apple_in",
+      "x": 0,
+      "y": 183,
+      "width": 512,
+      "height": 73,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "Btn_Apple_out",
+      "x": 0,
+      "y": 109,
+      "width": 512,
+      "height": 73,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    }
+  ],
+  "mPixelSize": 1.0,
+  "mReplacement": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

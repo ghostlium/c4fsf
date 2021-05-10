@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1199042764887354532
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 170353333402755453
+  },
+  "m_Name": "",
+  "_anchorSide": 1,
+  "_buttonWidget": {
+    "m_FileID": 0,
+    "m_PathID": 6546231206949631889
+  },
+  "_tweenPosition": {
+    "m_FileID": 0,
+    "m_PathID": -1686915423542921676
+  },
+  "_startScreenEventButton": {
+    "m_FileID": 0,
+    "m_PathID": 4228678902665060969
+  },
+  "_timerLabel": {
+    "m_FileID": 0,
+    "m_PathID": -515702746099392368
+  },
+  "_iconCrystal": {
+    "m_FileID": 0,
+    "m_PathID": 805913847301080624
+  },
+  "_icon": {
+    "m_FileID": 0,
+    "m_PathID": -5731002780399642718
+  },
+  "_notificationBubble": {
+    "m_FileID": 0,
+    "m_PathID": 8318679959096442750
+  },
+  "_notificationAmountLabel": {
+    "m_FileID": 0,
+    "m_PathID": 2055149494972643121
+  }
+}

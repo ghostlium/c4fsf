@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6431083244628417299
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -620863735624046273
+  },
+  "m_Name": "",
+  "_sharedVisuals": {
+    "m_FileID": 0,
+    "m_PathID": 6263507285790620834
+  },
+  "_goToButton": {
+    "m_FileID": 0,
+    "m_PathID": -4963138777918465753
+  },
+  "_starterPackItem": {
+    "m_FileID": 0,
+    "m_PathID": -6542091026039117661
+  },
+  "_gearPackItem": {
+    "m_FileID": 0,
+    "m_PathID": -5343252080975124096
+  },
+  "_armorItem": {
+    "m_FileID": 0,
+    "m_PathID": 8166889276175060472
+  },
+  "_weaponItem": {
+    "m_FileID": 0,
+    "m_PathID": 2122461691756928003
+  },
+  "_petItem": {
+    "m_FileID": 0,
+    "m_PathID": -5151854583887864735
+  },
+  "_gachaItem": {
+    "m_FileID": 0,
+    "m_PathID": -5447928493699017517
+  }
+}

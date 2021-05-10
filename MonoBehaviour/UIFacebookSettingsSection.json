@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2061323745549109890
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3157957528348593612
+  },
+  "m_Name": "",
+  "_headerWidget": {
+    "m_FileID": 0,
+    "m_PathID": 7947433992310783449
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": -5194321018049670326
+  },
+  "_facebookLinkButton": {
+    "m_FileID": 0,
+    "m_PathID": 2695321671592614361
+  },
+  "_facebookUnlinkButton": {
+    "m_FileID": 0,
+    "m_PathID": -8736466123114237120
+  },
+  "_appleButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_appleUnlinkButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_appleButtonContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_stateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -3109581608439257142
+  },
+  "_panel": {
+    "m_FileID": 0,
+    "m_PathID": -8083847562355814080
+  },
+  "_resultDialog": {
+    "m_FileID": 0,
+    "m_PathID": -2122020395274435119
+  },
+  "_siwa": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_buttonsContainerRect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_buttonsContainerOffset": 85,
+  "_buttonsContainerContentSizeFitter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

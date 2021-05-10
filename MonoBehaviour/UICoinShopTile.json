@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5691533166057472344
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3234454179183394132
+  },
+  "m_Name": "",
+  "_buyButton": {
+    "m_FileID": 0,
+    "m_PathID": 3755067556834454957
+  },
+  "_savingsBanner": {
+    "m_FileID": 0,
+    "m_PathID": -1927235584181899969
+  },
+  "_savingsLabel": {
+    "m_FileID": 0,
+    "m_PathID": -53907039347230752
+  },
+  "_dividerSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_amountLabel": {
+    "m_FileID": 0,
+    "m_PathID": 1237313254703732678
+  },
+  "_goldSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4570206308118830414
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5399051213168073807
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3184066464794602823
+    }
+  ],
+  "_nameLabel": {
+    "m_FileID": 0,
+    "m_PathID": -4238720549885248369
+  },
+  "_bestOfferBanner": {
+    "m_FileID": 0,
+    "m_PathID": -215405467374427406
+  }
+}

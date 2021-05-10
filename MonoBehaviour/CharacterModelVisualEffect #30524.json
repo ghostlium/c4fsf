@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9137930123577402378
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7636566422920668036
+  },
+  "m_Name": "",
+  "_menuParticleParent": {
+    "m_FileID": 0,
+    "m_PathID": -1002908167852661640
+  },
+  "_ingameParticleParent": {
+    "m_FileID": 0,
+    "m_PathID": -1009557242077476623
+  },
+  "_associatedAssetIDs": [
+    "beastman_storm_chest"
+  ],
+  "_joint": {
+    "m_FileID": 0,
+    "m_PathID": -8058951622430723181
+  }
+}

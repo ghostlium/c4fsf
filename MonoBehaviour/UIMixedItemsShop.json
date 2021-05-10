@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -769527617897499594
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3704936543036732588
+  },
+  "m_Name": "",
+  "_goBackTarget": 2,
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": -2552235116637173044
+  },
+  "_childGrid": {
+    "m_FileID": 0,
+    "m_PathID": 8339252509567919806
+  },
+  "_petTileSpacing": 38,
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 173248642381247731
+  },
+  "_characterRecycleScrolling": {
+    "m_FileID": 0,
+    "m_PathID": 7513192299835284724
+  },
+  "_armorRecycleScrolling": {
+    "m_FileID": 0,
+    "m_PathID": 7195175906067359293
+  },
+  "_weaponRecycleScrolling": {
+    "m_FileID": 0,
+    "m_PathID": -5910931900691406574
+  },
+  "_petRecycleScrolling": {
+    "m_FileID": 0,
+    "m_PathID": -7537957459977114277
+  },
+  "_characterShopTile": {
+    "m_FileID": 0,
+    "m_PathID": 3582722257385773176
+  },
+  "_armorShopTile": {
+    "m_FileID": 2,
+    "m_PathID": 3049347975655177398
+  },
+  "_weaponShopTile": {
+    "m_FileID": 2,
+    "m_PathID": 7220389411367440363
+  },
+  "_petShopTile": {
+    "m_FileID": 0,
+    "m_PathID": 6788588625384745389
+  }
+}

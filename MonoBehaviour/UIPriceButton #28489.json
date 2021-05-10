@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7254241095291149512
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8852392803964432966
+  },
+  "m_Name": "",
+  "_allowDragClicks": 1,
+  "pricingItems": {
+    "m_FileID": 0,
+    "m_PathID": 4847486592744046686
+  },
+  "regularItems": {
+    "m_FileID": 0,
+    "m_PathID": -9023414074555585675
+  },
+  "_unlockAtLevelItems": {
+    "m_FileID": 0,
+    "m_PathID": 6048836524774671731
+  },
+  "_unlockAtLevelLabel": {
+    "m_FileID": 0,
+    "m_PathID": -6430021268189728618
+  },
+  "_lockedLabel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "currencySprite": {
+    "m_FileID": 0,
+    "m_PathID": -6782678081623790382
+  },
+  "priceLabel": {
+    "m_FileID": 0,
+    "m_PathID": 1537097904186960646
+  },
+  "_buyText": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4379473766939310120
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9004526472279750073
+  },
+  "m_Name": "",
+  "thumb": {
+    "m_FileID": 0,
+    "m_PathID": 487959605325387904
+  },
+  "mBG": {
+    "m_FileID": 0,
+    "m_PathID": -2218427111401252260
+  },
+  "mFG": {
+    "m_FileID": 0,
+    "m_PathID": 3274465839143826643
+  },
+  "mValue": 0.0,
+  "mFill": 0,
+  "numberOfSteps": 0,
+  "onChange": [
+    {
+      "mTarget": {
+        "m_FileID": 0,
+        "m_PathID": -6741910343405678529
+      },
+      "mMethodName": "ChangeAgeSliderValue",
+      "mParameters": [],
+      "oneShot": 0
+    }
+  ],
+  "foreground": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rawValue": 1.0,
+  "direction": 2,
+  "mInverted": 0
+}

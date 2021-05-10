@@ -1,0 +1,115 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4191154712002464745
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7481993349842011211
+  },
+  "m_Name": "",
+  "_bladeMesh": {
+    "m_FileID": 0,
+    "m_PathID": 3044886946956220564
+  },
+  "_upgradeParticles": {
+    "m_FileID": 0,
+    "m_PathID": -5954164280780302048
+  },
+  "_poison": {
+    "m_FileID": 0,
+    "m_PathID": -5915477087220420656
+  },
+  "_elementalParticles": [],
+  "_menuParticles": [],
+  "_fadeCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.529728234,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.64953804,
+        "value": -0.00134038925,
+        "inSlope": -21.1690044,
+        "outSlope": -21.1690044,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_upgradeShader": {
+    "m_FileID": 0,
+    "m_PathID": 6144312119327323410
+  },
+  "_upgradeColor": {
+    "r": 1.0,
+    "g": 0.9537525,
+    "b": 0.5808823,
+    "a": 1.0
+  },
+  "_pulseCurve": {
+    "m_Curve": [
+      {
+        "time": -0.006730824,
+        "value": 0.3590803,
+        "inSlope": 22.5851784,
+        "outSlope": 22.5851784,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.139632866,
+        "value": 3.574209,
+        "inSlope": 9.558092,
+        "outSlope": 9.558092,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.445310622,
+        "value": 2.92489171,
+        "inSlope": -11.2112064,
+        "outSlope": -11.2112064,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.648335457,
+        "value": 0.363397121,
+        "inSlope": 20.6257362,
+        "outSlope": 20.6257362,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 1,
+    "m_RotationOrder": 0
+  },
+  "_pulseCurveMultiplier": 0.3,
+  "_shouldDisplayMenuParticles": 0
+}

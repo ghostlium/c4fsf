@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8400996672278321875
+  },
+  "m_Enabled": 0,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7691676500807756964
+  },
+  "m_Name": "",
+  "method": 0,
+  "style": 0,
+  "animationCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 5.96046448E-08,
+        "inSlope": 3.02010679,
+        "outSlope": 3.02010679,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.5085728,
+        "value": 1.08268428,
+        "inSlope": -0.569704831,
+        "outSlope": -0.569704831,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.950204134,
+        "value": -0.0112501681,
+        "inSlope": 0.0142045412,
+        "outSlope": 0.0142045412,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.974973559,
+        "value": 0.0006195442,
+        "inSlope": 0.479208231,
+        "outSlope": -0.0363554023,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1.0,
+        "value": -0.0002903021,
+        "inSlope": -0.0363554023,
+        "outSlope": 0.8253989,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "ignoreTimeScale": 1,
+  "delay": 0.0,
+  "duration": 0.6,
+  "steeperCurves": 0,
+  "tweenGroup": 0,
+  "useFixedUpdate": 0,
+  "onFinished": [],
+  "eventReceiver": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "callWhenFinished": "",
+  "from": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "to": {
+    "x": 1.3,
+    "y": 1.5,
+    "z": 1.5
+  },
+  "updateTable": 0
+}

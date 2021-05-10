@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2482952153548921277
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8156752379853295675
+  },
+  "m_Name": "",
+  "popupID": 37,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 3464246248694013737
+  },
+  "ConsentInfoLabel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

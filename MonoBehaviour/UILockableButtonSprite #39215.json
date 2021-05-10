@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2969599309192473891
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -899199974295095810
+  },
+  "m_Name": "",
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": -3978955867348202671
+  },
+  "lockedSpriteName": "Button_Fill_Grey",
+  "unlockedSpriteName": "Button_Fill_Green"
+}

@@ -1,0 +1,90 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1644662437649796978
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3141661014831828385
+  },
+  "m_Name": "",
+  "_avatarMeshCombiner": {
+    "m_FileID": 0,
+    "m_PathID": -6040364675761890620
+  },
+  "_characterAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 5364397281244368207
+  },
+  "_animatorControllerMenu": {
+    "m_FileID": 0,
+    "m_PathID": -919138262795900474
+  },
+  "_animatorControllerMovement": {
+    "m_FileID": 0,
+    "m_PathID": -5696562380930556942
+  },
+  "_characterAnimationEvents": {
+    "m_FileID": 0,
+    "m_PathID": 9131016450180715798
+  },
+  "_characterRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 8416640603507716272
+  },
+  "_weaponJoint": {
+    "m_FileID": 0,
+    "m_PathID": 4658747982812195250
+  },
+  "_chestJoint": {
+    "m_FileID": 0,
+    "m_PathID": -8058951622430723181
+  },
+  "_headJoint": {
+    "m_FileID": 0,
+    "m_PathID": 9187952023028521765
+  },
+  "_powerBoots": {
+    "m_FileID": 0,
+    "m_PathID": -4103933571296648243
+  },
+  "_wingsAttachJoint": {
+    "m_FileID": 0,
+    "m_PathID": 1184191012903242208
+  },
+  "_whiteMat": {
+    "m_FileID": 0,
+    "m_PathID": 5010094703100782844
+  },
+  "_characterModelVFXArray": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5483750419210815461
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1177266921995353700
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2367703128559371714
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4915102147034422719
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7418534871547490870
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1568780287097234925
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7801927376187641607
+    }
+  ]
+}

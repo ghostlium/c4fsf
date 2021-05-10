@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4934139615727002823
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6229491205950267099
+  },
+  "m_Name": "",
+  "_essenceReward": {
+    "m_FileID": 0,
+    "m_PathID": -1544609299884248400
+  },
+  "_goldReward": {
+    "m_FileID": 0,
+    "m_PathID": -8219506943286086976
+  },
+  "_chestReward": {
+    "m_FileID": 0,
+    "m_PathID": 3207196948487509733
+  },
+  "_dungeonReward": {
+    "m_FileID": 0,
+    "m_PathID": -6535863518763465997
+  },
+  "_gachaboxes": []
+}

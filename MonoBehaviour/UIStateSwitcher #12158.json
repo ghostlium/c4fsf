@@ -1,0 +1,1715 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8944743559564907888
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5914597479601770622
+  },
+  "m_Name": "",
+  "states": [
+    {
+      "stateName": "Normal",
+      "targets": [
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 7086537113116859051
+          },
+          "_savedActiveState": 0,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": -5910024935145841974
+            },
+            "_savedLocalPosition": {
+              "x": 0.0,
+              "y": -33.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 669055731465348076
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 1.0,
+              "_savedAbsolute": 4
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 14
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": -50
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 1.0,
+              "_savedAbsolute": -14
+            },
+            "_savedWidth": 2,
+            "_savedHeight": 2,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 1253221381949531798
+          },
+          "_savedActiveState": 1,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 2301720854463592694
+            },
+            "_savedLocalPosition": {
+              "x": 0.0,
+              "y": -33.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 3481310350203819186
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": 17
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 14
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": -37
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 1.0,
+              "_savedAbsolute": -14
+            },
+            "_savedWidth": 510,
+            "_savedHeight": 54,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 1485377303497696205
+          },
+          "_savedActiveState": 1,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 6883351236430477308
+            },
+            "_savedLocalPosition": {
+              "x": 164.0,
+              "y": -88.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 8131742409981511302
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 1.0,
+              "_savedAbsolute": 0
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 1.0,
+              "_savedAbsolute": 0
+            },
+            "_savedWidth": 158,
+            "_savedHeight": 68,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 8713046681919167538
+          },
+          "_savedActiveState": 1,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": -2321404750099607719
+            },
+            "_savedLocalPosition": {
+              "x": -113.5,
+              "y": -108.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 6593396663214562574
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 51
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 22
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 17
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": 20
+            },
+            "_savedWidth": 267,
+            "_savedHeight": 34,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": -2985969342482846697
+          },
+          "_savedActiveState": 1,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": -9142741303927890888
+            },
+            "_savedLocalPosition": {
+              "x": -242.0,
+              "y": -77.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": -5695222910863626448
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": -38
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 27
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 49
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": 15
+            },
+            "_savedWidth": 257,
+            "_savedHeight": 32,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": -1061942496457375255
+          },
+          "_savedActiveState": 0,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 8579636459161045694
+            },
+            "_savedLocalPosition": {
+              "x": -114.0,
+              "y": -91.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 57576542008278761
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 40
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": -100
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": -40
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": 100
+            },
+            "_savedWidth": 230,
+            "_savedHeight": 70,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        }
+      ],
+      "_stateID": "2105cb03-3014-4e40-b43f-cc5674202aae"
+    },
+    {
+      "stateName": "ClaimReady",
+      "targets": [
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 7086537113116859051
+          },
+          "_savedActiveState": 0,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": -5910024935145841974
+            },
+            "_savedLocalPosition": {
+              "x": 0.0,
+              "y": -33.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 669055731465348076
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": 17
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 14
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": -37
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 1.0,
+              "_savedAbsolute": -14
+            },
+            "_savedWidth": 2,
+            "_savedHeight": 2,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 1253221381949531798
+          },
+          "_savedActiveState": 1,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 2301720854463592694
+            },
+            "_savedLocalPosition": {
+              "x": 0.0,
+              "y": -33.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 3481310350203819186
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": 17
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 14
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": -37
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 1.0,
+              "_savedAbsolute": -14
+            },
+            "_savedWidth": 510,
+            "_savedHeight": 54,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 1485377303497696205
+          },
+          "_savedActiveState": 1,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 6883351236430477308
+            },
+            "_savedLocalPosition": {
+              "x": 164.0,
+              "y": -88.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 8131742409981511302
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedWidth": 158,
+            "_savedHeight": 68,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 8713046681919167538
+          },
+          "_savedActiveState": 0,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": -2321404750099607719
+            },
+            "_savedLocalPosition": {
+              "x": -113.5,
+              "y": -108.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 6593396663214562574
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 51
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 22
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 17
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": 20
+            },
+            "_savedWidth": 267,
+            "_savedHeight": 34,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": -2985969342482846697
+          },
+          "_savedActiveState": 0,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": -9142741303927890888
+            },
+            "_savedLocalPosition": {
+              "x": -242.0,
+              "y": -77.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": -5695222910863626448
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": -38
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 27
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 49
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": 15
+            },
+            "_savedWidth": 257,
+            "_savedHeight": 32,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": -1061942496457375255
+          },
+          "_savedActiveState": 1,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 8579636459161045694
+            },
+            "_savedLocalPosition": {
+              "x": -114.0,
+              "y": -91.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 57576542008278761
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedWidth": 230,
+            "_savedHeight": 70,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        }
+      ],
+      "_stateID": "fbfd6067-5089-4ea5-9974-dc181534b6fe"
+    },
+    {
+      "stateName": "Completed",
+      "targets": [
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 7086537113116859051
+          },
+          "_savedActiveState": 1,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": -5910024935145841974
+            },
+            "_savedLocalPosition": {
+              "x": 0.0,
+              "y": -46.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 669055731465348076
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": 17
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 14
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": -37
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 1.0,
+              "_savedAbsolute": -14
+            },
+            "_savedWidth": 510,
+            "_savedHeight": 54,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 1253221381949531798
+          },
+          "_savedActiveState": 0,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 2301720854463592694
+            },
+            "_savedLocalPosition": {
+              "x": 0.0,
+              "y": -33.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 3481310350203819186
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": 17
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 14
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": -37
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 1.0,
+              "_savedAbsolute": -14
+            },
+            "_savedWidth": 510,
+            "_savedHeight": 54,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 1485377303497696205
+          },
+          "_savedActiveState": 0,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 6883351236430477308
+            },
+            "_savedLocalPosition": {
+              "x": 164.0,
+              "y": -88.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 8131742409981511302
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedWidth": 158,
+            "_savedHeight": 68,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 8713046681919167538
+          },
+          "_savedActiveState": 0,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": -2321404750099607719
+            },
+            "_savedLocalPosition": {
+              "x": -113.5,
+              "y": -108.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 6593396663214562574
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 51
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 22
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 17
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": 20
+            },
+            "_savedWidth": 267,
+            "_savedHeight": 34,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": -2985969342482846697
+          },
+          "_savedActiveState": 0,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": -9142741303927890888
+            },
+            "_savedLocalPosition": {
+              "x": -242.0,
+              "y": -77.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": -5695222910863626448
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": -38
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 27
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 49
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 4801229035524225592
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": 15
+            },
+            "_savedWidth": 257,
+            "_savedHeight": 32,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": -1061942496457375255
+          },
+          "_savedActiveState": 0,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 8579636459161045694
+            },
+            "_savedLocalPosition": {
+              "x": -114.0,
+              "y": -91.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 0,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": 57576542008278761
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 0
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 0
+            },
+            "_savedWidth": 230,
+            "_savedHeight": 70,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 0,
+            "_depthSaved": 0
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        }
+      ],
+      "_stateID": "01c7c3ec-4ca4-4c7e-88ef-32434823ea21"
+    }
+  ],
+  "_currentStateID": "2105cb03-3014-4e40-b43f-cc5674202aae",
+  "Targets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7086537113116859051
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1253221381949531798
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1485377303497696205
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8713046681919167538
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2985969342482846697
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1061942496457375255
+    }
+  ]
+}

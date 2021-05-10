@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 816422072063476630
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2620892966860520632
+  },
+  "m_Name": "",
+  "_menuAnimator": {
+    "m_FileID": 1,
+    "m_PathID": -7658540068661960503
+  },
+  "_animationOverriderPrefab": {
+    "m_FileID": 1,
+    "m_PathID": -4480296884028784841
+  },
+  "_petSignatureSounds": {
+    "m_FileID": 0,
+    "m_PathID": -7551339238013724484
+  }
+}

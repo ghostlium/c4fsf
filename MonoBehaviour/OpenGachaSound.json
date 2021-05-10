@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1998474156635550102
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 18732613189347169
+  },
+  "m_Name": "",
+  "_gachaOpenEffects": {
+    "m_FileID": 0,
+    "m_PathID": -7634845965577505952
+  },
+  "_itemEffectSounds": [
+    {
+      "Sound": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "volume": 0.0
+      },
+      "DelayInSeconds": 0.0
+    },
+    {
+      "Sound": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "volume": 0.0
+      },
+      "DelayInSeconds": 0.0
+    },
+    {
+      "Sound": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": 5803741237956293252
+        },
+        "volume": 0.797
+      },
+      "DelayInSeconds": 1.5
+    }
+  ],
+  "_eggEffectSounds": [
+    {
+      "Sound": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "volume": 0.0
+      },
+      "DelayInSeconds": 0.0
+    },
+    {
+      "Sound": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "volume": 0.0
+      },
+      "DelayInSeconds": 0.0
+    },
+    {
+      "Sound": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": 5803741237956293252
+        },
+        "volume": 0.797
+      },
+      "DelayInSeconds": 1.0
+    }
+  ]
+}

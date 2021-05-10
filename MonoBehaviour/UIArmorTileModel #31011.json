@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 242493749270515181
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2204850505836875290
+  },
+  "m_Name": "",
+  "_modelBuildWaitTime": 1.0,
+  "_itemSprite": {
+    "m_FileID": 0,
+    "m_PathID": -7470973048553320005
+  },
+  "_modelSizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": -7470973048553320005
+  },
+  "_modelRoot": {
+    "m_FileID": 0,
+    "m_PathID": 3203045855210625508
+  },
+  "_modelDecorations": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

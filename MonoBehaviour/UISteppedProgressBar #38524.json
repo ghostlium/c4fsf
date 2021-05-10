@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4263170503382669026
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1397135350952007023
+  },
+  "m_Name": "",
+  "leftAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 5135752172694450376
+    },
+    "relative": 0.0,
+    "absolute": 0
+  },
+  "rightAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 5135752172694450376
+    },
+    "relative": 1.0,
+    "absolute": 0
+  },
+  "bottomAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 5135752172694450376
+    },
+    "relative": 0.0,
+    "absolute": 1
+  },
+  "topAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 5135752172694450376
+    },
+    "relative": 1.0,
+    "absolute": -1
+  },
+  "updateAnchors": 1,
+  "mColor": {
+    "r": 0.470588237,
+    "g": 0.470588237,
+    "b": 0.470588237,
+    "a": 1.0
+  },
+  "mPivot": 4,
+  "mWidth": 50,
+  "mHeight": 8,
+  "mDepth": 6,
+  "mMat": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "autoResizeBoxCollider": 0,
+  "hideIfOffScreen": 0,
+  "keepAspectRatio": 0,
+  "aspectRatio": 6.25,
+  "mAtlas": {
+    "m_FileID": 1,
+    "m_PathID": -5735486301435874218
+  },
+  "mSpriteName": "SlicableUpgradeStep",
+  "mFillAmount": 1.0,
+  "mInvert": 0,
+  "mSteps": 3,
+  "mStepPadding": 2
+}

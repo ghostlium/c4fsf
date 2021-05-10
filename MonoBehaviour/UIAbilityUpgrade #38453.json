@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2267739190932029208
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4362543063090646589
+  },
+  "m_Name": "",
+  "_abilityInfoDialog": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_abilityUpgradeSlotPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -5982134201719339654
+  },
+  "_pivot": 0,
+  "_slotGrid": {
+    "m_FileID": 0,
+    "m_PathID": -7612205761373187093
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 1177783137467813365
+  },
+  "_fullyUpgradedStateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -2949999958063500584
+  },
+  "_showUpgradeBars": 1
+}

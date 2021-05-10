@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1445757103097551846
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -277190597121967197
+  },
+  "m_Name": "",
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mSprites": [],
+  "mPixelSize": 1.0,
+  "mReplacement": {
+    "m_FileID": 1,
+    "m_PathID": -8335406925423024994
+  },
+  "mCoordinates": 0,
+  "sprites": []
+}

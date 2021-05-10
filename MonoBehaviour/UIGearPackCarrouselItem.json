@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6862727380373844266
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8995992317536173395
+  },
+  "m_Name": "",
+  "_headPieceAnchor": {
+    "m_FileID": 0,
+    "m_PathID": 6365086414506088927
+  },
+  "_chestPieceAnchor": {
+    "m_FileID": 0,
+    "m_PathID": 7603336511162751466
+  },
+  "_legsPieceAnchor": {
+    "m_FileID": 0,
+    "m_PathID": 8720872207689315899
+  },
+  "_weaponAnchor": {
+    "m_FileID": 0,
+    "m_PathID": 4494532624997703228
+  }
+}

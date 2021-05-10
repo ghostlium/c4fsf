@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7808940039452797411
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9142564873476439688
+  },
+  "m_Name": "",
+  "movement": {
+    "x": 0.0,
+    "y": 10.0,
+    "z": 0.0
+  },
+  "speed": 3.0
+}

@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2754165701457627399
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3479108284641818631
+  },
+  "m_Name": "",
+  "heroRoot": {
+    "m_FileID": 0,
+    "m_PathID": -6366783318143347866
+  },
+  "heroRootNoPet": {
+    "m_FileID": 0,
+    "m_PathID": -2286628358691682015
+  },
+  "petRoot": {
+    "m_FileID": 0,
+    "m_PathID": 5833555101162464648
+  },
+  "scoreLabel": {
+    "m_FileID": 0,
+    "m_PathID": 1738307864759855889
+  }
+}

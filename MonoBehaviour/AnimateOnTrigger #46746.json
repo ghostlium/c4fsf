@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7984204270909922868
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3750451583613523822
+  },
+  "m_Name": "",
+  "_triggerToActivate": "Appear",
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": 2021743329575983589
+  },
+  "_trigger": {
+    "m_FileID": 0,
+    "m_PathID": 4851926080679931526
+  }
+}

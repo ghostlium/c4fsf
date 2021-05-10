@@ -1,0 +1,81 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5333098286920827647
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7332334996519418313
+  },
+  "m_Name": "",
+  "popupID": 22,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_timings": {
+    "m_FileID": 0,
+    "m_PathID": 5375308525585525978
+  },
+  "_levelSection": {
+    "m_FileID": 0,
+    "m_PathID": -8360377267147679528
+  },
+  "_missionLinePrefab": {
+    "m_FileID": 2,
+    "m_PathID": -8417275377411177964
+  },
+  "_animateAwayWidget": {
+    "m_FileID": 0,
+    "m_PathID": 7851325073716407074
+  },
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": 2362861645985528234
+  },
+  "_childGrid": {
+    "m_FileID": 0,
+    "m_PathID": 7151176476915353831
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 766044914421861198
+  },
+  "_bottomSpacer": {
+    "m_FileID": 0,
+    "m_PathID": -4216789968700667911
+  },
+  "_recycleScrolling": {
+    "m_FileID": 0,
+    "m_PathID": 5830507683686567384
+  },
+  "_animateAwayRoot": {
+    "m_FileID": 0,
+    "m_PathID": 8214716801672479069
+  },
+  "_moreMissionsWidget": {
+    "m_FileID": 0,
+    "m_PathID": 6026034297777701032
+  },
+  "_moreMissionsLabel": {
+    "m_FileID": 0,
+    "m_PathID": 1359036359077655841
+  },
+  "_levelUpAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 2539608210959338550
+  },
+  "_newMissionsStartPoint": {
+    "m_FileID": 0,
+    "m_PathID": -6553136822849274572
+  },
+  "_scrollWidgetButton": {
+    "m_FileID": 0,
+    "m_PathID": 4994060042995259694
+  },
+  "_scoreBonusTicker": {
+    "m_FileID": 0,
+    "m_PathID": -2810678048652761815
+  }
+}

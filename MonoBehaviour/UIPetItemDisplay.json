@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8991498097201099441
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5734136967266432199
+  },
+  "m_Name": "",
+  "_petDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 512833828537968271
+  },
+  "_equipButton": {
+    "m_FileID": 0,
+    "m_PathID": 6795710195948452803
+  },
+  "_upgradeButton": {
+    "m_FileID": 0,
+    "m_PathID": -3899070299372352586
+  }
+}

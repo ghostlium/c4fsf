@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8492540592173024835
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3750451583613523822
+  },
+  "m_Name": "",
+  "_triggerToActivate": "TeleIn",
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": 2021743329575983589
+  },
+  "_trigger": {
+    "m_FileID": 0,
+    "m_PathID": 3425602797193833224
+  }
+}

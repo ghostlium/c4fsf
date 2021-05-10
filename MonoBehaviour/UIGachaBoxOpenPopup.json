@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3649278339657985403
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8805274341055769424
+  },
+  "m_Name": "",
+  "popupID": 3,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_chestButton": {
+    "m_FileID": 0,
+    "m_PathID": -1210214975039972655
+  },
+  "_chestAnchor": {
+    "m_FileID": 0,
+    "m_PathID": 6860459467293489282
+  },
+  "_rewardInteraction": {
+    "m_FileID": 0,
+    "m_PathID": 4030136684817078935
+  },
+  "_gachaBoxQueue": {
+    "m_FileID": 0,
+    "m_PathID": -3451858566350411357
+  },
+  "_gachaBoxEffects": {
+    "m_FileID": 0,
+    "m_PathID": -7634845965577505952
+  },
+  "_tapTextLabel": {
+    "m_FileID": 0,
+    "m_PathID": 7829104248611657246
+  },
+  "_scoreAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -5622635754796452018
+  }
+}

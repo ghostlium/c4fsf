@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3488760795963192907
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4842172312572275837
+  },
+  "m_Name": "",
+  "_allowDragClicks": 1,
+  "_background": {
+    "m_FileID": 0,
+    "m_PathID": 9188241306887934823
+  },
+  "_thumb": {
+    "m_FileID": 0,
+    "m_PathID": -3517136448446870883
+  },
+  "_states": 2,
+  "_animateSwitch": 1
+}

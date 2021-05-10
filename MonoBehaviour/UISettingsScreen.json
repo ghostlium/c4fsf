@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1057386340397240093
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7011715152192494542
+  },
+  "m_Name": "",
+  "screenID": 9,
+  "_sections": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -865868913312482199
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7437630446341292332
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 916743101283842199
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5407675167228345606
+    }
+  ],
+  "_sectionSpacing": 60,
+  "_topSpacer": {
+    "m_FileID": 0,
+    "m_PathID": 5249699419620905867
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": -6643895448796740328
+  },
+  "_bottomSpacer": {
+    "m_FileID": 0,
+    "m_PathID": 3441515115949207256
+  },
+  "_scrollWidget": {
+    "m_FileID": 0,
+    "m_PathID": -1332271352046064386
+  },
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": -130440138397992679
+  },
+  "_debugButton": {
+    "m_FileID": 0,
+    "m_PathID": -8588072349262326552
+  },
+  "_headerManager": {
+    "m_FileID": 0,
+    "m_PathID": -7766642286071816011
+  },
+  "_versionLabel": {
+    "m_FileID": 0,
+    "m_PathID": -1629230281027992479
+  }
+}

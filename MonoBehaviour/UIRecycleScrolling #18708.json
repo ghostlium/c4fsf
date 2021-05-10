@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5569203270040473489
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4137371680038775086
+  },
+  "m_Name": "",
+  "_safeZoneWidget": {
+    "m_FileID": 0,
+    "m_PathID": 9077847892608456575
+  },
+  "_freeChildrenRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_recycleScrollSlotRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_deactivateFreeChildren": 1,
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": -4880409356794410710
+  },
+  "_forceUpdateEachFrame": 0
+}

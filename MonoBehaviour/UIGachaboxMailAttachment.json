@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9214405075079872303
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8797888695796226931
+  },
+  "m_Name": "",
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 3441301369900616288
+  },
+  "_gachaBoxTileModel": {
+    "m_FileID": 0,
+    "m_PathID": -6481093074437566217
+  },
+  "_gachaboxStateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -791636487696745453
+  },
+  "_amountLabel": {
+    "m_FileID": 0,
+    "m_PathID": -294383278463155738
+  }
+}

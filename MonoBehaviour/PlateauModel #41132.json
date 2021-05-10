@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6429702398949612697
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 763117774672852569
+  },
+  "m_Name": "",
+  "_category": 0,
+  "_type": 0,
+  "_variant": 2,
+  "_cellSpanX": 3,
+  "_cellSpanY": 2,
+  "_cellSpanZ": 8,
+  "_frontSideMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 602861534250822848
+    }
+  ],
+  "_frontSideWallrunMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 602861534250822848
+    }
+  ],
+  "_leftSideMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4553817624259098378
+    }
+  ],
+  "_leftSideWallrunStartMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 237798078601186305
+    }
+  ],
+  "_leftSideWallrunMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5284242023478271066
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6209710565337984050
+    }
+  ],
+  "_rightSideMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6092585664600070567
+    }
+  ],
+  "_rightSideWallrunStartMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8549246500381414612
+    }
+  ],
+  "_rightSideWallrunMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2592253204932278394
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5080638941522606655
+    }
+  ],
+  "_laneEndingPieceMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1685827312343993976
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9050887205193916717
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3701264085760281881
+    }
+  ],
+  "_otherMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -946796382796372082
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3620264616903062480
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -479634658175691946
+    }
+  ],
+  "_decorationRandomizers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4550512490209731673
+    }
+  ],
+  "_meshCombined": 1
+}

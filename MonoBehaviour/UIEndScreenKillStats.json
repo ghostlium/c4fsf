@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8429639234429998580
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1881076863504368631
+  },
+  "m_Name": "",
+  "_minionKillsLabel": {
+    "m_FileID": 0,
+    "m_PathID": -6865273854821930441
+  },
+  "_hitsPerKillLabel": {
+    "m_FileID": 0,
+    "m_PathID": 8624360918406563636
+  }
+}

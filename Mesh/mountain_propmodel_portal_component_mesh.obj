@@ -1,0 +1,12 @@
+g mountain_propmodel_portal_component_mesh
+v -18.15222 33.50763 1.117909
+v -18.25507 27.28415 1.02834
+v -12.05138 27.18891 0.5229985
+v -11.94853 33.41238 0.6125669
+vt 0 0
+vt 0 1
+vt 1 1
+vt 1 0
+g mountain_propmodel_portal_component_mesh_0
+f 3/3/3 2/2/2 1/1/1
+f 4/4/4 3/3/3 1/1/1

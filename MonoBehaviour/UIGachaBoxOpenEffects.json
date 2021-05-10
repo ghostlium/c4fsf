@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5200275495742781013
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -21469299711242105
+  },
+  "m_Name": "",
+  "_alreadyOwnedEffect": {
+    "m_FileID": 0,
+    "m_PathID": 8510672736435457062
+  },
+  "_rarityEffects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6979274896460192566
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6931945011252595215
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8322960118665968322
+    }
+  ],
+  "_eggRarityEffects": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8638358349558093192
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3456320736525878515
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8032770080997063511
+    }
+  ],
+  "_chestJackpotEffect": {
+    "m_FileID": 0,
+    "m_PathID": 3710021935513176399
+  },
+  "_eggJackpotEffect": {
+    "m_FileID": 0,
+    "m_PathID": 5208249227443222459
+  },
+  "_chestGlowEffect": {
+    "m_FileID": 0,
+    "m_PathID": 5000563983039007709
+  },
+  "_mangaEffectDelay": 1.7,
+  "_mangaEffectDelayForEggs": 1.5,
+  "_mangaTextYPosition": -165.0
+}

@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7839126762684379338
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -123905665092479606
+  },
+  "m_Name": "",
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": -5531372495114777620
+  },
+  "_helper": {
+    "m_FileID": 0,
+    "m_PathID": -7810580501762269522
+  },
+  "_showAnimations": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3069390574270604587
+    }
+  ],
+  "_hideAnimations": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9143832712602230894
+    }
+  ],
+  "_openClip": {
+    "m_FileID": 0,
+    "m_PathID": -3069390574270604587
+  },
+  "_slideInClip": {
+    "m_FileID": 0,
+    "m_PathID": 2162702131295594725
+  },
+  "_slideOutClip": {
+    "m_FileID": 0,
+    "m_PathID": -866705241690710231
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6576035770631105282
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7481521540100722180
+  },
+  "m_Name": "",
+  "popupID": 4,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 2396600129780072000
+  },
+  "_linkConfirmButton": {
+    "m_FileID": 0,
+    "m_PathID": 4495495899610275114
+  },
+  "_linkCancelButton": {
+    "m_FileID": 0,
+    "m_PathID": 3131851409251078127
+  },
+  "_localInfo": {
+    "LastUpdateLabel": {
+      "m_FileID": 0,
+      "m_PathID": 2103500001616867638
+    },
+    "LevelLabel": {
+      "m_FileID": 0,
+      "m_PathID": -6825236889313090697
+    },
+    "LevelBadge": {
+      "m_FileID": 0,
+      "m_PathID": 3488884657631739598
+    },
+    "HighscoreLabel": {
+      "m_FileID": 0,
+      "m_PathID": -2846965333929631131
+    },
+    "CoinsLabel": {
+      "m_FileID": 0,
+      "m_PathID": 4975044745453978713
+    },
+    "EssenceLabel": {
+      "m_FileID": 0,
+      "m_PathID": -643895102785678454
+    },
+    "GearLabel": {
+      "m_FileID": 0,
+      "m_PathID": 8140436094113134476
+    },
+    "WeaponLabel": {
+      "m_FileID": 0,
+      "m_PathID": 6472623690619629912
+    },
+    "PetLabel": {
+      "m_FileID": 0,
+      "m_PathID": 6825615507352264566
+    },
+    "HeroesLabel": {
+      "m_FileID": 0,
+      "m_PathID": -4323148942591283424
+    },
+    "UseButton": {
+      "m_FileID": 0,
+      "m_PathID": -1460121118266787463
+    }
+  },
+  "_cloudInfo": {
+    "LastUpdateLabel": {
+      "m_FileID": 0,
+      "m_PathID": 6807056703354298185
+    },
+    "LevelLabel": {
+      "m_FileID": 0,
+      "m_PathID": -4947396269131847963
+    },
+    "LevelBadge": {
+      "m_FileID": 0,
+      "m_PathID": 1091900882739454185
+    },
+    "HighscoreLabel": {
+      "m_FileID": 0,
+      "m_PathID": 9023722467426459107
+    },
+    "CoinsLabel": {
+      "m_FileID": 0,
+      "m_PathID": 6287243337323230266
+    },
+    "EssenceLabel": {
+      "m_FileID": 0,
+      "m_PathID": 6281288130972779952
+    },
+    "GearLabel": {
+      "m_FileID": 0,
+      "m_PathID": -4586074052789563137
+    },
+    "WeaponLabel": {
+      "m_FileID": 0,
+      "m_PathID": -2173298550366389008
+    },
+    "PetLabel": {
+      "m_FileID": 0,
+      "m_PathID": -8097007795339957517
+    },
+    "HeroesLabel": {
+      "m_FileID": 0,
+      "m_PathID": -4729947246752323450
+    },
+    "UseButton": {
+      "m_FileID": 0,
+      "m_PathID": -2620667550736387574
+    }
+  },
+  "_confirmationDisplay": {
+    "m_FileID": 0,
+    "m_PathID": -5644401857755456881
+  },
+  "_deviceConfirmSprite": {
+    "m_FileID": 0,
+    "m_PathID": 2590959824937851311
+  },
+  "_cloudConfirmSprite": {
+    "m_FileID": 0,
+    "m_PathID": -6216806685833109902
+  },
+  "_areYouSureLabel": {
+    "m_FileID": 0,
+    "m_PathID": -7884709670061173287
+  }
+}

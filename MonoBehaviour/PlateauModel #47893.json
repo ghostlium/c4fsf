@@ -1,0 +1,79 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7003672873215180407
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 763117774672852569
+  },
+  "m_Name": "",
+  "_category": 1,
+  "_type": 0,
+  "_variant": 0,
+  "_cellSpanX": 3,
+  "_cellSpanY": 2,
+  "_cellSpanZ": 4,
+  "_frontSideMeshFilters": [],
+  "_frontSideWallrunMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1152919399829957782
+    }
+  ],
+  "_leftSideMeshFilters": [],
+  "_leftSideWallrunStartMeshFilters": [],
+  "_leftSideWallrunMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4367647200249854103
+    }
+  ],
+  "_rightSideMeshFilters": [],
+  "_rightSideWallrunStartMeshFilters": [],
+  "_rightSideWallrunMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5684918139591988071
+    }
+  ],
+  "_laneEndingPieceMeshFilters": [],
+  "_otherMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7133684881259018627
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4813283460943282853
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2063892946295499749
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2539308024501996884
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1919717925216905428
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1584615732394600036
+    }
+  ],
+  "_decorationRandomizers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2759372218236098471
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7673754818847073906
+    }
+  ],
+  "_meshCombined": 1
+}

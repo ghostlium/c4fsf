@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5596550634723083159
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2559074747511184986
+  },
+  "m_Name": "",
+  "_currencyRewardSprite": {
+    "m_FileID": 0,
+    "m_PathID": -4539840409974900334
+  },
+  "_chestAnchor": {
+    "m_FileID": 0,
+    "m_PathID": 7090944028978721683
+  },
+  "_eggAnchor": {
+    "m_FileID": 0,
+    "m_PathID": -6251063091285947765
+  },
+  "_characterAnchor": {
+    "m_FileID": 0,
+    "m_PathID": -7259666224600122559
+  },
+  "powerUps": [
+    {
+      "PowerupType": 0,
+      "PowerupGameObject": {
+        "m_FileID": 0,
+        "m_PathID": 5879388118433188231
+      }
+    },
+    {
+      "PowerupType": 1,
+      "PowerupGameObject": {
+        "m_FileID": 0,
+        "m_PathID": -872066943137941313
+      }
+    },
+    {
+      "PowerupType": 2,
+      "PowerupGameObject": {
+        "m_FileID": 0,
+        "m_PathID": -7781554246872182331
+      }
+    },
+    {
+      "PowerupType": 3,
+      "PowerupGameObject": {
+        "m_FileID": 0,
+        "m_PathID": 7321529140191966307
+      }
+    },
+    {
+      "PowerupType": 4,
+      "PowerupGameObject": {
+        "m_FileID": 0,
+        "m_PathID": 5646249497344259628
+      }
+    }
+  ],
+  "_characterRewardDecor": {
+    "m_FileID": 0,
+    "m_PathID": -6482535070069135083
+  },
+  "_gachaRewardDecor": {
+    "m_FileID": 0,
+    "m_PathID": -3241000686659275675
+  },
+  "_powerupRewardDecor": {
+    "m_FileID": 0,
+    "m_PathID": 5205661006557236406
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 400906516056407117
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2649618746873355591
+  },
+  "m_Name": "",
+  "_prefabs": [
+    {
+      "_cliffType": 4,
+      "_configPrefabs": [
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 3412281170430194515
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 1437272540234029068
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        }
+      ]
+    },
+    {
+      "_cliffType": 8,
+      "_configPrefabs": [
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -6699890590804285362
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -1781340935858401164
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        }
+      ]
+    },
+    {
+      "_cliffType": 9,
+      "_configPrefabs": [
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 3412281170430194515
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 1437272540234029068
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        }
+      ]
+    }
+  ],
+  "_leftBridgeRailingPrefabs": {
+    "_startingPiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_middlePiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_afterHolePiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_endingPiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_rightBridgeRailingPrefabs": {
+    "_startingPiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_middlePiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_afterHolePiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_endingPiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_epicSpawnState": {
+    "_firstSpawn": 0,
+    "_minTimeBetweenEpics": 0,
+    "_maxTimeBetweenEpics": 0
+  }
+}

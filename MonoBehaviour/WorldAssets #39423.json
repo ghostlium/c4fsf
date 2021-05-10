@@ -1,0 +1,151 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1113414641693062905
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7173236981095130327
+  },
+  "m_Name": "",
+  "_worldAssetType": 7,
+  "_skySettings": {
+    "SkyMaterial": {
+      "m_FileID": 0,
+      "m_PathID": -2438511364454748505
+    },
+    "FogColor": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.972414,
+      "a": 0.0
+    },
+    "GradientColorTop": {
+      "rgba": 11403519
+    },
+    "GradientColorBottom": {
+      "rgba": 16777215
+    },
+    "GradientOffset": 0.53,
+    "GradientWidth": 0.5,
+    "FogSilhouetteColor": {
+      "rgba": 10027263
+    },
+    "WorldTintColor": {
+      "r": 0.978054464,
+      "g": 0.8392157,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "FogStartDistance": 220.0,
+    "FogSilhouetteDistance": 150.0,
+    "FogEndDistance": 30.0,
+    "FogBackgroundStartDistance": 20.0,
+    "FogBackgroundEndDistance": 180.0,
+    "PortalEdgeColor": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.709803939,
+      "a": 0.0
+    }
+  },
+  "_skyRenderType": 0,
+  "_landmarkGenerators": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6832235279587460015
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 467068907442112533
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7750910268608879693
+    }
+  ],
+  "_plateauModelPrefabs": {
+    "m_FileID": 0,
+    "m_PathID": -7535282442976408854
+  },
+  "_cliffInstances": {
+    "m_FileID": 0,
+    "m_PathID": 905615250603830127
+  },
+  "_propModelPrefabs": {
+    "m_FileID": 0,
+    "m_PathID": 6989761903331235808
+  },
+  "_jingle": {
+    "m_FileID": 1,
+    "m_PathID": -3366772917216080438
+  },
+  "_ambientLoop": {
+    "Clip": {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 4206935871703022603
+      },
+      "volume": 0.84
+    },
+    "FadeInCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "FadeOutCurve": {
+      "m_Curve": [
+        {
+          "time": -6.21890649E-05,
+          "value": 0.9999999,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343
+        },
+        {
+          "time": 1.00082922,
+          "value": 0.00561797759,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "_bend": {
+    "x": -0.002,
+    "y": -0.002
+  },
+  "_cameraEffectPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

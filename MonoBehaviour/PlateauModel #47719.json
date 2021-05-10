@@ -1,0 +1,115 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1434769243614142409
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 763117774672852569
+  },
+  "m_Name": "",
+  "_category": 1,
+  "_type": 0,
+  "_variant": 0,
+  "_cellSpanX": 3,
+  "_cellSpanY": 2,
+  "_cellSpanZ": 8,
+  "_frontSideMeshFilters": [],
+  "_frontSideWallrunMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8943425855519538098
+    }
+  ],
+  "_leftSideMeshFilters": [],
+  "_leftSideWallrunStartMeshFilters": [],
+  "_leftSideWallrunMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3974025644682521178
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -159080114054387243
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2903401178956040123
+    }
+  ],
+  "_rightSideMeshFilters": [],
+  "_rightSideWallrunStartMeshFilters": [],
+  "_rightSideWallrunMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2463838532522725876
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4631307560506317344
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1133735067321373882
+    }
+  ],
+  "_laneEndingPieceMeshFilters": [],
+  "_otherMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4953097290964894604
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3605050829397223893
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2498881654229541404
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8102922228840447290
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 235423007284724055
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 769246405326406938
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7395187565592217833
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6602383819854777079
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5519212511541962979
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2511171839679089753
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 383265992047420538
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3965615172045314481
+    }
+  ],
+  "_decorationRandomizers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7236487536742688362
+    }
+  ],
+  "_meshCombined": 1
+}

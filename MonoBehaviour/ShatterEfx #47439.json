@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4008542531668947916
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2420721875240332904
+  },
+  "m_Name": "",
+  "_pieceSets": [
+    {
+      "Pieces": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -377528292599965153
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8986314522031953524
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5591733499702658863
+        }
+      ]
+    },
+    {
+      "Pieces": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 6400291957705348969
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8986314522031953524
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5591733499702658863
+        }
+      ]
+    }
+  ],
+  "_pieceVelocityMin": 5.0,
+  "_pieceVelocityMax": 15.0,
+  "_pieceAngularVelocityMin": 10.0,
+  "_pieceAngularVelocityMax": 600.0,
+  "_shatterDuration": 0.3,
+  "_fadeDuration": 0.25,
+  "_hideOnImpact": [],
+  "_showOnImpact": [],
+  "_useFlowobjMainTex": 0
+}

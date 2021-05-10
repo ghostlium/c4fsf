@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4004275769764366841
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8487304259047409078
+  },
+  "m_Name": "",
+  "_originalDissolveMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -755141779711533294
+  },
+  "_backgroundTexture": {
+    "m_FileID": 0,
+    "m_PathID": 6214618625541427686
+  },
+  "_dissolveBackground": {
+    "m_FileID": 0,
+    "m_PathID": -8047168184752561532
+  },
+  "_changeTime": 0.3
+}

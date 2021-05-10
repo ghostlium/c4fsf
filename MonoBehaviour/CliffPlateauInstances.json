@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6060266383880778055
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2649618746873355591
+  },
+  "m_Name": "",
+  "_prefabs": [],
+  "_leftBridgeRailingPrefabs": {
+    "_startingPiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_middlePiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_afterHolePiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_endingPiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_rightBridgeRailingPrefabs": {
+    "_startingPiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_middlePiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_afterHolePiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_endingPiece": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_epicSpawnState": {
+    "_firstSpawn": 0,
+    "_minTimeBetweenEpics": 0,
+    "_maxTimeBetweenEpics": 0
+  }
+}

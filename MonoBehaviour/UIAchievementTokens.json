@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2848124904379335793
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -585358955597796483
+  },
+  "m_Name": "",
+  "leftToken": {
+    "m_FileID": 0,
+    "m_PathID": 4456845910267018614
+  },
+  "centerToken": {
+    "m_FileID": 0,
+    "m_PathID": -514934642749616693
+  },
+  "rightToken": {
+    "m_FileID": 0,
+    "m_PathID": -1898935521875621802
+  },
+  "tokenClaimedTint": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "tokenUnclaimedTint": {
+    "r": 0.2784314,
+    "g": 0.2784314,
+    "b": 0.2784314,
+    "a": 1.0
+  }
+}

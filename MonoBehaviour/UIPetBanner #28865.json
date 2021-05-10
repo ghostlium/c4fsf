@@ -1,0 +1,224 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4665681067617126122
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2551347210657502715
+  },
+  "m_Name": "",
+  "_bannerLeftSide": {
+    "m_FileID": 0,
+    "m_PathID": 1338579699931471560
+  },
+  "_bannerRightSide": {
+    "m_FileID": 0,
+    "m_PathID": -4165025706671892402
+  },
+  "_bannerOrnamentLeftSide": {
+    "m_FileID": 0,
+    "m_PathID": -1527681765141333575
+  },
+  "_bannerOrnamentRightSide": {
+    "m_FileID": 0,
+    "m_PathID": -8960901556622751168
+  },
+  "_bannerIcon": {
+    "m_FileID": 0,
+    "m_PathID": -2047028692283689256
+  },
+  "_colorMappings": [
+    {
+      "PetModifierType": 203,
+      "BannerColorLeftSide": {
+        "r": 0.6911765,
+        "g": 0.101643614,
+        "b": 0.101643614,
+        "a": 1.0
+      },
+      "BannerColorRightSide": {
+        "r": 0.7941176,
+        "g": 0.185810253,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "BannerOrnamentColorLeftSide": {
+        "r": 1.0,
+        "g": 0.7298331,
+        "b": 0.242647052,
+        "a": 1.0
+      },
+      "BannerOrnamentColorRightSide": {
+        "r": 1.0,
+        "g": 0.7298331,
+        "b": 0.242647052,
+        "a": 1.0
+      },
+      "BannerIconSprite": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ElementalSpriteName": "ability_fire_white",
+      "SpriteColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "PetModifierType": 205,
+      "BannerColorLeftSide": {
+        "r": 0.172469735,
+        "g": 0.172750875,
+        "b": 0.213235319,
+        "a": 1.0
+      },
+      "BannerColorRightSide": {
+        "r": 0.2688149,
+        "g": 0.275984377,
+        "b": 0.323529422,
+        "a": 1.0
+      },
+      "BannerOrnamentColorLeftSide": {
+        "r": 1.0,
+        "g": 0.9029412,
+        "b": 0.3602941,
+        "a": 1.0
+      },
+      "BannerOrnamentColorRightSide": {
+        "r": 1.0,
+        "g": 0.9029412,
+        "b": 0.3602941,
+        "a": 1.0
+      },
+      "BannerIconSprite": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ElementalSpriteName": "ability_lightning_white",
+      "SpriteColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "PetModifierType": 202,
+      "BannerColorLeftSide": {
+        "r": 0.8762675,
+        "g": 0.102941155,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "BannerColorRightSide": {
+        "r": 0.9117645,
+        "g": 0.3602941,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "BannerOrnamentColorLeftSide": {
+        "r": 0.242647052,
+        "g": 0.9373225,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "BannerOrnamentColorRightSide": {
+        "r": 0.242647052,
+        "g": 0.9373225,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "BannerIconSprite": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ElementalSpriteName": "ability_arcane_white",
+      "SpriteColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "PetModifierType": 204,
+      "BannerColorLeftSide": {
+        "r": 0.101960778,
+        "g": 0.542225242,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "BannerColorRightSide": {
+        "r": 0.3455882,
+        "g": 0.6636199,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "BannerOrnamentColorLeftSide": {
+        "r": 0.4852941,
+        "g": 0.9574036,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "BannerOrnamentColorRightSide": {
+        "r": 0.4852941,
+        "g": 0.9574036,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "BannerIconSprite": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "ElementalSpriteName": "ability_ice_white",
+      "SpriteColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    {
+      "PetModifierType": 201,
+      "BannerColorLeftSide": {
+        "r": 0.5254902,
+        "g": 0.431372553,
+        "b": 0.329411775,
+        "a": 1.0
+      },
+      "BannerColorRightSide": {
+        "r": 0.5254902,
+        "g": 0.431372553,
+        "b": 0.329411775,
+        "a": 1.0
+      },
+      "BannerOrnamentColorLeftSide": {
+        "r": 0.709803939,
+        "g": 0.5921569,
+        "b": 0.5921569,
+        "a": 1.0
+      },
+      "BannerOrnamentColorRightSide": {
+        "r": 0.709803939,
+        "g": 0.5921569,
+        "b": 0.5921569,
+        "a": 1.0
+      },
+      "BannerIconSprite": {
+        "m_FileID": 0,
+        "m_PathID": -8365960375863010109
+      },
+      "ElementalSpriteName": "Sword_Icon",
+      "SpriteColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  ]
+}

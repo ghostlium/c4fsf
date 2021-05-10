@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -420560277716850308
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 58338030471145860
+  },
+  "m_Name": "",
+  "_baseUpgradeBar": {
+    "m_FileID": 0,
+    "m_PathID": -8419129963235603722
+  },
+  "_upgradeBars": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1624566986713099416
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5836547777841411001
+    }
+  ],
+  "_upgradeBarRoot": {
+    "m_FileID": 0,
+    "m_PathID": 6037277572653607655
+  },
+  "_labelPercentage": {
+    "m_FileID": 0,
+    "m_PathID": 5546080689117946005
+  }
+}

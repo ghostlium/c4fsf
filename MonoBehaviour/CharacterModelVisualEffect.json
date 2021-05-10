@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3072339465101413542
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7636566422920668036
+  },
+  "m_Name": "",
+  "_menuParticleParent": {
+    "m_FileID": 0,
+    "m_PathID": -1619988933776947498
+  },
+  "_ingameParticleParent": {
+    "m_FileID": 0,
+    "m_PathID": 2787776508667162542
+  },
+  "_associatedAssetIDs": [
+    "human_storm_head"
+  ],
+  "_joint": {
+    "m_FileID": 0,
+    "m_PathID": 9187952023028521765
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6840947303011891810
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7968434177837380745
+  },
+  "m_Name": "",
+  "_audioClips": [
+    {
+      "Name": "Foot1",
+      "Group": 0,
+      "Pitch": 1.0,
+      "Clip": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": -9126253614669958365
+        },
+        "volume": 0.21
+      }
+    },
+    {
+      "Name": "Foot2",
+      "Group": 0,
+      "Pitch": 1.0,
+      "Clip": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": -8097643504364850289
+        },
+        "volume": 0.21
+      }
+    },
+    {
+      "Name": "Foot3",
+      "Group": 0,
+      "Pitch": 1.0,
+      "Clip": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": 3289422689973491782
+        },
+        "volume": 0.21
+      }
+    },
+    {
+      "Name": "Foot4",
+      "Group": 0,
+      "Pitch": 1.0,
+      "Clip": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": -7224970415887771624
+        },
+        "volume": 0.21
+      }
+    },
+    {
+      "Name": "Swish1",
+      "Group": 0,
+      "Pitch": 1.0,
+      "Clip": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": 2093570439918686371
+        },
+        "volume": 0.21
+      }
+    },
+    {
+      "Name": "Swish2",
+      "Group": 0,
+      "Pitch": 1.0,
+      "Clip": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": 3359327319308846098
+        },
+        "volume": 0.21
+      }
+    },
+    {
+      "Name": "Wood1",
+      "Group": 0,
+      "Pitch": 1.0,
+      "Clip": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": -8705827212875627948
+        },
+        "volume": 0.21
+      }
+    },
+    {
+      "Name": "Wood2",
+      "Group": 0,
+      "Pitch": 1.0,
+      "Clip": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": -391486801015441157
+        },
+        "volume": 0.21
+      }
+    },
+    {
+      "Name": "Wood3",
+      "Group": 0,
+      "Pitch": 1.0,
+      "Clip": {
+        "clip": {
+          "m_FileID": 0,
+          "m_PathID": -1828302406303268880
+        },
+        "volume": 0.21
+      }
+    }
+  ],
+  "_falloffCurve": {
+    "m_Curve": [
+      {
+        "time": 8.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 40.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

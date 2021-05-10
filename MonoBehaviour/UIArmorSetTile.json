@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5615092614170243020
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 557080238320868813
+  },
+  "m_Name": "",
+  "_headSlot": {
+    "_slotRoot": {
+      "m_FileID": 0,
+      "m_PathID": -2587663830478996236
+    },
+    "_notOwnedItem": {
+      "m_FileID": 0,
+      "m_PathID": 5816656491422349671
+    },
+    "_targetWidget": {
+      "m_FileID": 0,
+      "m_PathID": 7304202698063082526
+    }
+  },
+  "_chestSlot": {
+    "_slotRoot": {
+      "m_FileID": 0,
+      "m_PathID": 8251559339824897258
+    },
+    "_notOwnedItem": {
+      "m_FileID": 0,
+      "m_PathID": 3914058067500741951
+    },
+    "_targetWidget": {
+      "m_FileID": 0,
+      "m_PathID": -3382649078762637648
+    }
+  },
+  "_legsSlot": {
+    "_slotRoot": {
+      "m_FileID": 0,
+      "m_PathID": -3511988128924461803
+    },
+    "_notOwnedItem": {
+      "m_FileID": 0,
+      "m_PathID": 6812621168378745118
+    },
+    "_targetWidget": {
+      "m_FileID": 0,
+      "m_PathID": -800863250524459213
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3617887976699683513
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6034269667230921457
+  },
+  "m_Name": "",
+  "_screenWidget": {
+    "m_FileID": 0,
+    "m_PathID": 6500919453417600730
+  },
+  "_recycleScrolling": {
+    "m_FileID": 0,
+    "m_PathID": 8811626360800309262
+  },
+  "_scrollWidget": {
+    "m_FileID": 0,
+    "m_PathID": -334787876761290397
+  },
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": 4301638028884720804
+  },
+  "_childGrid": {
+    "m_FileID": 0,
+    "m_PathID": 31535976331546977
+  },
+  "_topSpacer": {
+    "m_FileID": 0,
+    "m_PathID": -6332602846170829428
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 8179355301515115994
+  },
+  "_bottomSpacer": {
+    "m_FileID": 0,
+    "m_PathID": -1585655332721067671
+  },
+  "_nonOwnedItemchildGrid": {
+    "m_FileID": 0,
+    "m_PathID": -3653983301700418539
+  },
+  "_nonOwnedPlacementWidget": {
+    "m_FileID": 0,
+    "m_PathID": 3717630570028122625
+  },
+  "_petItemDisplay": {
+    "m_FileID": 0,
+    "m_PathID": -1906507739282474448
+  },
+  "_petTilePrefab": {
+    "m_FileID": 2,
+    "m_PathID": 5114664760638297970
+  },
+  "_endTile": {
+    "m_FileID": 0,
+    "m_PathID": -8478365970432963416
+  },
+  "_endTileNonOwnedItems": {
+    "m_FileID": 0,
+    "m_PathID": 6642933797424504447
+  }
+}

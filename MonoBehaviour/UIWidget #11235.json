@@ -1,0 +1,63 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2958756157368760242
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9177589038217080147
+  },
+  "m_Name": "",
+  "leftAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 424735576689151585
+    },
+    "relative": 0.5,
+    "absolute": -200
+  },
+  "rightAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 424735576689151585
+    },
+    "relative": 0.5,
+    "absolute": 200
+  },
+  "bottomAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 424735576689151585
+    },
+    "relative": 0.0,
+    "absolute": 334
+  },
+  "topAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 424735576689151585
+    },
+    "relative": 0.0,
+    "absolute": 444
+  },
+  "updateAnchors": 1,
+  "mColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "mPivot": 4,
+  "mWidth": 400,
+  "mHeight": 110,
+  "mDepth": 2,
+  "mMat": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "autoResizeBoxCollider": 1,
+  "hideIfOffScreen": 0,
+  "keepAspectRatio": 0,
+  "aspectRatio": 3.63636374
+}

@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6662721177275135477
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1595958132834165232
+  },
+  "m_Name": "",
+  "_configLandmarkMinimumDistance": 0,
+  "_configLandmarkMaximumDistance": 0,
+  "_landmarkPrefabs": {
+    "_configPrefabs": [
+      {
+        "Frequency": 1,
+        "Prefab": {
+          "m_FileID": 0,
+          "m_PathID": -3418168751431792520
+        }
+      }
+    ],
+    "_configDefaultPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -3418168751431792520
+    }
+  },
+  "_minStartOffset": 8
+}

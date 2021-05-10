@@ -1,0 +1,93 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7195673409084552086
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2111095310757542105
+  },
+  "m_Name": "",
+  "leftAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 6824217414359751576
+    },
+    "relative": 0.0,
+    "absolute": -29
+  },
+  "rightAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 6824217414359751576
+    },
+    "relative": 1.0,
+    "absolute": 30
+  },
+  "bottomAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 6824217414359751576
+    },
+    "relative": 0.0,
+    "absolute": -98
+  },
+  "topAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 6824217414359751576
+    },
+    "relative": 1.0,
+    "absolute": 52
+  },
+  "updateAnchors": 1,
+  "mColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "mPivot": 4,
+  "mWidth": 524,
+  "mHeight": 174,
+  "mDepth": 0,
+  "mMat": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "autoResizeBoxCollider": 0,
+  "hideIfOffScreen": 0,
+  "keepAspectRatio": 0,
+  "aspectRatio": 3.01149416,
+  "mType": 1,
+  "mFillDirection": 4,
+  "mFillAmount": 1.0,
+  "mInvert": 0,
+  "mFlip": 0,
+  "mApplyGradient": 0,
+  "mGradientTop": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "mGradientBottom": {
+    "r": 0.7,
+    "g": 0.7,
+    "b": 0.7,
+    "a": 1.0
+  },
+  "centerType": 1,
+  "leftType": 1,
+  "rightType": 1,
+  "bottomType": 1,
+  "topType": 1,
+  "mAtlas": {
+    "m_FileID": 1,
+    "m_PathID": -5735486301435874218
+  },
+  "mSpriteName": "StonePlate_Dark",
+  "mFixedAspect": 0,
+  "mFillCenter": 1
+}

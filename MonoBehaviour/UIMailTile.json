@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5804957088007212573
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5979793190500904097
+  },
+  "m_Name": "",
+  "_mailButton": {
+    "m_FileID": 0,
+    "m_PathID": -6803368483360329111
+  },
+  "_titleLabel": {
+    "m_FileID": 0,
+    "m_PathID": -8283253040525003533
+  },
+  "_hasReadSprite": {
+    "m_FileID": 0,
+    "m_PathID": 7280462645530288334
+  },
+  "_hasAttachmentSprite": {
+    "m_FileID": 0,
+    "m_PathID": 9130863263560270920
+  },
+  "_tileSprite": {
+    "m_FileID": 0,
+    "m_PathID": -1878596683726776972
+  },
+  "_unreadTileSprite": "PaperPlate1",
+  "_readTileSprite": "PaperPlate2"
+}

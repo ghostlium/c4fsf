@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3515090520557393559
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1084925196991901331
+  },
+  "m_Name": "",
+  "sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 5128027508061091184
+  },
+  "notLinkedWidget": {
+    "m_FileID": 0,
+    "m_PathID": 382336591806980034
+  },
+  "linkedWidget": {
+    "m_FileID": 0,
+    "m_PathID": 7808976250317920004
+  },
+  "socialButton": {
+    "m_FileID": 0,
+    "m_PathID": 8185531136376487373
+  },
+  "shareScoreButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "buttonText": {
+    "m_FileID": 0,
+    "m_PathID": 6914056373726996605
+  },
+  "eventBlocker": {
+    "m_FileID": 0,
+    "m_PathID": -1351983551823360580
+  },
+  "resultPopup": {
+    "m_FileID": 0,
+    "m_PathID": -8691275014450246786
+  },
+  "resultHeader": {
+    "m_FileID": 0,
+    "m_PathID": -5399720953299601358
+  },
+  "resultMessage": {
+    "m_FileID": 0,
+    "m_PathID": -4503743546466547353
+  },
+  "resultOKButton": {
+    "m_FileID": 0,
+    "m_PathID": -4422339225228143376
+  },
+  "_doNotShowLinkingInfo": 1
+}

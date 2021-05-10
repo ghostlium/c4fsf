@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5382987306427938204
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5561980172722340526
+  },
+  "m_Name": "",
+  "_rotateY": 1,
+  "RotateYSpeed": 1.0,
+  "_rotateZ": 0,
+  "RotateZSpeed": 1.0,
+  "_saw": 0
+}

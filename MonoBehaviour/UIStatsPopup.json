@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7525131898803630419
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4446175640529705062
+  },
+  "m_Name": "",
+  "popupID": 23,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -5585395191450144541
+  },
+  "_scoreStat": {
+    "m_FileID": 0,
+    "m_PathID": 304854679054811615
+  },
+  "_killStats": {
+    "m_FileID": 0,
+    "m_PathID": 6326995894791661380
+  },
+  "_comboStats": {
+    "m_FileID": 0,
+    "m_PathID": 5284028610231391191
+  },
+  "_multiplierStats": {
+    "m_FileID": 0,
+    "m_PathID": -2028973420551610255
+  },
+  "_miscStats": {
+    "m_FileID": 0,
+    "m_PathID": -4769572921688557555
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4084516552742844313
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8071039162651310533
+  },
+  "m_Name": "",
+  "_plateauPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -7151261838775453853
+  },
+  "_spotSpritePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -7488260233975166924
+  },
+  "_spotGrid": {
+    "m_FileID": 0,
+    "m_PathID": -5952092304722296496
+  },
+  "_animateSpotTransition": 0,
+  "_firstScrollDelay": 3.0,
+  "_scrollDelay": 8.0,
+  "_scrollTime": 0.6,
+  "_scrollOffset": 900.0,
+  "_scrollCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_standardScrollDirection": 1
+}

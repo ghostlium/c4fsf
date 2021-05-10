@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6293976594836773992
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3618854596490538704
+  },
+  "m_Name": "",
+  "label": {
+    "m_FileID": 0,
+    "m_PathID": 5845799150938468550
+  },
+  "lockedTranslationKey": "itemFocusScreen_selected",
+  "lockedFallbackString": "SELECTED",
+  "unlockedTranslationKey": "itemFocusScreen_select",
+  "unlockedFallbackString": "SELECT"
+}

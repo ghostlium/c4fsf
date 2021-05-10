@@ -1,0 +1,93 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1875438659183200104
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6195675666404169654
+  },
+  "m_Name": "",
+  "popupID": 1,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 6375657000916570996
+  },
+  "surrenderButton": {
+    "m_FileID": 0,
+    "m_PathID": -112115293820054266
+  },
+  "_levelProgressBar": {
+    "m_FileID": 0,
+    "m_PathID": 2385686559321229257
+  },
+  "_levelQuestStateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -1949487129475703365
+  },
+  "_levelProgressText": {
+    "m_FileID": 0,
+    "m_PathID": 3057875895015085844
+  },
+  "_activeQuestLineAnchor": {
+    "m_FileID": 0,
+    "m_PathID": -5108668682844994080
+  },
+  "_nextQuestLineAnchor": {
+    "m_FileID": 0,
+    "m_PathID": -8210930860040002567
+  },
+  "_questLinePrefab": {
+    "m_FileID": 2,
+    "m_PathID": -8417275377411177964
+  },
+  "_animateQuestLineCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": -2.88658857,
+        "outSlope": -2.88658857,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.473329574,
+        "value": 1.04538667,
+        "inSlope": -1.65234125,
+        "outSlope": -1.65234125,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.5492882,
+        "value": 1.0,
+        "inSlope": 3.16815615,
+        "outSlope": 3.16815615,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_sections": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3775604929221814076
+    }
+  ],
+  "_nextLevelElements": {
+    "m_FileID": 0,
+    "m_PathID": -2183537566916231087
+  },
+  "_levelupReward": {
+    "m_FileID": 0,
+    "m_PathID": -8570482589428298642
+  }
+}

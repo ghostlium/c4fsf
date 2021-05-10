@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4259915890266112535
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 157632702938059054
+  },
+  "m_Name": "",
+  "_slotType": 1,
+  "_cellSpanZ": 4,
+  "_hidePlateauSide": 0,
+  "_randomizers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2198817425314340065
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4718226448205782246
+    }
+  ]
+}

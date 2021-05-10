@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2756621688166547505
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7636566422920668036
+  },
+  "m_Name": "",
+  "_menuParticleParent": {
+    "m_FileID": 0,
+    "m_PathID": 3302109801200549500
+  },
+  "_ingameParticleParent": {
+    "m_FileID": 0,
+    "m_PathID": 933500200418176702
+  },
+  "_associatedAssetIDs": [
+    "pirate_storm_chest"
+  ],
+  "_joint": {
+    "m_FileID": 0,
+    "m_PathID": -1694215525375587763
+  }
+}

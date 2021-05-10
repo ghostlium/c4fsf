@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7448968210475761060
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3483429568407607487
+  },
+  "m_Name": "",
+  "_closedEyes": {
+    "m_FileID": 0,
+    "m_PathID": 9146232351031017049
+  },
+  "_animatedEyes": {
+    "m_FileID": 0,
+    "m_PathID": 6891056447990870418
+  },
+  "_targetPosition": {
+    "m_FileID": 0,
+    "m_PathID": 6914632003679228683
+  }
+}

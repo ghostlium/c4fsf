@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2139707388856994109
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6385304464709081356
+  },
+  "m_Name": "",
+  "screenID": 8,
+  "tabPaneCollections": [
+    {
+      "TabIndex": 0,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": -70868373740426235
+      }
+    },
+    {
+      "TabIndex": 2,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": 8202581972146974819
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": 7586785118535943640
+      }
+    },
+    {
+      "TabIndex": 3,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": 766094650654183251
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": 8374348150951539579
+      }
+    },
+    {
+      "TabIndex": 4,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": -4051836269521415272
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5217632404294121184
+      }
+    },
+    {
+      "TabIndex": 5,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": -6460807016477215065
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5674872750111765395
+      }
+    }
+  ],
+  "showArea": {
+    "m_FileID": 0,
+    "m_PathID": -434977848504432333
+  },
+  "prepArea": {
+    "m_FileID": 0,
+    "m_PathID": 2607129883085753539
+  },
+  "_tabButtons": {
+    "m_FileID": 0,
+    "m_PathID": -129400095003872774
+  }
+}

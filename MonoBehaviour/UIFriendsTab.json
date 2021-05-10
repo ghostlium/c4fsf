@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1129536244385033668
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7697463271454783160
+  },
+  "m_Name": "",
+  "_screenWidget": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_socialLinker": {
+    "m_FileID": 0,
+    "m_PathID": 2690483665036154178
+  },
+  "_stateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": 6656173954133610699
+  },
+  "_leaderboards": {
+    "m_FileID": 0,
+    "m_PathID": 6570531749667848855
+  },
+  "_bannerSizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 4476738917912960504
+  },
+  "_clipCamWidget": {
+    "m_FileID": 0,
+    "m_PathID": 7966645278688789517
+  },
+  "_leaderboardsGrid": {
+    "m_FileID": 0,
+    "m_PathID": 7425993518175167930
+  },
+  "_friendsConnectedLabel": {
+    "m_FileID": 0,
+    "m_PathID": -3085521086186509153
+  },
+  "_stashpointsClearedAmountLabel": {
+    "m_FileID": 0,
+    "m_PathID": 7495051785945763144
+  },
+  "_currencySprite": {
+    "m_FileID": 0,
+    "m_PathID": -2645740844428116241
+  },
+  "_currencyEarnedAmountLabel": {
+    "m_FileID": 0,
+    "m_PathID": 8717472314818759969
+  },
+  "_currencyDescriptionLabel": {
+    "m_FileID": 0,
+    "m_PathID": -7157015621675918444
+  },
+  "_recruitButton": {
+    "m_FileID": 0,
+    "m_PathID": -8618143773170333641
+  }
+}

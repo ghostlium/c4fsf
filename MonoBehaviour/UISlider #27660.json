@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6667713979683874822
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9004526472279750073
+  },
+  "m_Name": "",
+  "thumb": {
+    "m_FileID": 0,
+    "m_PathID": 2700287843236695917
+  },
+  "mBG": {
+    "m_FileID": 0,
+    "m_PathID": 1522821694664513297
+  },
+  "mFG": {
+    "m_FileID": 0,
+    "m_PathID": 6733101575906087749
+  },
+  "mValue": 1.0,
+  "mFill": 0,
+  "numberOfSteps": 0,
+  "onChange": [],
+  "foreground": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rawValue": 1.0,
+  "direction": 2,
+  "mInverted": 0
+}

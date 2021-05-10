@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8497139630436068722
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5744198023147837733
+  },
+  "m_Name": "",
+  "_plateauObject": {
+    "m_FileID": 0,
+    "m_PathID": 545440386701456449
+  },
+  "_characterBackground": {
+    "m_FileID": 0,
+    "m_PathID": 1185567090256630531
+  },
+  "_characterModels": {
+    "m_FileID": 0,
+    "m_PathID": 499212432347614327
+  },
+  "_meScreenCharacterModel": {
+    "m_FileID": 0,
+    "m_PathID": 6541077187020950896
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1624230779085552968
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1538735854337579494
+  },
+  "m_Name": "",
+  "_mailTilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -6387527737511706197
+  },
+  "_mailGrid": {
+    "m_FileID": 0,
+    "m_PathID": 8593249265998155972
+  },
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": 5877690977710982531
+  },
+  "_recycleScrolling": {
+    "m_FileID": 0,
+    "m_PathID": -925290104286089487
+  },
+  "_topSpacer": {
+    "m_FileID": 0,
+    "m_PathID": 2422588834533329131
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": -8537102068032901836
+  },
+  "_bottomSpacer": {
+    "m_FileID": 0,
+    "m_PathID": 7473760460043604891
+  },
+  "_scrollWidget": {
+    "m_FileID": 0,
+    "m_PathID": -448014346206787240
+  }
+}

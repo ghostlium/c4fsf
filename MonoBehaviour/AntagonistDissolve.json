@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5774854152808622025
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7996612067220533157
+  },
+  "m_Name": "",
+  "_renderer": {
+    "m_FileID": 0,
+    "m_PathID": 5399661422580179645
+  },
+  "_smoke": {
+    "m_FileID": 0,
+    "m_PathID": -9222972791520765825
+  },
+  "_head": {
+    "m_FileID": 0,
+    "m_PathID": -1346571630177739958
+  },
+  "_root": {
+    "m_FileID": 0,
+    "m_PathID": 7461573952458049472
+  },
+  "_loadingParticlesL": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_loadingParticlesR": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

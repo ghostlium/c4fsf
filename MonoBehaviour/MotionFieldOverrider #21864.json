@@ -1,0 +1,594 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8142592236619775857
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6972197722457714959
+  },
+  "m_Name": "",
+  "_overriderSets": [
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 179476698747787077
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7577853590519551744
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 6834631084743185636
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 7959473644254916158
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -607021773489161447
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 6361281268535171288
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -2034886598385213500
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -3991229174314801348
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -6706802224664346539
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -40416052884506393
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 1176257498142155712
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7559344516343205675
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -7549041391988091304
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -322997699164610771
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 5112764369533765547
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -4874640607186208584
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -2299532174366900480
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7387691761230564467
+        }
+      ],
+      "useOriginalClip": 1
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -8064566383643884200
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 3083705813244962082
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -1560263139975659153
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 7828139213425707912
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -2621349443918480487
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7387691761230564467
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -3396461082504081135
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 3083705813244962082
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 215718826209524228
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -5125398069313718302
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -7661934626661309601
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 8622573719398865606
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 6688672264884976939
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -5086298035845989646
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -1292418732332892844
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -1232056350812150302
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -724060926737428699
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -8539628771130183892
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 4026618181924530722
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -4839133920477822195
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 8155877324304627552
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -5025098528046549968
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -841340315299213028
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -6645388740252255113
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 4935704459517311763
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -2160271631750646047
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -2694789899387300352
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 7111507906957907027
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 5768097501965286401
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -1028935310061956449
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -4448369262305346420
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -1032752475112951897
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -3959420753560834094
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -8616091316230547329
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -3385326396201543243
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -1880573714188111523
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 8921656690818643254
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -5711694942288057762
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 4958690642315584138
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 344383384949323043
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 3991614510247985395
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 1004406893563297702
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -1419581699076167410
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -2602225798526960285
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 8177097690093569961
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 5359159031141909780
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -8131866742668445025
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -8007065529385995827
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -5095389041872700059
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 3664907901178598885
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -6895632913699723313
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 306476478821100998
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 8827383704096652780
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -4060891381353800660
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -1506880201905238642
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7387691761230564467
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -5264923801055455670
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -3361505860841481032
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 4191703906310010164
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 2785642491092026520
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 631528101827431830
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -756753536178782966
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 2071549939177608284
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 6168852056607679835
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -6464743111642439819
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -2403026958354706738
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 1598687059493805954
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -4970559867082758753
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -4363843555974098373
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -3663819269448011979
+        }
+      ],
+      "useOriginalClip": 0
+    }
+  ],
+  "_overrideController": {
+    "m_FileID": 0,
+    "m_PathID": -3231391545004854547
+  },
+  "_controller": {
+    "m_FileID": 0,
+    "m_PathID": 843026937816953606
+  }
+}

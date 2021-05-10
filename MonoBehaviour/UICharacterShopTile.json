@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -883172058421481896
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7560220463188718092
+  },
+  "m_Name": "",
+  "_buyButton": {
+    "m_FileID": 0,
+    "m_PathID": 8308490698010130872
+  },
+  "_showButton": {
+    "m_FileID": 0,
+    "m_PathID": 6444645490609210477
+  },
+  "_itemName": {
+    "m_FileID": 0,
+    "m_PathID": -4277489362919295750
+  },
+  "_heroBanner": {
+    "m_FileID": 0,
+    "m_PathID": -9044206245257769761
+  },
+  "_characterTileModel": {
+    "m_FileID": 0,
+    "m_PathID": 45758892314154124
+  }
+}

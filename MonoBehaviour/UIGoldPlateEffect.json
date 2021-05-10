@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 42906526642840942
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9174265623017413893
+  },
+  "m_Name": "",
+  "_goldPlateBackground": {
+    "m_FileID": 0,
+    "m_PathID": 5483692721140427197
+  },
+  "_whiteFlash": {
+    "m_FileID": 0,
+    "m_PathID": -828843508599756638
+  },
+  "_glow": {
+    "m_FileID": 0,
+    "m_PathID": -306474678875428934
+  },
+  "_flashDelay": 0.0,
+  "_flashCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.99999994,
+        "inSlope": -0.12880151,
+        "outSlope": -0.12880151,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.4997729,
+        "value": 5.96046448E-08,
+        "inSlope": -6.89441633,
+        "outSlope": -6.89441633,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_glowDelay": 0.0,
+  "_glowCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.498644948,
+        "inSlope": 2.07087564,
+        "outSlope": 2.07087564,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.841834545,
+        "value": 5.96046448E-08,
+        "inSlope": -5.316036,
+        "outSlope": -5.316036,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

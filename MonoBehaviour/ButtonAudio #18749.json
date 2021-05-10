@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5620350194882925303
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6332750444008619070
+  },
+  "m_Name": "",
+  "_regularSounds": {
+    "Click": 2,
+    "PressDown": 0,
+    "Release": 0
+  },
+  "_lockedSounds": {
+    "Click": 2,
+    "PressDown": 0,
+    "Release": 0
+  }
+}

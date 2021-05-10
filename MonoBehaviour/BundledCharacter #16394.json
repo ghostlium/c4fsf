@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6951662044243347297
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8247412658513629323
+  },
+  "m_Name": "",
+  "PortraitTexture": {
+    "m_FileID": 1,
+    "m_PathID": -7655018150299545470
+  },
+  "CharacterFace": {
+    "m_FileID": 1,
+    "m_PathID": -3121592476354987611
+  },
+  "Eye": {
+    "m_FileID": 1,
+    "m_PathID": 3374155305795418278
+  },
+  "EyeBlink": {
+    "m_FileID": 1,
+    "m_PathID": -3749891976631443032
+  },
+  "CharacterMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -5427711404316172789
+  },
+  "CharacterMaterialMasked": {
+    "m_FileID": 0,
+    "m_PathID": -4026823813267988574
+  },
+  "MenuFocusController": {
+    "m_FileID": 0,
+    "m_PathID": -3899992429315915639
+  },
+  "MenuOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": -220248556407000250
+  },
+  "CharacterBannerColor": {
+    "BannerColorLeftSide": {
+      "r": 0.65882355,
+      "g": 0.105882354,
+      "b": 0.6901961,
+      "a": 1.0
+    },
+    "BannerColorRightSide": {
+      "r": 0.65882355,
+      "g": 0.105882354,
+      "b": 0.6901961,
+      "a": 1.0
+    },
+    "BannerOrnamentColorLeftSide": {
+      "r": 0.8745098,
+      "g": 0.7019608,
+      "b": 0.141176477,
+      "a": 1.0
+    },
+    "BannerOrnamentColorRightSide": {
+      "r": 0.8745098,
+      "g": 0.7019608,
+      "b": 0.141176477,
+      "a": 1.0
+    },
+    "BannerSpriteName": "Heraldry_Isaac"
+  },
+  "ArmorPoseOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": -7289438565518244281
+  }
+}

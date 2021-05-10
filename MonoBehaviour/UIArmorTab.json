@@ -1,0 +1,76 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7984127408436964608
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6934540190787720159
+  },
+  "m_Name": "",
+  "_screenWidget": {
+    "m_FileID": 0,
+    "m_PathID": 324049403907474489
+  },
+  "_recycleScrolling": {
+    "m_FileID": 0,
+    "m_PathID": 5649898978081513339
+  },
+  "_scrollWidget": {
+    "m_FileID": 0,
+    "m_PathID": -5377886457010510192
+  },
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": 7311289959549143798
+  },
+  "_childGrid": {
+    "m_FileID": 0,
+    "m_PathID": -53812468065456902
+  },
+  "_topSpacer": {
+    "m_FileID": 0,
+    "m_PathID": 7911464009351943693
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 3179368656152983112
+  },
+  "_bottomSpacer": {
+    "m_FileID": 0,
+    "m_PathID": -9211207266812872745
+  },
+  "_nonOwnedItemchildGrid": {
+    "m_FileID": 0,
+    "m_PathID": -636709895903713560
+  },
+  "_nonOwnedPlacementWidget": {
+    "m_FileID": 0,
+    "m_PathID": 8988663053152357888
+  },
+  "_armorItemDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 5147583646374171483
+  },
+  "_headerSnapManager": {
+    "m_FileID": 0,
+    "m_PathID": -1725003135957891160
+  },
+  "_armorGridPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 4165772002624659392
+  },
+  "_armorTilePrefab": {
+    "m_FileID": 2,
+    "m_PathID": -5314131212441689353
+  },
+  "_endTileNonOwnedItems": {
+    "m_FileID": 0,
+    "m_PathID": 2014211932757346429
+  },
+  "_dummyHeader": {
+    "m_FileID": 0,
+    "m_PathID": -2391299159387212259
+  }
+}

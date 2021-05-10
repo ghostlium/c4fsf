@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7074905299031074000
+  },
+  "m_Enabled": 0,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5561132430545973664
+  },
+  "m_Name": "",
+  "target": {
+    "x": 0.0,
+    "y": 350.0,
+    "z": 0.0
+  },
+  "strength": 10.0
+}

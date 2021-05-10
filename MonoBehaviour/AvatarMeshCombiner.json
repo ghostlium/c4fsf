@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1644662437649796978
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4764531653584950439
+  },
+  "m_Name": "",
+  "_filter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_skinnedMeshRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 8416640603507716272
+  },
+  "_pieces": [],
+  "_materials": []
+}

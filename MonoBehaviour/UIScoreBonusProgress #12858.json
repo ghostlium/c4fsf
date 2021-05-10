@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2528413335787875084
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4023570114304726408
+  },
+  "m_Name": "",
+  "_progressBar": {
+    "m_FileID": 0,
+    "m_PathID": 2098568136467213575
+  },
+  "_progressLabel": {
+    "m_FileID": 0,
+    "m_PathID": 1225329940041605755
+  },
+  "_bonusAmountLabel": {
+    "m_FileID": 0,
+    "m_PathID": 1460728816296573234
+  }
+}

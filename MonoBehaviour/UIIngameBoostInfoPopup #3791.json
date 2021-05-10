@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4349278928344982297
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8792034288926273164
+  },
+  "m_Name": "",
+  "popupID": 25,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 8084689855514152747
+  },
+  "_childGrid": {
+    "m_FileID": 0,
+    "m_PathID": 1073760658158542692
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": -8963005510757583911
+  },
+  "_headerLabel": {
+    "m_FileID": 0,
+    "m_PathID": 7737267753249765748
+  },
+  "_messageLabel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_abilityIconView": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_boostLinePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 6091905397377576926
+  }
+}

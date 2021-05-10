@@ -1,0 +1,63 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -973219514513320865
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -861098396707276790
+  },
+  "m_Name": "",
+  "tweenTarget": {
+    "m_FileID": 0,
+    "m_PathID": -973219514513320865
+  },
+  "hover": {
+    "r": 0.882352948,
+    "g": 0.784313738,
+    "b": 0.5882353,
+    "a": 1.0
+  },
+  "pressed": {
+    "r": 0.7176471,
+    "g": 0.6392157,
+    "b": 0.482352942,
+    "a": 1.0
+  },
+  "disabledColor": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1.0
+  },
+  "duration": 0.2,
+  "dragHighlight": 0,
+  "hoverSprite": "",
+  "pressedSprite": "",
+  "disabledSprite": "",
+  "hoverSprite2D": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "pressedSprite2D": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "disabledSprite2D": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "pixelSnap": 0,
+  "onClick": [
+    {
+      "mTarget": {
+        "m_FileID": 0,
+        "m_PathID": 3462857872054325428
+      },
+      "mMethodName": "OpenPrivacyPolicyPopup",
+      "mParameters": [],
+      "oneShot": 0
+    }
+  ]
+}

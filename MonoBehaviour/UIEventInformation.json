@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3149520540062752581
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7166633316343525932
+  },
+  "m_Name": "",
+  "_buildingOrigin": {
+    "m_FileID": 0,
+    "m_PathID": -7496793984355505740
+  },
+  "_descriptionLabel": {
+    "m_FileID": 0,
+    "m_PathID": -3022062944647300278
+  },
+  "_descriptionBackground": {
+    "m_FileID": 0,
+    "m_PathID": 6454697974870246397
+  },
+  "_abilityUpgrade": {
+    "m_FileID": 0,
+    "m_PathID": 6059722928212478895
+  },
+  "_abilityInfo": {
+    "m_FileID": 0,
+    "m_PathID": -185768593625331076
+  },
+  "_tileAnchor": {
+    "m_FileID": 0,
+    "m_PathID": 3893859974585223333
+  }
+}

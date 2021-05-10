@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -518007848827977540
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6793388719147314748
+  },
+  "m_Name": "",
+  "_buyButton": {
+    "m_FileID": 0,
+    "m_PathID": 5069308900470610343
+  },
+  "_gachaboxTileModel": {
+    "m_FileID": 0,
+    "m_PathID": 8993472764295486807
+  },
+  "_itemNameLabel": {
+    "m_FileID": 0,
+    "m_PathID": -7577172574575929787
+  },
+  "_timeLabel": {
+    "m_FileID": 0,
+    "m_PathID": -2501579175400382096
+  },
+  "_claimButton": {
+    "m_FileID": 0,
+    "m_PathID": 5754937346096451575
+  },
+  "_stateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -1020756455861262055
+  },
+  "_bestChestParticleVFX": {
+    "m_FileID": 0,
+    "m_PathID": -7869268055754346190
+  },
+  "_particlesEnabledItemID": "20003"
+}

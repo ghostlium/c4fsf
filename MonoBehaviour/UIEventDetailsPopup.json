@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6479936272605397668
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3623692051479392973
+  },
+  "m_Name": "",
+  "popupID": 29,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 6358398283060609948
+  },
+  "_stateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -5629148900580183023
+  },
+  "_persistentCurrenciesToShow": [
+    201,
+    202,
+    203,
+    205
+  ],
+  "_infoLabel": {
+    "m_FileID": 0,
+    "m_PathID": -812250329501399858
+  },
+  "_currencyTokenDisplayGrid": {
+    "m_FileID": 0,
+    "m_PathID": -3605612164709558491
+  },
+  "_currencyTokenDisplayPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2375435217639369545
+  }
+}

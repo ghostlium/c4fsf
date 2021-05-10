@@ -1,0 +1,105 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3546963085111502126
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 763117774672852569
+  },
+  "m_Name": "",
+  "_category": 1,
+  "_type": 0,
+  "_variant": 0,
+  "_cellSpanX": 3,
+  "_cellSpanY": 2,
+  "_cellSpanZ": 8,
+  "_frontSideMeshFilters": [],
+  "_frontSideWallrunMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8599054088272867402
+    }
+  ],
+  "_leftSideMeshFilters": [],
+  "_leftSideWallrunStartMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7981471676136567680
+    }
+  ],
+  "_leftSideWallrunMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4798299920228504617
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5631063110506675781
+    }
+  ],
+  "_rightSideMeshFilters": [],
+  "_rightSideWallrunStartMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9177572694457851392
+    }
+  ],
+  "_rightSideWallrunMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2626854824515739466
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8689604549900421014
+    }
+  ],
+  "_laneEndingPieceMeshFilters": [],
+  "_otherMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1710934286841933972
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2660295898467626295
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7550089512845110067
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6828348274434648962
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1053923304513077835
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4492700485909457724
+    }
+  ],
+  "_decorationRandomizers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3625648996747816138
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7576086217049709176
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4933025530657259150
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4617777260300953804
+    }
+  ],
+  "_meshCombined": 1
+}

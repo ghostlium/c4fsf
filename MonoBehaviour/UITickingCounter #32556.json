@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3489512282698027569
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9187309778436842692
+  },
+  "m_Name": "",
+  "counterLabel": {
+    "m_FileID": 0,
+    "m_PathID": -8671089465421309471
+  },
+  "labelFormat": "{0}",
+  "tickTime": 0.5,
+  "countStopTime": 1.0,
+  "scaleCurve": {
+    "m_Curve": [],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_onlyPopOnIncrease": 0
+}

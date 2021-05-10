@@ -1,0 +1,116 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6548034422205431054
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 763117774672852569
+  },
+  "m_Name": "",
+  "_category": 2,
+  "_type": 0,
+  "_variant": 0,
+  "_cellSpanX": 3,
+  "_cellSpanY": 1,
+  "_cellSpanZ": 8,
+  "_frontSideMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9111972231005169115
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1523243299738554645
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1541802173670919739
+    }
+  ],
+  "_frontSideWallrunMeshFilters": [],
+  "_leftSideMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1057591369787617034
+    }
+  ],
+  "_leftSideWallrunStartMeshFilters": [],
+  "_leftSideWallrunMeshFilters": [],
+  "_rightSideMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7171234359044282712
+    }
+  ],
+  "_rightSideWallrunStartMeshFilters": [],
+  "_rightSideWallrunMeshFilters": [],
+  "_laneEndingPieceMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1586575591600794496
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2628595200598678275
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5891313374902383911
+    }
+  ],
+  "_otherMeshFilters": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7508611031036913112
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8644302766262246516
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4438735246736277866
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3421935571706426130
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7019082390559941441
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3869162574561447612
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5855972076422304383
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2353991716759069910
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6381278454560667468
+    }
+  ],
+  "_decorationRandomizers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3602284831148101575
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8940120242097166640
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6511646470098718975
+    }
+  ],
+  "_meshCombined": 1
+}

@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5880854892307283971
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8247412658513629323
+  },
+  "m_Name": "",
+  "PortraitTexture": {
+    "m_FileID": 1,
+    "m_PathID": -3125711303773088397
+  },
+  "CharacterFace": {
+    "m_FileID": 1,
+    "m_PathID": 6823366446246969863
+  },
+  "Eye": {
+    "m_FileID": 1,
+    "m_PathID": 1072953341494608325
+  },
+  "EyeBlink": {
+    "m_FileID": 1,
+    "m_PathID": -8017193387275790098
+  },
+  "CharacterMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -1649501949766441341
+  },
+  "CharacterMaterialMasked": {
+    "m_FileID": 0,
+    "m_PathID": 5251280332351768867
+  },
+  "MenuFocusController": {
+    "m_FileID": 0,
+    "m_PathID": -6556995015719222260
+  },
+  "MenuOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": -4236373904791087145
+  },
+  "CharacterBannerColor": {
+    "BannerColorLeftSide": {
+      "r": 0.1882353,
+      "g": 0.572549045,
+      "b": 0.247058824,
+      "a": 1.0
+    },
+    "BannerColorRightSide": {
+      "r": 0.1882353,
+      "g": 0.5686275,
+      "b": 0.254901975,
+      "a": 1.0
+    },
+    "BannerOrnamentColorLeftSide": {
+      "r": 0.2627451,
+      "g": 0.8235294,
+      "b": 0.333333343,
+      "a": 1.0
+    },
+    "BannerOrnamentColorRightSide": {
+      "r": 0.2627451,
+      "g": 0.827451,
+      "b": 0.329411775,
+      "a": 1.0
+    },
+    "BannerSpriteName": "Heraldry_Zamu"
+  },
+  "ArmorPoseOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": -319242069462401049
+  }
+}

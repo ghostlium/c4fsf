@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3510246565563372989
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2838336818712211276
+  },
+  "m_Name": "",
+  "_distance": 9.0,
+  "_particles": {
+    "m_FileID": 0,
+    "m_PathID": -3103638314957404470
+  }
+}

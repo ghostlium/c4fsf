@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4928696796022905802
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7636566422920668036
+  },
+  "m_Name": "",
+  "_menuParticleParent": {
+    "m_FileID": 0,
+    "m_PathID": -3012663619909131025
+  },
+  "_ingameParticleParent": {
+    "m_FileID": 0,
+    "m_PathID": 2381594941820240013
+  },
+  "_associatedAssetIDs": [
+    "beastman_storm_head"
+  ],
+  "_joint": {
+    "m_FileID": 0,
+    "m_PathID": 9187952023028521765
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6403539743904574063
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7636566422920668036
+  },
+  "m_Name": "",
+  "_menuParticleParent": {
+    "m_FileID": 0,
+    "m_PathID": -1341942783478151848
+  },
+  "_ingameParticleParent": {
+    "m_FileID": 0,
+    "m_PathID": -1500648701542926532
+  },
+  "_associatedAssetIDs": [
+    "elf_lava_head"
+  ],
+  "_joint": {
+    "m_FileID": 0,
+    "m_PathID": 9187952023028521765
+  }
+}

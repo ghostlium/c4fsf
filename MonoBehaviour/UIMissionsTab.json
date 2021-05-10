@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8792875410474600281
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8245504317414831444
+  },
+  "m_Name": "",
+  "_screenWidget": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_levelSection": {
+    "m_FileID": 0,
+    "m_PathID": 80748193464311586
+  },
+  "_questLinePrefab": {
+    "m_FileID": 2,
+    "m_PathID": -8417275377411177964
+  },
+  "_activeQuestLineAnchor": {
+    "m_FileID": 0,
+    "m_PathID": -8442394365367137276
+  }
+}

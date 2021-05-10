@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4795461863091854997
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3157957528348593612
+  },
+  "m_Name": "",
+  "_headerWidget": {
+    "m_FileID": 0,
+    "m_PathID": 7093776084802949864
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 3877515742149220075
+  },
+  "_facebookLinkButton": {
+    "m_FileID": 0,
+    "m_PathID": -575049448648493723
+  },
+  "_facebookUnlinkButton": {
+    "m_FileID": 0,
+    "m_PathID": 719611380175353808
+  },
+  "_appleButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_stateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": 656675820282670522
+  },
+  "_panel": {
+    "m_FileID": 0,
+    "m_PathID": 3319147544069234097
+  },
+  "_resultDialog": {
+    "m_FileID": 0,
+    "m_PathID": 3241867936777484430
+  },
+  "_siwa": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

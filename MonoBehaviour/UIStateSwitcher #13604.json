@@ -1,0 +1,593 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7607956082847810682
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5914597479601770622
+  },
+  "m_Name": "",
+  "states": [
+    {
+      "stateName": "Default",
+      "targets": [
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 2441389345389950198
+          },
+          "_savedActiveState": 1,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 47514566696471300
+            },
+            "_savedLocalPosition": {
+              "x": 0.5,
+              "y": -85.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 1,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": -4913091591028264608
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 92
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": -100
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 12
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": 100
+            },
+            "_savedWidth": 200,
+            "_savedHeight": 80,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 2,
+            "_depthSaved": 1
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 8681388937344328000
+          },
+          "_savedActiveState": 1,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 2394697499427836707
+            },
+            "_savedLocalPosition": {
+              "x": -203.0,
+              "y": -95.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 1,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": -80243487045895011
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 68
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 21
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 16
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 66
+            },
+            "_savedWidth": 45,
+            "_savedHeight": 51,
+            "_savedColor": {
+              "r": 0.6666667,
+              "g": 0.6666667,
+              "b": 0.6666667,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 1,
+            "_depthSaved": 1
+          },
+          "_savedSprite": {
+            "_saved": 1,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": -80243487045895011
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "StoneplateOrnamentCorner",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 7018987805852045221
+          },
+          "_savedActiveState": 1,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 604158897611657366
+            },
+            "_savedLocalPosition": {
+              "x": 204.5,
+              "y": -95.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": -0.999936,
+              "y": 0.999936,
+              "z": 0.999936
+            }
+          },
+          "_savedWidget": {
+            "_saved": 1,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": -6694542558554194960
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 44
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 1.0,
+              "_savedAbsolute": -66
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 40
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 1.0,
+              "_savedAbsolute": -20
+            },
+            "_savedWidth": 46,
+            "_savedHeight": 52,
+            "_savedColor": {
+              "r": 0.6666667,
+              "g": 0.6666667,
+              "b": 0.6666667,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 1,
+            "_depthSaved": 1
+          },
+          "_savedSprite": {
+            "_saved": 1,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": -6694542558554194960
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "StoneplateOrnamentCorner",
+            "_savedFlip": 0
+          }
+        }
+      ],
+      "_stateID": "dfbf32e7-523e-4fef-8d55-61f8fcb18cf1"
+    },
+    {
+      "stateName": "CustomButtons",
+      "targets": [
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 2441389345389950198
+          },
+          "_savedActiveState": 0,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 47514566696471300
+            },
+            "_savedLocalPosition": {
+              "x": 0.5,
+              "y": -85.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 1,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": -4913091591028264608
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 92
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": -100
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 12
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.5,
+              "_savedAbsolute": 100
+            },
+            "_savedWidth": 200,
+            "_savedHeight": 80,
+            "_savedColor": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 2,
+            "_depthSaved": 1
+          },
+          "_savedSprite": {
+            "_saved": 0,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 8681388937344328000
+          },
+          "_savedActiveState": 0,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 2394697499427836707
+            },
+            "_savedLocalPosition": {
+              "x": -203.0,
+              "y": -95.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "_savedWidget": {
+            "_saved": 1,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": -80243487045895011
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 68
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 21
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 16
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 66
+            },
+            "_savedWidth": 45,
+            "_savedHeight": 51,
+            "_savedColor": {
+              "r": 0.6666667,
+              "g": 0.6666667,
+              "b": 0.6666667,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 1,
+            "_depthSaved": 1
+          },
+          "_savedSprite": {
+            "_saved": 1,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": -80243487045895011
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "StoneplateOrnamentCorner",
+            "_savedFlip": 0
+          }
+        },
+        {
+          "_targetGO": {
+            "m_FileID": 0,
+            "m_PathID": 7018987805852045221
+          },
+          "_savedActiveState": 0,
+          "_savedTransform": {
+            "_targetTransform": {
+              "m_FileID": 0,
+              "m_PathID": 604158897611657366
+            },
+            "_savedLocalPosition": {
+              "x": 204.5,
+              "y": -95.0,
+              "z": 0.0
+            },
+            "_savedLocalRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            },
+            "_savedLocalScale": {
+              "x": -0.999936,
+              "y": 0.999936,
+              "z": 0.999936
+            }
+          },
+          "_savedWidget": {
+            "_saved": 1,
+            "_targetWidget": {
+              "m_FileID": 0,
+              "m_PathID": -6694542558554194960
+            },
+            "_savedTopAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 44
+            },
+            "_savedLeftAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 1.0,
+              "_savedAbsolute": -66
+            },
+            "_savedBottomAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 0.0,
+              "_savedAbsolute": 40
+            },
+            "_savedRightAnchor": {
+              "_savedTarget": {
+                "m_FileID": 0,
+                "m_PathID": 5464858747849554053
+              },
+              "_savedRelative": 1.0,
+              "_savedAbsolute": -20
+            },
+            "_savedWidth": 46,
+            "_savedHeight": 52,
+            "_savedColor": {
+              "r": 0.6666667,
+              "g": 0.6666667,
+              "b": 0.6666667,
+              "a": 1.0
+            },
+            "_colorSaved": 1,
+            "_savedDepth": 1,
+            "_depthSaved": 1
+          },
+          "_savedSprite": {
+            "_saved": 1,
+            "_targetSprite": {
+              "m_FileID": 0,
+              "m_PathID": -6694542558554194960
+            },
+            "_savedAtlas": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "_savedSprite": "StoneplateOrnamentCorner",
+            "_savedFlip": 0
+          }
+        }
+      ],
+      "_stateID": "f14e50d8-6376-4094-a3ae-769ec089d135"
+    }
+  ],
+  "_currentStateID": "dfbf32e7-523e-4fef-8d55-61f8fcb18cf1",
+  "Targets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2441389345389950198
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8681388937344328000
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7018987805852045221
+    }
+  ]
+}

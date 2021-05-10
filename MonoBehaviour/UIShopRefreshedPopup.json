@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4552997955781332153
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 616603534299023705
+  },
+  "m_Name": "",
+  "popupID": 11,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 8439264941752202490
+  },
+  "_weaponTilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -8604089083508917783
+  },
+  "_armorTilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -5314131212441689353
+  },
+  "_petTilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 5114664760638297970
+  },
+  "_grid": {
+    "m_FileID": 0,
+    "m_PathID": 6748254337539091221
+  },
+  "_goToShopButton": {
+    "m_FileID": 0,
+    "m_PathID": -5226352830212055349
+  },
+  "_moreItemsLabel": {
+    "m_FileID": 0,
+    "m_PathID": -5289402182382157053
+  }
+}

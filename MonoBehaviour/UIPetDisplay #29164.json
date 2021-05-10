@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1834881995689250749
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8781671451270587574
+  },
+  "m_Name": "",
+  "_itemName": {
+    "m_FileID": 0,
+    "m_PathID": -5385560804389399349
+  },
+  "_upgradeBar": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_petDurationTimeLabel": {
+    "m_FileID": 0,
+    "m_PathID": 2776575914229341735
+  },
+  "_abilityUpgrade": {
+    "m_FileID": 0,
+    "m_PathID": -3308100761288177810
+  },
+  "_durationFormat": 1,
+  "_simpleScoreBonusDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_raritySprites": []
+}

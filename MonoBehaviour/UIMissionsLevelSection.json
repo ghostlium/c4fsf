@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7950975422322734210
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1898158933205202742
+  },
+  "m_Name": "",
+  "_currentLevel": {
+    "m_FileID": 0,
+    "m_PathID": -4241547035226546888
+  },
+  "_nextLevel": {
+    "m_FileID": 0,
+    "m_PathID": 6441264655000210321
+  },
+  "_nextLevelObj": {
+    "m_FileID": 0,
+    "m_PathID": -2568445300641539032
+  },
+  "_levelProgress": {
+    "m_FileID": 0,
+    "m_PathID": 434991025235744904
+  },
+  "_levelProgressText": {
+    "m_FileID": 0,
+    "m_PathID": -6731341086247013564
+  },
+  "_levelUpReward": {
+    "m_FileID": 0,
+    "m_PathID": -933816170236944053
+  },
+  "_levelLabel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

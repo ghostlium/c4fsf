@@ -1,0 +1,80 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5034909413608969856
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9177439469562423164
+  },
+  "m_Name": "",
+  "leftAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": -6080103311567000433
+    },
+    "relative": 0.0,
+    "absolute": 8
+  },
+  "rightAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": -6080103311567000433
+    },
+    "relative": 1.0,
+    "absolute": -8
+  },
+  "bottomAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": -6080103311567000433
+    },
+    "relative": 0.0,
+    "absolute": 8
+  },
+  "topAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": -6080103311567000433
+    },
+    "relative": 1.0,
+    "absolute": -8
+  },
+  "updateAnchors": 1,
+  "showInPanelTool": 1,
+  "generateNormals": 0,
+  "generateUV2": 0,
+  "shadowMode": 0,
+  "widgetsAreStatic": 0,
+  "cullWhileDragging": 0,
+  "alwaysOnScreen": 0,
+  "anchorOffset": 1,
+  "softBorderPadding": 1,
+  "renderQueue": 0,
+  "startingRenderQueue": 3004,
+  "mClipTexture": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mAlpha": 1.0,
+  "mClipping": 3,
+  "mClipRange": {
+    "x": -5.5,
+    "y": -48669.0,
+    "z": 484.0,
+    "w": 326.0
+  },
+  "mClipSoftness": {
+    "x": 0.0,
+    "y": 4.0
+  },
+  "mDepth": 11,
+  "mSortingOrder": 0,
+  "mSortingLayerName": "",
+  "mClipOffset": {
+    "x": 5.5,
+    "y": 49012.0
+  },
+  "useSortingOrder": 0
+}

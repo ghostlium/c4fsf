@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3460393309513619469
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8127370207088864390
+  },
+  "m_Name": "",
+  "_tweenPosition": {
+    "m_FileID": 0,
+    "m_PathID": 3203022108998863961
+  },
+  "_levelBadge": {
+    "m_FileID": 0,
+    "m_PathID": 8840472100771187059
+  },
+  "_levelLabel": {
+    "m_FileID": 0,
+    "m_PathID": 259103538139367848
+  },
+  "_levelProgressBar": {
+    "m_FileID": 0,
+    "m_PathID": 1837540270756119951
+  },
+  "_coinCounter": {
+    "m_FileID": 0,
+    "m_PathID": 8635563475127855386
+  },
+  "_essenceCounter": {
+    "m_FileID": 0,
+    "m_PathID": 2725951199786854609
+  },
+  "_settingsButton": {
+    "m_FileID": 0,
+    "m_PathID": 8083739702831337505
+  },
+  "_shopButton": {
+    "m_FileID": 0,
+    "m_PathID": -6059604985688033865
+  },
+  "_playerLevelButton": {
+    "m_FileID": 0,
+    "m_PathID": -3223866029220325946
+  },
+  "_playerInfo": {
+    "m_FileID": 0,
+    "m_PathID": -6006767702382391358
+  },
+  "_currencyInfo": {
+    "m_FileID": 0,
+    "m_PathID": -6236634324898100460
+  }
+}

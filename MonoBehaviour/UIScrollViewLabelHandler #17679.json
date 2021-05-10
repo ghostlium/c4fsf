@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6045926368048072202
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5431732959591202622
+  },
+  "m_Name": "",
+  "_parentScrollView": {
+    "m_FileID": 0,
+    "m_PathID": -4163008236625104436
+  },
+  "_baseLabel": {
+    "m_FileID": 0,
+    "m_PathID": -17414903824397588
+  },
+  "_scrollWidget": {
+    "m_FileID": 0,
+    "m_PathID": -884881558209465417
+  },
+  "_offScreenBuildArea": {
+    "m_FileID": 0,
+    "m_PathID": 229628644311830673
+  },
+  "_safetyDistance": 100.0
+}

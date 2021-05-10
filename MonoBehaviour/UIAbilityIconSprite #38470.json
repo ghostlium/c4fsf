@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -89084696903688526
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3678809857322942800
+  },
+  "m_Name": "",
+  "_parentWidget": {
+    "m_FileID": 0,
+    "m_PathID": -1533462897295815014
+  },
+  "_frameAtlas": {
+    "m_FileID": 1,
+    "m_PathID": -5735486301435874218
+  },
+  "_frameSpriteName": "buttonInsert",
+  "_manualInitialization": 0
+}

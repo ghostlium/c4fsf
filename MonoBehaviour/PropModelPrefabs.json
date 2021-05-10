@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4224500928358962835
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6542559332542207951
+  },
+  "m_Name": "",
+  "_configPrefab": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6678654034237609066
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1977111012963645007
+    }
+  ],
+  "_configPortalPrefab": [],
+  "fallbackToEmpty": 0
+}

@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4002539644858248268
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5164211541327863893
+  },
+  "m_Name": "",
+  "popupID": 16,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -1173074700776701539
+  },
+  "_leaderBoardsButton": {
+    "m_FileID": 0,
+    "m_PathID": -4488909118450691049
+  },
+  "_achievementsButton": {
+    "m_FileID": 0,
+    "m_PathID": -1196752125523529367
+  },
+  "_signOutButton": {
+    "m_FileID": 0,
+    "m_PathID": 7626903325477278954
+  }
+}

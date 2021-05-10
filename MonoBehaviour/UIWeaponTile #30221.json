@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6613453476599507048
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3210822632336849324
+  },
+  "m_Name": "",
+  "_selectionObjects": {
+    "m_FileID": 0,
+    "m_PathID": -6720641121689673985
+  },
+  "_focusSprite": {
+    "m_FileID": 0,
+    "m_PathID": 8100157557383891398
+  },
+  "_newItemBanner": {
+    "m_FileID": 0,
+    "m_PathID": -7129347055417261621
+  },
+  "_tutorialButtonIdentifier": {
+    "m_FileID": 0,
+    "m_PathID": 8272903170978658056
+  },
+  "_nonInteractiveElements": {
+    "m_FileID": 0,
+    "m_PathID": 8504446473889711799
+  },
+  "_raritySprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5497750670315625767
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8638379650644506537
+    }
+  ],
+  "_weaponTileModel": {
+    "m_FileID": 0,
+    "m_PathID": -5363180278501575182
+  }
+}

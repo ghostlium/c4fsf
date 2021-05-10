@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6437795134836580714
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1946501984042661993
+  },
+  "m_Name": "",
+  "_weaponDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 3629795074245616828
+  },
+  "_equipButton": {
+    "m_FileID": 0,
+    "m_PathID": 1829117523951771861
+  },
+  "_upgradeButton": {
+    "m_FileID": 0,
+    "m_PathID": 98679795864614677
+  },
+  "_cantUpgradeButton": {
+    "m_FileID": 0,
+    "m_PathID": 8630551043968608296
+  }
+}

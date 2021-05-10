@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7692056978500062076
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7636566422920668036
+  },
+  "m_Name": "",
+  "_menuParticleParent": {
+    "m_FileID": 0,
+    "m_PathID": 3126180829950800523
+  },
+  "_ingameParticleParent": {
+    "m_FileID": 0,
+    "m_PathID": -4643589591664090723
+  },
+  "_associatedAssetIDs": [
+    "mage_tier1_head"
+  ],
+  "_joint": {
+    "m_FileID": 0,
+    "m_PathID": 9187952023028521765
+  }
+}

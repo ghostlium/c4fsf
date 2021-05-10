@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7594673199197948586
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3072341948946881332
+  },
+  "m_Name": "",
+  "popupID": 2,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "killPlayerButton": {
+    "m_FileID": 0,
+    "m_PathID": -6368396413493943189
+  },
+  "essenceIcon": {
+    "m_FileID": 0,
+    "m_PathID": 1814582471132041999
+  },
+  "essenceCounter": {
+    "m_FileID": 0,
+    "m_PathID": 7861055955516087347
+  },
+  "reviveButtonWidget": {
+    "m_FileID": 0,
+    "m_PathID": -7867108690820627490
+  },
+  "_tutorialButtonWidget": {
+    "m_FileID": 0,
+    "m_PathID": 5055607291180277991
+  },
+  "_essenceDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 4086446122845156424
+  },
+  "_stonePlateElements": {
+    "m_FileID": 0,
+    "m_PathID": -4114747190144523383
+  },
+  "_timeoutBarElements": {
+    "m_FileID": 0,
+    "m_PathID": -4205409039620478068
+  },
+  "timeoutBar": {
+    "m_FileID": 0,
+    "m_PathID": 1322123956919674640
+  },
+  "reviveButton": {
+    "m_FileID": 0,
+    "m_PathID": 5228485382106479982
+  },
+  "tutorialReviveButton": {
+    "m_FileID": 0,
+    "m_PathID": 2060777080479381189
+  },
+  "clickOutsideButton": {
+    "m_FileID": 0,
+    "m_PathID": -4859101867233200344
+  },
+  "_reviveWithAdButton": {
+    "m_FileID": 0,
+    "m_PathID": 6265324841837899260
+  },
+  "_buttonWidget": {
+    "m_FileID": 0,
+    "m_PathID": -3911383044932054443
+  },
+  "_antagonistEyeSpawn": {
+    "m_FileID": 0,
+    "m_PathID": 5636699193597402091
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7116673248179941800
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 157632702938059054
+  },
+  "m_Name": "",
+  "_slotType": 1,
+  "_cellSpanZ": 8,
+  "_hidePlateauSide": 0,
+  "_randomizers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1048386958841958601
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7391370339719261654
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4897660152135584677
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8158429958656428707
+    }
+  ]
+}

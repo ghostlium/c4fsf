@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3008397552663989110
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6542559332542207951
+  },
+  "m_Name": "",
+  "_configPrefab": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1508520269024578477
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6660178773988017411
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8972857173359419827
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5682054247342694841
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5642648610028604376
+    }
+  ],
+  "_configPortalPrefab": [],
+  "fallbackToEmpty": 1
+}

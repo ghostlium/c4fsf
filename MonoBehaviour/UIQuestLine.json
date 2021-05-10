@@ -1,0 +1,140 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8230017671465234562
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7473500477738296671
+  },
+  "m_Name": "",
+  "progressCounter": {
+    "m_FileID": 0,
+    "m_PathID": 6042305761381313579
+  },
+  "headingLabel": {
+    "m_FileID": 0,
+    "m_PathID": 5902176736496818206
+  },
+  "progressTextLabel": {
+    "m_FileID": 0,
+    "m_PathID": 5134224529444964927
+  },
+  "targetTextLabel": {
+    "m_FileID": 0,
+    "m_PathID": 1320960661449529864
+  },
+  "progressBar": {
+    "m_FileID": 0,
+    "m_PathID": 6651291548347573646
+  },
+  "progressBarColor": {
+    "m_FileID": 0,
+    "m_PathID": -6531264032328954937
+  },
+  "progressBarCompleteContainer": {
+    "m_FileID": 0,
+    "m_PathID": 3510665493335459255
+  },
+  "_bonusMissionElements": {
+    "m_FileID": 0,
+    "m_PathID": 3624138883666933038
+  },
+  "_nonBonusMissionDecor": {
+    "m_FileID": 0,
+    "m_PathID": -4536023428479077955
+  },
+  "questTypeDaily": {
+    "progressBarColorEmpty": {
+      "r": 0.286274523,
+      "g": 0.75686276,
+      "b": 0.917647064,
+      "a": 1.0
+    },
+    "progressBarColorFull": {
+      "r": 0.2901961,
+      "g": 0.75686276,
+      "b": 0.917647064,
+      "a": 1.0
+    },
+    "sprite": {
+      "m_FileID": 0,
+      "m_PathID": 1165676069703764788
+    }
+  },
+  "questTypeMission": {
+    "progressBarColorEmpty": {
+      "r": 0.8666667,
+      "g": 0.329411775,
+      "b": 0.929411769,
+      "a": 1.0
+    },
+    "progressBarColorFull": {
+      "r": 0.8666667,
+      "g": 0.329411775,
+      "b": 0.929411769,
+      "a": 1.0
+    },
+    "sprite": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "questTypeAchievement": {
+    "progressBarColorEmpty": {
+      "r": 0.9764706,
+      "g": 0.745098054,
+      "b": 0.333333343,
+      "a": 1.0
+    },
+    "progressBarColorFull": {
+      "r": 0.9764706,
+      "g": 0.745098054,
+      "b": 0.333333343,
+      "a": 1.0
+    },
+    "sprite": {
+      "m_FileID": 0,
+      "m_PathID": -1841917486516953400
+    }
+  },
+  "questTypeDungeon": {
+    "progressBarColorEmpty": {
+      "r": 0.333333343,
+      "g": 0.933333337,
+      "b": 0.31764707,
+      "a": 1.0
+    },
+    "progressBarColorFull": {
+      "r": 0.34117648,
+      "g": 0.933333337,
+      "b": 0.31764707,
+      "a": 1.0
+    },
+    "sprite": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "newBannerGO": {
+    "m_FileID": 0,
+    "m_PathID": 2738238195581786400
+  },
+  "rewards": {
+    "m_FileID": 0,
+    "m_PathID": -5326725631499433948
+  },
+  "iconSprite": {
+    "m_FileID": 0,
+    "m_PathID": 8067521140083304490
+  },
+  "iconBackSprite": {
+    "m_FileID": 0,
+    "m_PathID": 2497460453892577299
+  },
+  "_stateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -5730177663475029009
+  }
+}

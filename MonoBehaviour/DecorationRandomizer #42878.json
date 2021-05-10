@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1825021580541356770
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3815917898655550144
+  },
+  "m_Name": "",
+  "targetMeshes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6696031555332118404
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5623107591538146279
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8110544146303472120
+    }
+  ],
+  "_weightedMeshList": [
+    {
+      "mesh": {
+        "m_FileID": 0,
+        "m_PathID": 335749651822742386
+      },
+      "frequency": 1,
+      "unique": 0
+    },
+    {
+      "mesh": {
+        "m_FileID": 0,
+        "m_PathID": 280577887830650891
+      },
+      "frequency": 1,
+      "unique": 0
+    }
+  ]
+}

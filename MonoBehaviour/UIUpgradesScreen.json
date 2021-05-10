@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 348154595788008725
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5823848552058489360
+  },
+  "m_Name": "",
+  "screenID": 39,
+  "_recycleScrolling": {
+    "m_FileID": 0,
+    "m_PathID": -8811170950991218300
+  },
+  "_scrollWidget": {
+    "m_FileID": 0,
+    "m_PathID": 3005907916189538274
+  },
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": -1790533128342676349
+  },
+  "_scrollViewRoot": {
+    "m_FileID": 0,
+    "m_PathID": -8691699388667358435
+  },
+  "_abilityUpgradeTilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -5992054799297686124
+  },
+  "_abilityUpgradeTileHeaderPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -803448163705811853
+  },
+  "_dialogInfo": {
+    "m_FileID": 0,
+    "m_PathID": -3962214221878399818
+  }
+}

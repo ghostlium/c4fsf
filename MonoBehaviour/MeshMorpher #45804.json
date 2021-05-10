@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7178775577812121192
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2257963421493554477
+  },
+  "m_Name": "",
+  "_targetMeshFilter": {
+    "m_FileID": 0,
+    "m_PathID": -8143133475533115982
+  },
+  "_morphTargets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2058845171632490263
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8088695047636649801
+    }
+  ],
+  "_loopDuration": 1.0,
+  "_wrapMode": 0,
+  "_animate": 1,
+  "_animTime": 0.0
+}

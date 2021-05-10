@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4733141772115018343
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1243896095283383952
+  },
+  "m_Name": "",
+  "_assetsPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -3584789914782585897
+  },
+  "_blinkTime": 0.1,
+  "_blinkWaitTimeMax": 5.7,
+  "_blinkWaitTimeMin": 0.6,
+  "_shiftEyeHorizontalLimit": 0.4,
+  "_shiftEyeVerticalLimit": 0.4,
+  "shiftEyeHorizontalMultiplier": 0.1,
+  "shiftEyeVerticalMultiplier": 0.1,
+  "_maxLookOffset": {
+    "x": 10.0,
+    "y": 5.0
+  },
+  "_timeToMoveFocus": 0.02,
+  "_timeBetweenFocusShiftMax": 1.0,
+  "_timeBetweenFocusShiftMin": 0.4,
+  "_testTargetPoint": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9067207528396614434
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2641017161584808636
+  },
+  "m_Name": "",
+  "_screenWidget": {
+    "m_FileID": 0,
+    "m_PathID": -4507793791567666953
+  },
+  "_essenceShopTilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -7262205855677968173
+  },
+  "_goldShopTilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -4238045065571570600
+  },
+  "_goldGrid": {
+    "m_FileID": 0,
+    "m_PathID": -1594440672983248600
+  },
+  "_goldSizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 8617101161219658722
+  },
+  "_essenceGrid": {
+    "m_FileID": 0,
+    "m_PathID": 2736683639254231842
+  },
+  "_essenceSizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 932133656028028032
+  },
+  "_noConnectionWidget": {
+    "m_FileID": 0,
+    "m_PathID": 5951274412547443172
+  },
+  "_thinkingWidget": {
+    "m_FileID": 0,
+    "m_PathID": -2604770064875623256
+  }
+}

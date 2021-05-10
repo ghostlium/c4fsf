@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3571475694464542169
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2384838890566827705
+  },
+  "m_Name": "",
+  "screenID": 26,
+  "_tapToContinueClick": {
+    "m_FileID": 0,
+    "m_PathID": 3508360916950404614
+  },
+  "_dragRotate": {
+    "m_FileID": 0,
+    "m_PathID": 4733314161351577448
+  },
+  "_tapToContinueButton": {
+    "m_FileID": 0,
+    "m_PathID": -7797803190133665251
+  },
+  "_characterCameraAnchor": {
+    "m_FileID": 0,
+    "m_PathID": -1954249663376093087
+  },
+  "_petCameraAnchor": {
+    "m_FileID": 0,
+    "m_PathID": 6077739161529649391
+  }
+}

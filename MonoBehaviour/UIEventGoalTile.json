@@ -1,0 +1,122 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4906224947581236783
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3501070263646781424
+  },
+  "m_Name": "",
+  "_tileWidget": {
+    "m_FileID": 0,
+    "m_PathID": 1539952160533119632
+  },
+  "_descriptionLabel": {
+    "m_FileID": 0,
+    "m_PathID": 7066098173900998455
+  },
+  "_cornerBanner": {
+    "m_FileID": 0,
+    "m_PathID": -4734188059247162439
+  },
+  "_cornerBannerNumberLabel": {
+    "m_FileID": 0,
+    "m_PathID": 8216761910726625259
+  },
+  "_priceButton": {
+    "m_FileID": 0,
+    "m_PathID": 5277477581747050166
+  },
+  "_claimRewardButton": {
+    "m_FileID": 0,
+    "m_PathID": 862709617640370221
+  },
+  "_infoButton": {
+    "m_FileID": 0,
+    "m_PathID": -2278649039887067896
+  },
+  "_progressBar": {
+    "m_FileID": 0,
+    "m_PathID": 4566713948277268714
+  },
+  "_progressLabel": {
+    "m_FileID": 0,
+    "m_PathID": -4287611627674126310
+  },
+  "_backgroundSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7434726718698413082
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4446345589267006105
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7882557374053817508
+    }
+  ],
+  "_spritesToTintWithBackground": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1481796459589833797
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3076171397837059310
+    }
+  ],
+  "_darkTint": {
+    "r": 0.745098054,
+    "g": 0.745098054,
+    "b": 0.745098054,
+    "a": 1.0
+  },
+  "_rewardAnchor": {
+    "m_FileID": 0,
+    "m_PathID": -5843517207153152868
+  },
+  "_gachaModel": {
+    "m_FileID": 0,
+    "m_PathID": -3868810336985848862
+  },
+  "_armorModel": {
+    "m_FileID": 0,
+    "m_PathID": 3927217464089204817
+  },
+  "_weaponModel": {
+    "m_FileID": 0,
+    "m_PathID": -3172868941784238345
+  },
+  "_petModel": {
+    "m_FileID": 0,
+    "m_PathID": -5681905846951875037
+  },
+  "_petLookTarget": {
+    "m_FileID": 0,
+    "m_PathID": 6608789175954117669
+  },
+  "_currencyModel": {
+    "m_FileID": 0,
+    "m_PathID": -4201187552675652401
+  },
+  "_currencyAmountLabel": {
+    "m_FileID": 0,
+    "m_PathID": -6531153196406943917
+  },
+  "_pointToNextGoalStateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": 162914152891277491
+  },
+  "_plateLayoutStateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": 556238853369068690
+  },
+  "_rewardInteractionStateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": 2153100089605051082
+  }
+}

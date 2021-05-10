@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4862188597470185324
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6007708767093040338
+  },
+  "m_Name": "",
+  "_screenWidget": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_dailyQuestStatus": {
+    "m_FileID": 0,
+    "m_PathID": -7916996954398626836
+  },
+  "_progressBar": {
+    "m_FileID": 0,
+    "m_PathID": -1230546116269016138
+  },
+  "_progressBarText": {
+    "m_FileID": 0,
+    "m_PathID": 551732888679019318
+  },
+  "_dailyQuestDays": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5181860749330900905
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6548080636340543567
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 640707290817082040
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6245326120440246521
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3857332547684370835
+    }
+  ],
+  "_delayRandomizers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7664232548234094694
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8114912456213017595
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1894830152012937956
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4375703096783035613
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7291131941315055107
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5620350194882925303
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4577664625040322791
+  },
+  "m_Name": "",
+  "_selectionObjects": {
+    "m_FileID": 0,
+    "m_PathID": 2142038758057088491
+  },
+  "_focusSprite": {
+    "m_FileID": 0,
+    "m_PathID": 8799502909457512589
+  },
+  "_newItemBanner": {
+    "m_FileID": 0,
+    "m_PathID": -4052078651335606866
+  },
+  "_tutorialButtonIdentifier": {
+    "m_FileID": 0,
+    "m_PathID": 8740954788563615609
+  },
+  "_nonInteractiveElements": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_backgroundEffectSprite": {
+    "m_FileID": 0,
+    "m_PathID": 4901961866702611075
+  },
+  "_heroBanner": {
+    "m_FileID": 0,
+    "m_PathID": 279642689599418643
+  },
+  "_portraitSprite": {
+    "m_FileID": 0,
+    "m_PathID": -2844838800617943168
+  },
+  "_unownedOverlay": {
+    "m_FileID": 0,
+    "m_PathID": 1322755581933591136
+  }
+}

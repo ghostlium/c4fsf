@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5717767840989153290
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -635517429836378895
+  },
+  "m_Name": "",
+  "_petModelRoot": {
+    "m_FileID": 0,
+    "m_PathID": 3320403443410980865
+  },
+  "_petEyeLookingRoot": {
+    "m_FileID": 0,
+    "m_PathID": -6094808150365657026
+  }
+}

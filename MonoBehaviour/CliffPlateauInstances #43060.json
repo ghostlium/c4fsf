@@ -1,0 +1,463 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8189435359289338233
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2649618746873355591
+  },
+  "m_Name": "",
+  "_prefabs": [
+    {
+      "_cliffType": 1,
+      "_configPrefabs": [
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -6872644247417809174
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 4
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -4896285010581213212
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 4
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 8281534294674002270
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 8
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -3387025129017324120
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 8
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -6237687306184381832
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 4
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 1969023839160417590
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 4
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -6265382988649783141
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 8
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 6670863824497862937
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 8
+        }
+      ]
+    },
+    {
+      "_cliffType": 2,
+      "_configPrefabs": [
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 4004922485652012460
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -2430634082632235725
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -3828613204264814841
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -7490287420163597544
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -5159291761287679898
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 5000758795720280409
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -1169422999887598562
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 4264391856831276857
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        }
+      ]
+    },
+    {
+      "_cliffType": 3,
+      "_configPrefabs": [
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 5871802928449839466
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 948597950690195837
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 6216695024783215952
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -2396062330252283044
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        }
+      ]
+    },
+    {
+      "_cliffType": 4,
+      "_configPrefabs": [
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 5875734864941919197
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 5331678114552448514
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        }
+      ]
+    },
+    {
+      "_cliffType": 5,
+      "_configPrefabs": [
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 1756603158455906288
+          },
+          "Frequency": 10,
+          "MinimumTimeSpacing": 30
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -3196514977103947710
+          },
+          "Frequency": 10,
+          "MinimumTimeSpacing": 30
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 4348476425567487296
+          },
+          "Frequency": 5,
+          "MinimumTimeSpacing": 30
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 1731944862483939346
+          },
+          "Frequency": 10,
+          "MinimumTimeSpacing": 30
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -2468953303059753997
+          },
+          "Frequency": 10,
+          "MinimumTimeSpacing": 30
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 3035642804130091211
+          },
+          "Frequency": 10,
+          "MinimumTimeSpacing": 30
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -5678610180194460978
+          },
+          "Frequency": 5,
+          "MinimumTimeSpacing": 30
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -589233523762342449
+          },
+          "Frequency": 10,
+          "MinimumTimeSpacing": 30
+        }
+      ]
+    },
+    {
+      "_cliffType": 6,
+      "_configPrefabs": [
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 6103161811309128018
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 45
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 485023145374047328
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 45
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 402430401542977185
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 45
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -7860447196574771445
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 20
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 98838844398229517
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 20
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -6819432710064407049
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 20
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -5252642442752242425
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 20
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 1467698925462567879
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 20
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 1065303995724850416
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 20
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 1817428752781308109
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 20
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -642966302751356880
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 20
+        }
+      ]
+    },
+    {
+      "_cliffType": 7,
+      "_configPrefabs": [
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 6103161811309128018
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 60
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 485023145374047328
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 60
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 402430401542977185
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 60
+        }
+      ]
+    },
+    {
+      "_cliffType": 8,
+      "_configPrefabs": [
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": -4678165853896924838
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        },
+        {
+          "Prefab": {
+            "m_FileID": 0,
+            "m_PathID": 7492648973246244718
+          },
+          "Frequency": 1,
+          "MinimumTimeSpacing": 0
+        }
+      ]
+    }
+  ],
+  "_leftBridgeRailingPrefabs": {
+    "_startingPiece": {
+      "m_FileID": 0,
+      "m_PathID": -4324259504877288097
+    },
+    "_middlePiece": {
+      "m_FileID": 0,
+      "m_PathID": 3534535122470289143
+    },
+    "_afterHolePiece": {
+      "m_FileID": 0,
+      "m_PathID": -8436438478989414826
+    },
+    "_endingPiece": {
+      "m_FileID": 0,
+      "m_PathID": 8686196062681153396
+    }
+  },
+  "_rightBridgeRailingPrefabs": {
+    "_startingPiece": {
+      "m_FileID": 0,
+      "m_PathID": -3978063624353967456
+    },
+    "_middlePiece": {
+      "m_FileID": 0,
+      "m_PathID": 3578939876079681636
+    },
+    "_afterHolePiece": {
+      "m_FileID": 0,
+      "m_PathID": 5934502373467294540
+    },
+    "_endingPiece": {
+      "m_FileID": 0,
+      "m_PathID": 242102264372188930
+    }
+  },
+  "_epicSpawnState": {
+    "_firstSpawn": 80,
+    "_minTimeBetweenEpics": 100,
+    "_maxTimeBetweenEpics": 220
+  }
+}

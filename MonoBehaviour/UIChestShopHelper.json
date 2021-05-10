@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4772733921091169990
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5640719209848358508
+  },
+  "m_Name": "",
+  "_anchorSide": 2,
+  "_buttonWidget": {
+    "m_FileID": 0,
+    "m_PathID": -3808841153153502958
+  },
+  "_tweenPosition": {
+    "m_FileID": 0,
+    "m_PathID": -1694673238127044353
+  },
+  "_chestButton": {
+    "m_FileID": 0,
+    "m_PathID": 1343032260658831931
+  },
+  "_chestRewardReadyAssets": {
+    "m_FileID": 0,
+    "m_PathID": 9042475089979551272
+  },
+  "_chestRewardNotReadyAssets": {
+    "m_FileID": 0,
+    "m_PathID": -8054252069557744408
+  },
+  "_timeToFreeLabel": {
+    "m_FileID": 0,
+    "m_PathID": 5242511736308409443
+  },
+  "_chestNotificationBubble": {
+    "m_FileID": 0,
+    "m_PathID": -3770756425023659353
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2412709254575109824
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -362619388018948672
+  },
+  "m_Name": "",
+  "_screenWidget": {
+    "m_FileID": 0,
+    "m_PathID": -8196237909259004185
+  },
+  "_recycleScrolling": {
+    "m_FileID": 0,
+    "m_PathID": 5513981128518033730
+  },
+  "_scrollWidget": {
+    "m_FileID": 0,
+    "m_PathID": 6778352893848876448
+  },
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": -8473167288723727807
+  },
+  "_childGrid": {
+    "m_FileID": 0,
+    "m_PathID": 5261123227065704345
+  },
+  "_topSpacer": {
+    "m_FileID": 0,
+    "m_PathID": -7434532103895828202
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 7202829773484549795
+  },
+  "_bottomSpacer": {
+    "m_FileID": 0,
+    "m_PathID": 5726300583367288841
+  },
+  "_nonOwnedItemchildGrid": {
+    "m_FileID": 0,
+    "m_PathID": -7281236240030354045
+  },
+  "_nonOwnedPlacementWidget": {
+    "m_FileID": 0,
+    "m_PathID": -6645971202385413962
+  },
+  "_weaponItemDisplay": {
+    "m_FileID": 0,
+    "m_PathID": -8679438885304394857
+  },
+  "_weaponTilePrefab": {
+    "m_FileID": 2,
+    "m_PathID": -8604089083508917783
+  },
+  "_endTile": {
+    "m_FileID": 0,
+    "m_PathID": 3482073575972748010
+  },
+  "_endTileNonOwnedItems": {
+    "m_FileID": 0,
+    "m_PathID": 6103179389597955357
+  }
+}

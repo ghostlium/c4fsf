@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2205727905414339648
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 531732101361319668
+  },
+  "m_Name": "",
+  "_headerWidget": {
+    "m_FileID": 0,
+    "m_PathID": 5821654630429339818
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": -7963635987346738730
+  },
+  "_stateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -6564881535609160505
+  },
+  "_toggleRecordingOn": {
+    "m_FileID": 0,
+    "m_PathID": 449326850872823142
+  },
+  "_toggleRecordingOff": {
+    "m_FileID": 0,
+    "m_PathID": 2099463821811584476
+  },
+  "_toggleCommentaryOff": {
+    "m_FileID": 0,
+    "m_PathID": -3371111724045613003
+  },
+  "_toggleCommentaryMicrophone": {
+    "m_FileID": 0,
+    "m_PathID": -6762791744856562790
+  },
+  "_toggleCommentaryFacecam": {
+    "m_FileID": 0,
+    "m_PathID": 6284042246333154933
+  },
+  "_microphoneExplanationDialog": {
+    "m_FileID": 0,
+    "m_PathID": 3241867936777484430
+  }
+}

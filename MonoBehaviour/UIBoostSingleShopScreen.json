@@ -1,0 +1,94 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -280984270713243198
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3376200398478261781
+  },
+  "m_Name": "",
+  "screenID": 36,
+  "_shopTilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -783727362969450764
+  },
+  "_ownedText": {
+    "m_FileID": 0,
+    "m_PathID": -8841797992503764950
+  },
+  "_cameraWidget": {
+    "m_FileID": 0,
+    "m_PathID": 8398936660776054792
+  },
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": -9045025710794078734
+  },
+  "_childGrid": {
+    "m_FileID": 0,
+    "m_PathID": 1127082790242984130
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 1621643710900525136
+  },
+  "_freeRoot": {
+    "m_FileID": 0,
+    "m_PathID": -4187566142309186876
+  },
+  "_tokenRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2379526345675048102
+  },
+  "_infoButton": {
+    "m_FileID": 0,
+    "m_PathID": -4627709339807567967
+  },
+  "_dialogBackground": {
+    "m_FileID": 0,
+    "m_PathID": -5932454548630051712
+  },
+  "_boostInfoDialog": {
+    "m_FileID": 0,
+    "m_PathID": 2590952727174463273
+  },
+  "_currencyColors": [
+    {
+      "Currency": 3,
+      "ParticleSystem": {
+        "m_FileID": 0,
+        "m_PathID": 1101288578782485568
+      }
+    },
+    {
+      "Currency": 103,
+      "ParticleSystem": {
+        "m_FileID": 0,
+        "m_PathID": 1101288578782485568
+      }
+    },
+    {
+      "Currency": 101,
+      "ParticleSystem": {
+        "m_FileID": 0,
+        "m_PathID": 870651539167139337
+      }
+    },
+    {
+      "Currency": 102,
+      "ParticleSystem": {
+        "m_FileID": 0,
+        "m_PathID": 870651539167139337
+      }
+    },
+    {
+      "Currency": 104,
+      "ParticleSystem": {
+        "m_FileID": 0,
+        "m_PathID": 1807663231140972161
+      }
+    }
+  ]
+}

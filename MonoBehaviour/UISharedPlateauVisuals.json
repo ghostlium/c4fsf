@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6431083244628417299
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6299866940360132827
+  },
+  "m_Name": "",
+  "_itemName": {
+    "m_FileID": 0,
+    "m_PathID": 2040800983757007764
+  },
+  "_itemNameNoRarityGem": {
+    "m_FileID": 0,
+    "m_PathID": 5453185450461762550
+  },
+  "_itemStar": {
+    "m_FileID": 0,
+    "m_PathID": 3870783018332605100
+  },
+  "_banner": {
+    "m_FileID": 0,
+    "m_PathID": -4665681067617126122
+  },
+  "_petBanner": {
+    "m_FileID": 0,
+    "m_PathID": 1837099437518214867
+  },
+  "_heroBanner": {
+    "m_FileID": 0,
+    "m_PathID": 6847665393969756111
+  },
+  "_petBannerElements": {
+    "m_FileID": 0,
+    "m_PathID": 355052496260515773
+  },
+  "_heroBannerElements": {
+    "m_FileID": 0,
+    "m_PathID": -4409974946083047649
+  },
+  "_commonRarityEffect": {
+    "m_FileID": 0,
+    "m_PathID": 4995201066051904622
+  },
+  "_rareRarityEffect": {
+    "m_FileID": 0,
+    "m_PathID": 8086622042704123951
+  },
+  "_epicRarityEffect": {
+    "m_FileID": 0,
+    "m_PathID": -3312621235495006384
+  }
+}

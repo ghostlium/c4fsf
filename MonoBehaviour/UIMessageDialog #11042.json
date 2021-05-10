@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -662993259269930037
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6641185938140402407
+  },
+  "m_Name": "",
+  "_headerLabel": {
+    "m_FileID": 0,
+    "m_PathID": -6909735532919015115
+  },
+  "_messageLabel": {
+    "m_FileID": 0,
+    "m_PathID": 3955190334413845849
+  },
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 2583971410574898659
+  },
+  "_customButton1": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_customButton2": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_customButton1Label": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_heightWidget": {
+    "m_FileID": 0,
+    "m_PathID": 1855757921821788236
+  },
+  "_textSplitter": {
+    "m_FileID": 0,
+    "m_PathID": -8863397374361401712
+  },
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": 462811559738730273
+  },
+  "_scrollHole": {
+    "m_FileID": 0,
+    "m_PathID": -8637841738324632359
+  },
+  "_scrollWidget": {
+    "m_FileID": 0,
+    "m_PathID": -5017819732526534413
+  },
+  "_scrollViewLabelHandler": {
+    "m_FileID": 0,
+    "m_PathID": -6914109920200859790
+  },
+  "_stateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": 2551231493558325207
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5693494286928536375
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5247942627365562764
+  },
+  "m_Name": "",
+  "_stumblesLabel": {
+    "m_FileID": 0,
+    "m_PathID": 9216480788858940179
+  },
+  "_petSummonsLabel": {
+    "m_FileID": 0,
+    "m_PathID": 1800986071813473456
+  },
+  "_wallrunsLabel": {
+    "m_FileID": 0,
+    "m_PathID": 5759915557949926772
+  },
+  "_questsEncountered": {
+    "m_FileID": 0,
+    "m_PathID": 4870413169747055590
+  },
+  "_questsCompleted": {
+    "m_FileID": 0,
+    "m_PathID": -6415933360353448497
+  },
+  "_checkpoints": {
+    "m_FileID": 0,
+    "m_PathID": -1045375015649878044
+  }
+}

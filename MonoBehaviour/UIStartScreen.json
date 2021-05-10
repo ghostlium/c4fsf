@@ -1,0 +1,120 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2705691062811862849
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4472783066237424308
+  },
+  "m_Name": "",
+  "screenID": 0,
+  "playButton": {
+    "m_FileID": 0,
+    "m_PathID": -5692025109672089816
+  },
+  "heroButton": {
+    "m_FileID": 0,
+    "m_PathID": 6919670605655657051
+  },
+  "goalsButton": {
+    "m_FileID": 0,
+    "m_PathID": 5588019454539852881
+  },
+  "shopButton": {
+    "m_FileID": 0,
+    "m_PathID": -394742166592955140
+  },
+  "upgradeButton": {
+    "m_FileID": 0,
+    "m_PathID": 3676515851907721812
+  },
+  "_buttonGrid": {
+    "m_FileID": 0,
+    "m_PathID": 5910550185664533005
+  },
+  "heroButtonNotification": {
+    "m_FileID": 0,
+    "m_PathID": -3055379721600715325
+  },
+  "goalsNotification": {
+    "m_FileID": 0,
+    "m_PathID": 1940575286662773731
+  },
+  "upgradesNotification": {
+    "m_FileID": 0,
+    "m_PathID": 3086626287219729393
+  },
+  "tapToPlayWidget": {
+    "m_FileID": 0,
+    "m_PathID": 4147237551835860578
+  },
+  "highscoreLabel": {
+    "m_FileID": 0,
+    "m_PathID": 4813815186336350799
+  },
+  "_buttonsTweenPosition": {
+    "m_FileID": 0,
+    "m_PathID": -8003110489678363873
+  },
+  "socialLinker": {
+    "m_FileID": 0,
+    "m_PathID": 2533859837558960477
+  },
+  "_menuOverlay": {
+    "m_FileID": 0,
+    "m_PathID": -8394168158061559330
+  },
+  "_interruptedPurchaseHelper": {
+    "m_FileID": 0,
+    "m_PathID": -9222814987399819683
+  },
+  "_helperPrefabList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3798637862343370432
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8807687398869355769
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3575401117719241895
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1773261274400739105
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2233103588278975543
+    }
+  ],
+  "_vignette": {
+    "m_FileID": 0,
+    "m_PathID": 4816988965363958134
+  },
+  "_scoreBonusLabel": {
+    "m_FileID": 0,
+    "m_PathID": 9175749393963440411
+  },
+  "_scoreBonusInfoButton": {
+    "m_FileID": 0,
+    "m_PathID": 5290610635860743868
+  },
+  "_scoreElementsTween": {
+    "m_FileID": 0,
+    "m_PathID": 8970857865663332130
+  },
+  "_rightSideButtonAnchor": {
+    "m_FileID": 0,
+    "m_PathID": 8764368900351188809
+  },
+  "_leftSideButtonAnchor": {
+    "m_FileID": 0,
+    "m_PathID": -7189676784485513311
+  },
+  "_paddingBetweenNonStaticButtons": 4.0
+}

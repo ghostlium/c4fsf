@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5189218773796269555
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 684884203329937586
+  },
+  "m_Name": "",
+  "_armorSetTilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 5465014042439669509
+  },
+  "_headerWidget": {
+    "m_FileID": 0,
+    "m_PathID": 5152834274173185493
+  },
+  "_characterIconBackgroundEffectSprite": {
+    "m_FileID": 0,
+    "m_PathID": 1821634814884987284
+  },
+  "_characterIcon": {
+    "m_FileID": 0,
+    "m_PathID": 2871221451282279094
+  },
+  "_characterName": {
+    "m_FileID": 0,
+    "m_PathID": -2368473612834856470
+  },
+  "_topSpacerWidget": {
+    "m_FileID": 0,
+    "m_PathID": 4189663769215911177
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": -7567498710286634626
+  },
+  "_childGrid": {
+    "m_FileID": 0,
+    "m_PathID": 7127088139909572304
+  },
+  "_extraSpacing": 30
+}

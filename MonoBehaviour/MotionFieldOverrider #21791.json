@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3637507857662261
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6972197722457714959
+  },
+  "m_Name": "",
+  "_overriderSets": [],
+  "_overrideController": {
+    "m_FileID": 0,
+    "m_PathID": 9115984620590818133
+  },
+  "_controller": {
+    "m_FileID": 0,
+    "m_PathID": -7658540068661960503
+  }
+}

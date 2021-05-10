@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2412328775607453867
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8247412658513629323
+  },
+  "m_Name": "",
+  "PortraitTexture": {
+    "m_FileID": 1,
+    "m_PathID": -7655018150299545470
+  },
+  "CharacterFace": {
+    "m_FileID": 1,
+    "m_PathID": 8891527878388690153
+  },
+  "Eye": {
+    "m_FileID": 1,
+    "m_PathID": 1241879691249775892
+  },
+  "EyeBlink": {
+    "m_FileID": 1,
+    "m_PathID": -194911610072426622
+  },
+  "CharacterMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -2202355864074588072
+  },
+  "CharacterMaterialMasked": {
+    "m_FileID": 0,
+    "m_PathID": 525712556013092930
+  },
+  "MenuFocusController": {
+    "m_FileID": 1,
+    "m_PathID": 6406559173124368224
+  },
+  "MenuOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": 3305471149852319182
+  },
+  "CharacterBannerColor": {
+    "BannerColorLeftSide": {
+      "r": 0.303018749,
+      "g": 0.15743944,
+      "b": 0.411764681,
+      "a": 1.0
+    },
+    "BannerColorRightSide": {
+      "r": 0.303018749,
+      "g": 0.15743944,
+      "b": 0.411764681,
+      "a": 1.0
+    },
+    "BannerOrnamentColorLeftSide": {
+      "r": 1.0,
+      "g": 0.9029412,
+      "b": 0.3602941,
+      "a": 1.0
+    },
+    "BannerOrnamentColorRightSide": {
+      "r": 1.0,
+      "g": 0.9029412,
+      "b": 0.3602941,
+      "a": 1.0
+    },
+    "BannerSpriteName": "Heraldry_Dela"
+  },
+  "ArmorPoseOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": -6916055747842392791
+  }
+}

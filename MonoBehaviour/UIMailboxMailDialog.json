@@ -1,0 +1,84 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7839126762684379338
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1938008630563097175
+  },
+  "m_Name": "",
+  "_closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -2691766315823493152
+  },
+  "_headerText": {
+    "m_FileID": 0,
+    "m_PathID": -682615098165237607
+  },
+  "_messageText": {
+    "m_FileID": 0,
+    "m_PathID": 9201066690776979244
+  },
+  "_currencyMailAttachment": {
+    "m_FileID": 0,
+    "m_PathID": -7406550804357200045
+  },
+  "_gachaboxMailAttachment": {
+    "m_FileID": 0,
+    "m_PathID": 6112309435931161127
+  },
+  "_parcelAttachment": {
+    "m_FileID": 0,
+    "m_PathID": -3669004208263722048
+  },
+  "_errorAttachmentWidget": {
+    "m_FileID": 0,
+    "m_PathID": 3871752366754087626
+  },
+  "_errorAttachmentLabel": {
+    "m_FileID": 0,
+    "m_PathID": -1194198450693974836
+  },
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": 2634082441738710761
+  },
+  "_scrollWidget": {
+    "m_FileID": 0,
+    "m_PathID": -8701507406466436763
+  },
+  "_topSpacer": {
+    "m_FileID": 0,
+    "m_PathID": 2738028361996664128
+  },
+  "_attachmentSpacer": {
+    "m_FileID": 0,
+    "m_PathID": 4428451287480549172
+  },
+  "_bottomSpacer": {
+    "m_FileID": 0,
+    "m_PathID": -7194773047466839027
+  },
+  "_stateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -3785792842539075600
+  },
+  "_deleteButton": {
+    "m_FileID": 0,
+    "m_PathID": 4501051274695010254
+  },
+  "_claimButton": {
+    "m_FileID": 0,
+    "m_PathID": 61993577875997930
+  },
+  "_textSplitter": {
+    "m_FileID": 0,
+    "m_PathID": 5021036286170726466
+  },
+  "_scrollViewLabelHandler": {
+    "m_FileID": 0,
+    "m_PathID": 3045901888290701008
+  }
+}

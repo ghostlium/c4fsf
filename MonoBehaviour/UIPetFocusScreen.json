@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1103739982974347685
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3102887910027695552
+  },
+  "m_Name": "",
+  "screenID": 31,
+  "_eventBlocker": {
+    "m_FileID": 0,
+    "m_PathID": 8835519779071321443
+  },
+  "_dragRotate": {
+    "m_FileID": 0,
+    "m_PathID": -4990092215947657817
+  },
+  "_buyNowButton": {
+    "m_FileID": 0,
+    "m_PathID": 3393394975470343375
+  },
+  "_chestShopButton": {
+    "m_FileID": 0,
+    "m_PathID": 1799840472434712399
+  },
+  "_interactionStateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": 4223277719665630676
+  },
+  "_petDisplay": {
+    "m_FileID": 0,
+    "m_PathID": -6100627588046256749
+  },
+  "_lavaWorldCameraTransform": {
+    "m_FileID": 0,
+    "m_PathID": 8666002402450858713
+  }
+}

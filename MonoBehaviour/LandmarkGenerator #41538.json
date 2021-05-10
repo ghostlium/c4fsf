@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1891562080114220099
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1595958132834165232
+  },
+  "m_Name": "",
+  "_configLandmarkMinimumDistance": 0,
+  "_configLandmarkMaximumDistance": 10,
+  "_landmarkPrefabs": {
+    "_configPrefabs": [
+      {
+        "Frequency": 1,
+        "Prefab": {
+          "m_FileID": 0,
+          "m_PathID": 550284505124330720
+        }
+      },
+      {
+        "Frequency": 1,
+        "Prefab": {
+          "m_FileID": 0,
+          "m_PathID": 3142955916722396762
+        }
+      },
+      {
+        "Frequency": 1,
+        "Prefab": {
+          "m_FileID": 0,
+          "m_PathID": -1825231850973873887
+        }
+      },
+      {
+        "Frequency": 1,
+        "Prefab": {
+          "m_FileID": 0,
+          "m_PathID": 5606244259654114516
+        }
+      },
+      {
+        "Frequency": 1,
+        "Prefab": {
+          "m_FileID": 0,
+          "m_PathID": 4888964895835942547
+        }
+      },
+      {
+        "Frequency": 1,
+        "Prefab": {
+          "m_FileID": 0,
+          "m_PathID": -5012300459239758106
+        }
+      }
+    ],
+    "_configDefaultPrefab": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_minStartOffset": 0
+}

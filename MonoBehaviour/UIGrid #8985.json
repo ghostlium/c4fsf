@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 364168899952022148
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7130251806577824618
+  },
+  "m_Name": "",
+  "arrangement": 0,
+  "sorting": 0,
+  "pivot": 0,
+  "maxPerLine": 0,
+  "cellWidth": 80.0,
+  "cellHeight": 200.0,
+  "animateSmoothly": 0,
+  "hideInactive": 0,
+  "keepWithinPanel": 0,
+  "sorted": 0
+}

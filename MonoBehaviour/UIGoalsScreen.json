@@ -1,0 +1,94 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1394748869504814398
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2109777786691979609
+  },
+  "m_Name": "",
+  "screenID": 22,
+  "tabPaneCollections": [
+    {
+      "TabIndex": 0,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": 5987525146363703003
+      }
+    },
+    {
+      "TabIndex": 1,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": -777022584829223121
+      }
+    },
+    {
+      "TabIndex": 2,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": -939648968661756802
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4138008595297924782
+      }
+    },
+    {
+      "TabIndex": 3,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": -5798749673904661082
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": -6039324842774333234
+      }
+    },
+    {
+      "TabIndex": 4,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": 2947683123544531090
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8063245155186017119
+      }
+    }
+  ],
+  "showArea": {
+    "m_FileID": 0,
+    "m_PathID": -403002857994964355
+  },
+  "prepArea": {
+    "m_FileID": 0,
+    "m_PathID": 2422106177601467239
+  },
+  "_tabButtons": {
+    "m_FileID": 0,
+    "m_PathID": -7056293777076386776
+  },
+  "_achievementNotification": {
+    "m_FileID": 0,
+    "m_PathID": -5551635050894127447
+  },
+  "_missionButton": {
+    "m_FileID": 0,
+    "m_PathID": -4130905916816843271
+  },
+  "_stateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -6310880398049472722
+  }
+}

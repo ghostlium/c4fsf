@@ -1,0 +1,53 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6604590009241383666
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4060238299768910659
+  },
+  "m_Name": "",
+  "_descriptionRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_timeRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_abilityButton": {
+    "m_FileID": 0,
+    "m_PathID": 5405961663638626737
+  },
+  "_slotDescription": {
+    "m_FileID": 0,
+    "m_PathID": 1399089391725211804
+  },
+  "_header": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_description": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_buttonIdentifier": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_abilityIconView": {
+    "m_FileID": 0,
+    "m_PathID": 6928460638533053622
+  },
+  "_upgradeBar": {
+    "m_FileID": 0,
+    "m_PathID": 8133830857279798855
+  },
+  "_upgradeBarWidget": {
+    "m_FileID": 0,
+    "m_PathID": -5199951983621156139
+  },
+  "_upgradeBarStepWidth": 26.0
+}

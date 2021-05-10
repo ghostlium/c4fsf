@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2139696154485852879
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1328327600689850468
+  },
+  "m_Name": "",
+  "_objectiveDescription": {
+    "m_FileID": 0,
+    "m_PathID": 7455805775016511713
+  },
+  "_timeLeftLabel": {
+    "m_FileID": 0,
+    "m_PathID": -3477859740264875945
+  },
+  "_progressBar": {
+    "m_FileID": 0,
+    "m_PathID": -1230546116269016138
+  },
+  "_progressBarText": {
+    "m_FileID": 0,
+    "m_PathID": 551732888679019318
+  },
+  "_notCompletedBox": {
+    "m_FileID": 0,
+    "m_PathID": -4261989427314283922
+  },
+  "_completedBox": {
+    "m_FileID": 0,
+    "m_PathID": 2214990812310820617
+  },
+  "_noSystemBox": {
+    "m_FileID": 0,
+    "m_PathID": -2003060930233237151
+  },
+  "_completedTimeLeftLabel": {
+    "m_FileID": 0,
+    "m_PathID": 2427443784067784780
+  }
+}

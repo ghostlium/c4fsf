@@ -1,0 +1,154 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7111096582025375151
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3294722738664162836
+  },
+  "m_Name": "",
+  "popupID": 8,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 1337638166965820089
+  },
+  "characterAnchor": {
+    "m_FileID": 0,
+    "m_PathID": 5002621014891547412
+  },
+  "_explosion": {
+    "m_FileID": 0,
+    "m_PathID": -4234347402480332020
+  },
+  "_floorMesh": {
+    "m_FileID": 0,
+    "m_PathID": 4586987722706695149
+  },
+  "_brokenFloor": {
+    "m_FileID": 0,
+    "m_PathID": 6258049899596086978
+  },
+  "_scoreScale": {
+    "m_FileID": 0,
+    "m_PathID": -3889554408393711970
+  },
+  "_score": {
+    "m_FileID": 0,
+    "m_PathID": -8752099973436194981
+  },
+  "_scoreHighlight": {
+    "m_FileID": 0,
+    "m_PathID": 1142999614117618954
+  },
+  "scaleCurve": {
+    "m_Curve": [
+      {
+        "time": -0.000185549259,
+        "value": 1.09982193,
+        "inSlope": 12.1139908,
+        "outSlope": 12.1139908,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.04977727,
+        "value": 1.5005163,
+        "inSlope": 0.000596046448,
+        "outSlope": 0.000596046448,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.167063951,
+        "value": 1.50056684,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.468093753,
+        "value": 1.00055146,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "flashFadeCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.99999994,
+        "inSlope": 0.077956304,
+        "outSlope": 0.077956304,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.24220261,
+        "value": 0.792420149,
+        "inSlope": -2.93109512,
+        "outSlope": -2.93109512,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.400523871,
+        "value": 5.96046448E-08,
+        "inSlope": -5.0051403,
+        "outSlope": -5.0051403,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "cameraAnimation": {
+    "m_FileID": 0,
+    "m_PathID": 5487784446015089211
+  },
+  "rotateAnimation": {
+    "m_FileID": 0,
+    "m_PathID": -6379377873473844470
+  },
+  "friendsDefeated": {
+    "m_FileID": 0,
+    "m_PathID": -7039500619129491224
+  },
+  "friendsDefeatedLeaderboards": {
+    "m_FileID": 0,
+    "m_PathID": -4432853507999425914
+  },
+  "leaderboardsGrid": {
+    "m_FileID": 0,
+    "m_PathID": 6862089511551813005
+  },
+  "leaderboardsSizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 379834259351823482
+  },
+  "leaderboardsCloseButton": {
+    "m_FileID": 0,
+    "m_PathID": 3458516065039878885
+  },
+  "_defeatedFriendsScrollWidget": {
+    "m_FileID": 0,
+    "m_PathID": -92467203764157711
+  }
+}

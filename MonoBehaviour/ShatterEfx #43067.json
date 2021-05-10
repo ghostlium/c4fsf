@@ -1,0 +1,113 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -866113167301075566
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2420721875240332904
+  },
+  "m_Name": "",
+  "_pieceSets": [
+    {
+      "Pieces": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 4128774778437986453
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -374551731558428164
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -247676741738795450
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 219487917124974144
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -398440240823883818
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3114336855962363035
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6049619751517216867
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1070206529423027632
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 513135642210958306
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2591568893102432657
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4068849960374248267
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4144300417792767037
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5800983117073844334
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2795561345571528577
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8437037313373948863
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6007784353314180162
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -807132814323884589
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6527103137347147635
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -156057492355855353
+        }
+      ]
+    }
+  ],
+  "_pieceVelocityMin": 10.0,
+  "_pieceVelocityMax": 20.0,
+  "_pieceAngularVelocityMin": 10.0,
+  "_pieceAngularVelocityMax": 60.0,
+  "_shatterDuration": 0.5,
+  "_fadeDuration": 0.25,
+  "_hideOnImpact": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -757872409475675140
+    }
+  ],
+  "_showOnImpact": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7094012416844987333
+    }
+  ],
+  "_useFlowobjMainTex": 0
+}

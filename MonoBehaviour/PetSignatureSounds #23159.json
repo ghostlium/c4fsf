@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6524973140526871156
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4912204827700695540
+  },
+  "m_Name": "",
+  "_signatureSound": {
+    "clip": {
+      "m_FileID": 1,
+      "m_PathID": 1784013277446116779
+    },
+    "volume": 0.7
+  },
+  "_petAnimationEvents": {
+    "m_FileID": 0,
+    "m_PathID": -5733356339910738750
+  }
+}

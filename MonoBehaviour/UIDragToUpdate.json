@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7294750062682542164
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 914772591997188416
+  },
+  "m_Name": "",
+  "scrollView": {
+    "m_FileID": 0,
+    "m_PathID": 6954388695992705859
+  },
+  "dragThreshold": {
+    "m_FileID": 0,
+    "m_PathID": 4656002434460827867
+  },
+  "releaseToUpdate": {
+    "m_FileID": 0,
+    "m_PathID": 534853217157036946
+  },
+  "updating": {
+    "m_FileID": 0,
+    "m_PathID": -2863072445899734107
+  },
+  "timeBetweenUpdates": 10.0
+}

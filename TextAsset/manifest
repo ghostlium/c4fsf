@@ -1,0 +1,16 @@
+{
+    "game": "foo",
+    "spec": "v1.0",
+    "version": "1.0.0",
+    "experiment": "default",
+    "objects": {
+        "foo": {
+            "filename": "foo.json",
+            "key": "79e796b67529e53867e5cc5206a347bb90eb43e5"
+        },
+        "bar": {
+            "filename": "bar.json",
+            "key": "84918313a2c799e5f0a653eeb45d3baee1eab181"
+        }
+    }
+}

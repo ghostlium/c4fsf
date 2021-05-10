@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1682433234867878327
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -648041562541686632
+  },
+  "m_Name": "",
+  "resizeBottomSpacerToFill": 0,
+  "scrollView": {
+    "m_FileID": 0,
+    "m_PathID": 6029789148872435625
+  },
+  "recycleScrolling": {
+    "m_FileID": 0,
+    "m_PathID": 1148027291802945269
+  },
+  "topSpacer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": -7222993589078507042
+  },
+  "bottomSpacer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "scrollWidget": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "leaderboardLinePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -621075358810949609
+  },
+  "dragToUpdate": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "leaderboardItems": {
+    "m_FileID": 0,
+    "m_PathID": -2691413092754663399
+  },
+  "leaderboardsPanel": {
+    "m_FileID": 0,
+    "m_PathID": 139176133166025375
+  },
+  "childGrid": {
+    "m_FileID": 0,
+    "m_PathID": 6862089511551813005
+  }
+}

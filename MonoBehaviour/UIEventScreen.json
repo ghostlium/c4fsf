@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9140101082312156641
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4381920285583916069
+  },
+  "m_Name": "",
+  "screenID": 1,
+  "_eventEndsLabel": {
+    "m_FileID": 0,
+    "m_PathID": 4339067036237119032
+  },
+  "_eventLogo": {
+    "m_FileID": 0,
+    "m_PathID": 2189775874915011061
+  },
+  "_eventInformation": {
+    "m_FileID": 0,
+    "m_PathID": 6583171249604675324
+  },
+  "_background": {
+    "m_FileID": 0,
+    "m_PathID": 8714117229249726521
+  },
+  "_goalTilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -495259311942310235
+  },
+  "_tileParent": {
+    "m_FileID": 0,
+    "m_PathID": 6371015973358277384
+  },
+  "_paddingBetweenTiles": 46.0,
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": 409824639215082743
+  },
+  "_bottomSpacer": {
+    "m_FileID": 0,
+    "m_PathID": -3382895090383372172
+  }
+}

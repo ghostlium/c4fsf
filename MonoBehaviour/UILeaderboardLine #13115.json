@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3064692434979396043
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4798990436762531841
+  },
+  "m_Name": "",
+  "nameLabel": {
+    "m_FileID": 0,
+    "m_PathID": -8506406968941674121
+  },
+  "scoreLabel": {
+    "m_FileID": 0,
+    "m_PathID": 5295376526711927106
+  },
+  "levelBadge": {
+    "m_FileID": 0,
+    "m_PathID": 7522849448217917121
+  },
+  "levelLabel": {
+    "m_FileID": 0,
+    "m_PathID": 6912010201776785082
+  },
+  "_background": {
+    "m_FileID": 0,
+    "m_PathID": -4613552366997908511
+  },
+  "profileImage": {
+    "m_FileID": 0,
+    "m_PathID": -3513398387286133925
+  },
+  "defaultProfileImage": {
+    "m_FileID": 0,
+    "m_PathID": -1185061796151010582
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2927676055750063570
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7517494208567485918
+  },
+  "m_Name": "",
+  "_lastDay": 0,
+  "_dayText": {
+    "m_FileID": 0,
+    "m_PathID": 5492276677666767761
+  },
+  "_currentDayHighlight": {
+    "m_FileID": 0,
+    "m_PathID": -7165092031232643478
+  },
+  "_dayCompletedObject": {
+    "m_FileID": 0,
+    "m_PathID": -5469400051163241172
+  },
+  "_itemNameLabel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_amountLabel": {
+    "m_FileID": 0,
+    "m_PathID": -6344067507056024861
+  },
+  "_currencySprite": {
+    "m_FileID": 0,
+    "m_PathID": -8222514631114919430
+  },
+  "_chestAnchor": {
+    "m_FileID": 0,
+    "m_PathID": -1337293766579059599
+  },
+  "_eggAnchor": {
+    "m_FileID": 0,
+    "m_PathID": -7479342152190552547
+  },
+  "_colorElements": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1665962114621754704
+    }
+  ],
+  "_notCompletedColor": {
+    "r": 0.661764741,
+    "g": 0.661764741,
+    "b": 0.661764741,
+    "a": 1.0
+  },
+  "_completedColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_rewardBopTransforms": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8009500119279823696
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3334360713175983047
+    }
+  ],
+  "_rewardBopParticles": {
+    "m_FileID": 0,
+    "m_PathID": 751665650449080312
+  }
+}

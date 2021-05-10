@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1644662437649796978
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2829440588973627874
+  },
+  "m_Name": "",
+  "animate": 0,
+  "EyeBlink": {
+    "m_FileID": 0,
+    "m_PathID": 8681544821874973528
+  },
+  "closedEyes": {
+    "m_FileID": 0,
+    "m_PathID": 2035057653819232793
+  },
+  "Eye": {
+    "m_FileID": 0,
+    "m_PathID": -7722263469740605846
+  },
+  "animatedEyes": {
+    "m_FileID": 0,
+    "m_PathID": -7500844546092695044
+  },
+  "blinkTime": 0.12,
+  "blinkWaitTimeMax": 4.0,
+  "blinkWaitTimeMin": 1.2,
+  "_shiftEyeHorizontalLimit": 0.5,
+  "_shiftEyeVerticalLimit": 0.7,
+  "shiftEyeHorizontalMultiplier": 0.07,
+  "shiftEyeVerticalMultiplier": 0.07,
+  "maxLookOffset": {
+    "x": 1.0,
+    "y": 0.15
+  },
+  "focusPointOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -10.0
+  },
+  "timeToMoveFocus": 0.04,
+  "timeBetweenFocusShiftMax": 2.0,
+  "timeBetweenFocusShiftMin": 0.16,
+  "headboneTransform": {
+    "m_FileID": 0,
+    "m_PathID": 9187952023028521765
+  },
+  "testTargetPoint": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "targetPosition": {
+    "m_FileID": 0,
+    "m_PathID": -6378127182441583082
+  }
+}

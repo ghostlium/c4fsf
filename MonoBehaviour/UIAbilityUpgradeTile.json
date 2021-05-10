@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5115542963776622626
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8803037400231956231
+  },
+  "m_Name": "",
+  "_descriptionButton": {
+    "m_FileID": 0,
+    "m_PathID": 2652352067715100470
+  },
+  "_multiStageUpgradeBar": {
+    "m_FileID": 0,
+    "m_PathID": -404881995306586027
+  },
+  "_priceButton": {
+    "m_FileID": 0,
+    "m_PathID": -160922944402778200
+  },
+  "_nameLabel": {
+    "m_FileID": 0,
+    "m_PathID": -6318349333986432594
+  },
+  "_lockedLabel": {
+    "m_FileID": 0,
+    "m_PathID": -713199031234382032
+  },
+  "_stateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -4145582190201706648
+  },
+  "_abilityIcon": {
+    "m_FileID": 0,
+    "m_PathID": -5579772184957134770
+  },
+  "_newItemBanner": {
+    "m_FileID": 0,
+    "m_PathID": -1852636911200596268
+  },
+  "_goldPlateEffect": {
+    "m_FileID": 0,
+    "m_PathID": -1878145619422195356
+  },
+  "_notUnlockedOverlay": {
+    "m_FileID": 0,
+    "m_PathID": -1421141918456600622
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6552180524944208918
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5562873622743896204
+  },
+  "m_Name": "",
+  "_model": {
+    "m_FileID": 0,
+    "m_PathID": -3947040100732461849
+  },
+  "_breakEffectRoot": {
+    "m_FileID": 0,
+    "m_PathID": 4938455413930792476
+  },
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": -4946102107476485990
+  }
+}

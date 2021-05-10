@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -834068146368840105
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 475670860707134637
+  },
+  "m_Name": "",
+  "_buyButton": {
+    "m_FileID": 0,
+    "m_PathID": -5406081508354857580
+  },
+  "_showButton": {
+    "m_FileID": 0,
+    "m_PathID": -5119415082981913947
+  },
+  "_raritySprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 317144297820639195
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4021193900205448781
+    }
+  ],
+  "_armorDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 5014219302749318348
+  },
+  "_armorTileModel": {
+    "m_FileID": 0,
+    "m_PathID": -1677505002691012519
+  },
+  "_heroBanner": {
+    "m_FileID": 0,
+    "m_PathID": 7892247715474699677
+  },
+  "_characterPortrait": {
+    "m_FileID": 0,
+    "m_PathID": -3094266675752198749
+  }
+}

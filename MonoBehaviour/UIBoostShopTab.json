@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6679085166165526750
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1024723041351142301
+  },
+  "m_Name": "",
+  "_screenWidget": {
+    "m_FileID": 0,
+    "m_PathID": -7515933200645427231
+  },
+  "_boostTilePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -3932226727599787163
+  },
+  "_childGrid": {
+    "m_FileID": 0,
+    "m_PathID": 368055247840881728
+  },
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": 3623498680829731740
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": -1817803735508091846
+  }
+}

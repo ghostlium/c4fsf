@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1944433179613860958
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6103614887762834090
+  },
+  "m_Name": "",
+  "_accumulatedBonusLabel": {
+    "m_FileID": 0,
+    "m_PathID": -1183783034348868479
+  },
+  "_levelProgress": {
+    "m_FileID": 0,
+    "m_PathID": 8441921825142826988
+  },
+  "_heroPetProgress": {
+    "m_FileID": 0,
+    "m_PathID": 7136718454292413476
+  },
+  "_weaponProgress": {
+    "m_FileID": 0,
+    "m_PathID": 7571950108864895829
+  },
+  "_armorProgress": {
+    "m_FileID": 0,
+    "m_PathID": 2898608009508799263
+  },
+  "_upgradeProgress": {
+    "m_FileID": 0,
+    "m_PathID": 2193999753707237530
+  }
+}

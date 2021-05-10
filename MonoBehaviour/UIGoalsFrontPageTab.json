@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4214206399921003937
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8812413930176313729
+  },
+  "m_Name": "",
+  "_screenWidget": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_scoreBonusDisplayPrefab": {
+    "m_FileID": 0,
+    "m_PathID": -1181862968949404001
+  },
+  "_displayAnchor": {
+    "m_FileID": 0,
+    "m_PathID": 1562243401536496956
+  }
+}

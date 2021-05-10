@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8548339124137122260
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3943670593874475459
+  },
+  "m_Name": "",
+  "_category": 5,
+  "_type": 0,
+  "_variant": 0,
+  "_cellSpanX": 12,
+  "_cellSpanY": 10,
+  "_cellSpanZ": 8,
+  "_wallRunnable": 0,
+  "_wallRunTargetCellY": 5,
+  "_centerCliffSectionInteraction": 0,
+  "_leftCliffSectionInteraction": 0,
+  "_rightCliffSectionInteraction": 0,
+  "_centerCliffSetup": 0,
+  "_leftCliffSetup": 0,
+  "_rightCliffSetup": 0,
+  "_leftCliffOffset": 0,
+  "_rightCliffOffset": 0,
+  "_usePlateauModel": 0,
+  "_generateThinCollider": 0,
+  "_frontalImpactEnabled": 1,
+  "_noRevivesFromBelow": 0,
+  "_overrideAllowRevive": 0
+}

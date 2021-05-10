@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9124805124333813750
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7173236981095130327
+  },
+  "m_Name": "",
+  "_worldAssetType": 2,
+  "_skySettings": {
+    "SkyMaterial": {
+      "m_FileID": 0,
+      "m_PathID": 6218516999767224968
+    },
+    "FogColor": {
+      "r": 0.6965518,
+      "g": 0.0,
+      "b": 1.0,
+      "a": 0.0
+    },
+    "GradientColorTop": {
+      "rgba": 3801113
+    },
+    "GradientColorBottom": {
+      "rgba": 16777215
+    },
+    "GradientOffset": 0.49,
+    "GradientWidth": 0.5,
+    "FogSilhouetteColor": {
+      "rgba": 10027263
+    },
+    "WorldTintColor": {
+      "r": 0.972166657,
+      "g": 0.796078444,
+      "b": 1.0,
+      "a": 0.0
+    },
+    "FogStartDistance": 220.0,
+    "FogSilhouetteDistance": 150.0,
+    "FogEndDistance": 30.0,
+    "FogBackgroundStartDistance": 20.0,
+    "FogBackgroundEndDistance": 180.0,
+    "PortalEdgeColor": {
+      "r": 1.0,
+      "g": 0.0,
+      "b": 0.709803939,
+      "a": 0.0
+    }
+  },
+  "_skyRenderType": 1,
+  "_landmarkGenerators": [],
+  "_plateauModelPrefabs": {
+    "m_FileID": 0,
+    "m_PathID": 2232333822908814451
+  },
+  "_cliffInstances": {
+    "m_FileID": 0,
+    "m_PathID": -4706923138836162590
+  },
+  "_propModelPrefabs": {
+    "m_FileID": 0,
+    "m_PathID": -5736096253251608911
+  },
+  "_jingle": {
+    "m_FileID": 1,
+    "m_PathID": -3366772917216080438
+  },
+  "_ambientLoop": {
+    "Clip": {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "volume": 1.0
+    },
+    "FadeInCurve": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "FadeOutCurve": {
+      "m_Curve": [],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "_bend": {
+    "x": 0.0,
+    "y": -0.001
+  },
+  "_cameraEffectPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

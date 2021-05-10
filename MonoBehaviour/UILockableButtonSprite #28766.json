@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5691533166057472344
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -899199974295095810
+  },
+  "m_Name": "",
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": -1605166094951341424
+  },
+  "lockedSpriteName": "ItemPlate_Big",
+  "unlockedSpriteName": "ItemPlate_Big"
+}

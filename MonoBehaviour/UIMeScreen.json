@@ -1,0 +1,110 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2266545131430830855
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2033592246126784906
+  },
+  "m_Name": "",
+  "screenID": 25,
+  "tabPaneCollections": [
+    {
+      "TabIndex": 0,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": 3161643739042230713
+      }
+    },
+    {
+      "TabIndex": 1,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": 9209700974285765933
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": 2614177915680206229
+      }
+    },
+    {
+      "TabIndex": 3,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": 8263697987511653427
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": 4009918367894869972
+      }
+    },
+    {
+      "TabIndex": 4,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": -7414020844087988055
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": -8584463694340779222
+      }
+    },
+    {
+      "TabIndex": 5,
+      "TabScreenButton": {
+        "m_FileID": 0,
+        "m_PathID": -9033374822936947263
+      },
+      "TabPanePrefab": {
+        "m_FileID": 0,
+        "m_PathID": -998326678008878663
+      }
+    }
+  ],
+  "showArea": {
+    "m_FileID": 0,
+    "m_PathID": -1598900980188245083
+  },
+  "prepArea": {
+    "m_FileID": 0,
+    "m_PathID": 5959216752239603113
+  },
+  "_meScreenCamera": {
+    "m_FileID": 0,
+    "m_PathID": -379394827593385659
+  },
+  "_meScreenModels": {
+    "m_FileID": 0,
+    "m_PathID": -7898698795199575859
+  },
+  "_meScreenCameraMovemement": {
+    "m_FileID": 0,
+    "m_PathID": -4925036571059307312
+  },
+  "_heroNotificationBubble": {
+    "m_FileID": 0,
+    "m_PathID": 5969363961807721250
+  },
+  "_petNotificationBubble": {
+    "m_FileID": 0,
+    "m_PathID": 7866365152497112125
+  },
+  "_weaponNotificationBubble": {
+    "m_FileID": 0,
+    "m_PathID": -8215412219096123486
+  },
+  "_armorNotificationBubble": {
+    "m_FileID": 0,
+    "m_PathID": 5952272072884841658
+  },
+  "_tabButtons": {
+    "m_FileID": 0,
+    "m_PathID": 582242736088277925
+  }
+}

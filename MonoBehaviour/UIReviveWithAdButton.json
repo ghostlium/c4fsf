@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6512605016313256233
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3088684011557150743
+  },
+  "m_Name": "",
+  "_allowDragClicks": 1,
+  "_labelMain": {
+    "m_FileID": 0,
+    "m_PathID": -6967157746472415194
+  },
+  "_spriteMain": {
+    "m_FileID": 0,
+    "m_PathID": 6259164568785430296
+  },
+  "_loadingSpinner": {
+    "m_FileID": 0,
+    "m_PathID": 4059024151338472546
+  }
+}

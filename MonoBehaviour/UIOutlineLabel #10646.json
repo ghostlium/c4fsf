@@ -1,0 +1,125 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7272317761308484327
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3825194590315364556
+  },
+  "m_Name": "",
+  "leftAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 1626458149263757125
+    },
+    "relative": 0.0,
+    "absolute": 59
+  },
+  "rightAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 1626458149263757125
+    },
+    "relative": 1.0,
+    "absolute": -59
+  },
+  "bottomAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 1626458149263757125
+    },
+    "relative": 0.0,
+    "absolute": 255
+  },
+  "topAnchor": {
+    "target": {
+      "m_FileID": 0,
+      "m_PathID": 1626458149263757125
+    },
+    "relative": 1.0,
+    "absolute": -58
+  },
+  "updateAnchors": 1,
+  "mColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "mPivot": 4,
+  "mWidth": 432,
+  "mHeight": 498,
+  "mDepth": 10,
+  "mMat": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "autoResizeBoxCollider": 0,
+  "hideIfOffScreen": 0,
+  "keepAspectRatio": 0,
+  "aspectRatio": 0.8674699,
+  "keepCrispWhenShrunk": 1,
+  "mTrueTypeFont": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mFont": {
+    "m_FileID": 1,
+    "m_PathID": 2043674191099269771
+  },
+  "mText": "Blades of Brim keeps track of your progress in a user profile. We also collect some analytics data about how you play, which we use to improve the game.\n\nPlease see our\n[b][i][url=https://sybogames.com/privacy-policy/]Privacy Policy[/url][/b][/i] and [b][i][url=https://sybogames.com/terms-of-service/]Terms of Service[/url][/b][/i]\nif you would like more information.\n\nBlades of Brim is supported by ads. To make these as relevant to you as possible, we would like to collect and share data with out ad partners. Please note that saying no will not remove ads - instead you may see ads that may be unrelated to your interests and may not therefore appeal to you.\n\nYou can Update your choice in Settings at any time.",
+  "mFontSize": 24,
+  "mFontStyle": 0,
+  "mAlignment": 0,
+  "mEncoding": 1,
+  "mMaxLineCount": 0,
+  "mEffectStyle": 1,
+  "mEffectColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.7058824
+  },
+  "mSymbols": 1,
+  "mEffectDistance": {
+    "x": 0.0,
+    "y": 3.0
+  },
+  "mOverflow": 0,
+  "mApplyGradient": 0,
+  "mGradientTop": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "mGradientBottom": {
+    "r": 0.7,
+    "g": 0.7,
+    "b": 0.7,
+    "a": 1.0
+  },
+  "mSpacingX": 0,
+  "mSpacingY": 0,
+  "mUseFloatSpacing": 0,
+  "mFloatSpacingX": 0.0,
+  "mFloatSpacingY": 0.0,
+  "mOverflowEllipsis": 0,
+  "mOverflowWidth": 0,
+  "mOverflowHeight": 0,
+  "mModifier": 0,
+  "mShrinkToFit": 0,
+  "mMaxLineWidth": 0,
+  "mMaxLineHeight": 0,
+  "mLineWidth": 0.0,
+  "mMultiline": 1,
+  "_outlineWidth": 1.0,
+  "_iconSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_iconSprites": [],
+  "_fitIconHeightToLine": 0
+}

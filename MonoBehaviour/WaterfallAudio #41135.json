@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6767831566916297073
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3332375095082748158
+  },
+  "m_Name": "",
+  "_myClip": 1,
+  "_startAtBeatDistance": 12,
+  "_stopAtBeatDistance": 8,
+  "_cliffWaterfallAsset": {
+    "m_FileID": 0,
+    "m_PathID": 6216695024783215952
+  },
+  "_propModelWaterfallAsset": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,106 @@
+{
+	"Categories":{
+		"AdSystem":{
+			"categoryClassName":"AdSystemLogCategory",
+			"categoryText":"AdSystem",
+			"hasInitializedMessagePrefix":true,
+			"hideStackLevel":0,
+			"logLevel":0,
+			"messagePrefix":"AdSystem - ",
+			"pauseOnError":false,
+			"pauseOnWarning":false
+		},
+		"ComponentsManager":{
+			"categoryClassName":"ComponentsManagerLogCategory",
+			"categoryText":"ComponentsManager",
+			"hasInitializedMessagePrefix":true,
+			"hideStackLevel":0,
+			"logLevel":0,
+			"messagePrefix":"ComponentsManager - ",
+			"pauseOnError":false,
+			"pauseOnWarning":false
+		},
+		"Default":{
+			"categoryClassName":"LogDefault",
+			"categoryText":"Default",
+			"hasInitializedMessagePrefix":true,
+			"hideStackLevel":0,
+			"logLevel":0,
+			"messagePrefix":"Default - ",
+			"pauseOnError":false,
+			"pauseOnWarning":false
+		},
+		"EditorExtensions":{
+			"categoryClassName":"EditorExtensionsLogCategory",
+			"categoryText":"EditorExtensions",
+			"hasInitializedMessagePrefix":true,
+			"hideStackLevel":0,
+			"logLevel":0,
+			"messagePrefix":"EditorExtensions - ",
+			"pauseOnError":false,
+			"pauseOnWarning":false
+		},
+		"ExampleFoo":{
+			"categoryClassName":"ExampleFooLogCategory",
+			"categoryText":"ExampleFoo",
+			"hasInitializedMessagePrefix":true,
+			"hideStackLevel":0,
+			"logLevel":0,
+			"messagePrefix":"ExampleFoo - ",
+			"pauseOnError":false,
+			"pauseOnWarning":false
+		},
+		"Json":{
+			"categoryClassName":"JsonLogCategory",
+			"categoryText":"Json",
+			"hasInitializedMessagePrefix":true,
+			"hideStackLevel":0,
+			"logLevel":0,
+			"messagePrefix":"Json - ",
+			"pauseOnError":false,
+			"pauseOnWarning":false
+		},
+		"Log":{
+			"categoryClassName":"LogSystemLogCategory",
+			"categoryText":"Log",
+			"hasInitializedMessagePrefix":true,
+			"hideStackLevel":0,
+			"logLevel":0,
+			"messagePrefix":"Log - ",
+			"pauseOnError":false,
+			"pauseOnWarning":false
+		},
+		"Settings":{
+			"categoryClassName":"SettingsLogCategory",
+			"categoryText":"Settings",
+			"hasInitializedMessagePrefix":true,
+			"hideStackLevel":0,
+			"logLevel":0,
+			"messagePrefix":"Settings - ",
+			"pauseOnError":false,
+			"pauseOnWarning":false
+		},
+		"Singletons":{
+			"categoryClassName":"SingletonsLogCategory",
+			"categoryText":"Singletons",
+			"hasInitializedMessagePrefix":true,
+			"hideStackLevel":0,
+			"logLevel":0,
+			"messagePrefix":"Singletons - ",
+			"pauseOnError":false,
+			"pauseOnWarning":false
+		},
+		"Utilities":{
+			"categoryClassName":"UtilitiesCategory",
+			"categoryText":"Utilities",
+			"hasInitializedMessagePrefix":true,
+			"hideStackLevel":0,
+			"logLevel":0,
+			"messagePrefix":"Utilities - ",
+			"pauseOnError":false,
+			"pauseOnWarning":false
+		}
+	},
+	"ClearOnNewSceneLoaded":false,
+	"MemoryBudget":0.10000000149011612
+}

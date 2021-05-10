@@ -1,0 +1,15 @@
+{
+    "ClientVersion": "brim-2.6.0",
+    "ClientPlatform": "ios",
+    "SecretToken": "uAIGxVRppGOZDcGlBwxFOYjlunIztIVK",
+    "EndpointHost": "https://albatross.dev.bladesofbrim.com",
+    "PromptToUpgrade": "no",
+    "LocalizationSet": "48a1540cc7b2b02d28493b15aa4b0546f707ddb6",
+    "DisableAds": false,
+    "Gamedata": {
+     	 "master": {
+			"Manifest": "a4b49d3038b72e26db8c0677502f7493848636c0",
+			"Spec": "1.0"
+		}
+    }
+}

@@ -1,0 +1,159 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6205117715090143152
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3655930181051729710
+  },
+  "m_Name": "",
+  "showGlow": 1,
+  "starSprite": {
+    "m_FileID": 0,
+    "m_PathID": 6524147909442032252
+  },
+  "raritySprites": [
+    "Common",
+    "Epic",
+    "Legendary"
+  ],
+  "legendaryGlow": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "backGlow": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "legendaryMask": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_animationStartPosition": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_yOffsetCurve": {
+    "m_Curve": [
+      {
+        "time": -1.03372149E-05,
+        "value": 1.13397491,
+        "inSlope": 1.159031,
+        "outSlope": 1.159031,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.4022081,
+        "value": 4.27402556E-05,
+        "inSlope": -5.725018,
+        "outSlope": -5.725018,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_enterScaleCurve": {
+    "m_Curve": [
+      {
+        "time": -2.25845724E-08,
+        "value": 4.01041365,
+        "inSlope": -1.04165351,
+        "outSlope": -1.04165351,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.02553429,
+        "value": 5.31958342,
+        "inSlope": -1.00493431,
+        "outSlope": -1.00493431,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.6069097,
+        "value": -0.437261164,
+        "inSlope": -24.646431,
+        "outSlope": -24.646431,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.645436645,
+        "value": 0.2078132,
+        "inSlope": 0.5870276,
+        "outSlope": 0.5870276,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.6590566,
+        "value": 0.00607928634,
+        "inSlope": -14.8116388,
+        "outSlope": -14.8116388,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_fadeInCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.250666648,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.164390475,
+        "value": 0.357063442,
+        "inSlope": 1.08286929,
+        "outSlope": 1.08286929,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.4007178,
+        "value": 1.00118375,
+        "inSlope": 3.37483668,
+        "outSlope": 3.37483668,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_yOffsetFactor": 200.0,
+  "_yOffsetObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_emblemLandingEffect": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_emblemLandingEffectDelay": 0.4
+}

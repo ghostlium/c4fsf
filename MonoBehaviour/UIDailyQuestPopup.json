@@ -1,0 +1,107 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5228841085610702916
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5690152965288726980
+  },
+  "m_Name": "",
+  "popupID": 18,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_dailyQuestStatus": {
+    "m_FileID": 0,
+    "m_PathID": -899289825450118113
+  },
+  "_progressBar": {
+    "m_FileID": 0,
+    "m_PathID": -8915762495427725439
+  },
+  "_progressBarText": {
+    "m_FileID": 0,
+    "m_PathID": 5614247631818133992
+  },
+  "_dailyQuestDays": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3187076847086223965
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3987279277547276603
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 656828355006573957
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8512512956484298429
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1751391635080874083
+    }
+  ],
+  "_tapToContinuePrompt": {
+    "m_FileID": 0,
+    "m_PathID": 7462478352861750031
+  },
+  "_tapToContinueButton": {
+    "m_FileID": 0,
+    "m_PathID": -8879097144514428425
+  },
+  "_progressBarAnimationDelay": 0.3,
+  "_progressBarAnimationMaxDuration": 2.0,
+  "_updateToCompletedDelay": 0.3,
+  "_rewardCompletionBopCurve": {
+    "m_Curve": [
+      {
+        "time": 0.002752756,
+        "value": 1.00343883,
+        "inSlope": 13.389432,
+        "outSlope": 13.389432,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.06357305,
+        "value": 1.817788,
+        "inSlope": 5.15599251,
+        "outSlope": 5.15599251,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.3556423,
+        "value": 0.9189603,
+        "inSlope": 0.6332644,
+        "outSlope": 0.6332644,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.37444973,
+        "value": 1.00065935,
+        "inSlope": 4.343976,
+        "outSlope": 4.343976,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_rewardCompletionBopDelay": 0.1,
+  "_rewardCompletionParticleDelay": 0.12
+}

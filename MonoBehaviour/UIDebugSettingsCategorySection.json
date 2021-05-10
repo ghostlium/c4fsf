@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5791686081731700749
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3205340460074156182
+  },
+  "m_Name": "",
+  "_headerWidget": {
+    "m_FileID": 0,
+    "m_PathID": 6807083438355032934
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 1759185369079784323
+  },
+  "_headerLabel": {
+    "m_FileID": 0,
+    "m_PathID": 7415761826872883856
+  },
+  "_lineGrid": {
+    "m_FileID": 0,
+    "m_PathID": 8242783958637774240
+  }
+}

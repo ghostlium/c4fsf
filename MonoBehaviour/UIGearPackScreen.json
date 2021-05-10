@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2320830731693194275
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4819413393896668718
+  },
+  "m_Name": "",
+  "screenID": 34,
+  "_cameraClipWidget": {
+    "m_FileID": 0,
+    "m_PathID": 3304136113421202428
+  },
+  "_scrollView": {
+    "m_FileID": 0,
+    "m_PathID": 2394902849793622894
+  },
+  "_childGrid": {
+    "m_FileID": 0,
+    "m_PathID": -2204096700614395738
+  },
+  "_armorShopTile": {
+    "m_FileID": 2,
+    "m_PathID": 3049347975655177398
+  },
+  "_weaponShopTile": {
+    "m_FileID": 2,
+    "m_PathID": 7220389411367440363
+  },
+  "_buyButton": {
+    "m_FileID": 0,
+    "m_PathID": 6877184226706988064
+  }
+}

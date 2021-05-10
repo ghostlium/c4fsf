@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5416713957136565633
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6577525029621559684
+  },
+  "m_Name": "",
+  "_screenWidget": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_offerCarrousel": {
+    "m_FileID": 0,
+    "m_PathID": -6475739374904630687
+  },
+  "_sideSwipe": {
+    "m_FileID": 0,
+    "m_PathID": 6624083462612185020
+  }
+}

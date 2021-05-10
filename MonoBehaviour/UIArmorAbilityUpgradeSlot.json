@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3851146712445807079
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5330037205038951212
+  },
+  "m_Name": "",
+  "_descriptionRootObject": {
+    "m_FileID": 0,
+    "m_PathID": 4289214402434974122
+  },
+  "_timeRootObject": {
+    "m_FileID": 0,
+    "m_PathID": -5238403047292387695
+  },
+  "_abilityButton": {
+    "m_FileID": 0,
+    "m_PathID": -8226568693049273370
+  },
+  "_slotDescription": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_header": {
+    "m_FileID": 0,
+    "m_PathID": -1319253067743566394
+  },
+  "_description": {
+    "m_FileID": 0,
+    "m_PathID": -1897984915658442058
+  },
+  "_buttonIdentifier": {
+    "m_FileID": 0,
+    "m_PathID": 1950164956351018469
+  },
+  "_abilityIconView": {
+    "m_FileID": 0,
+    "m_PathID": -578600892432507744
+  },
+  "_abilityValue": {
+    "m_FileID": 0,
+    "m_PathID": -2530248500695117235
+  }
+}

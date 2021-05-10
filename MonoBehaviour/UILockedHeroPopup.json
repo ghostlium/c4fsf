@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 933966932043052035
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5173325136125479493
+  },
+  "m_Name": "",
+  "popupID": 6,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 6673804419300390266
+  },
+  "_alternateCloseButton": {
+    "m_FileID": 0,
+    "m_PathID": 6702390063961496832
+  },
+  "_goToHeroScreenButton": {
+    "m_FileID": 0,
+    "m_PathID": 3688403774683790318
+  },
+  "_cannotEquipLabel": {
+    "m_FileID": 0,
+    "m_PathID": -9183179644658537543
+  },
+  "_characterSprite": {
+    "m_FileID": 0,
+    "m_PathID": 3719206956476438666
+  }
+}

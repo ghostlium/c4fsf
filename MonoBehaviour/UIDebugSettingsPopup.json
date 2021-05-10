@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7656677540408504998
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 610867833608277932
+  },
+  "m_Name": "",
+  "popupID": -5,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -8028382798732797009
+  },
+  "_sectionRoot": {
+    "m_FileID": 0,
+    "m_PathID": -1642216973342912476
+  },
+  "_settingsCategory": {
+    "m_FileID": 0,
+    "m_PathID": -2344576264145048951
+  },
+  "_sectionSpacing": 60,
+  "_boolLinePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -72387553302235060
+  },
+  "_floatLinePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -458474650152189436
+  },
+  "_intLinePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -3704756901866361352
+  },
+  "_textLinePrefab": {
+    "m_FileID": 0,
+    "m_PathID": 3224057022851731386
+  },
+  "_buttonLinePrefab": {
+    "m_FileID": 0,
+    "m_PathID": -335955492346342336
+  },
+  "_versionLabel": {
+    "m_FileID": 0,
+    "m_PathID": -689949090779967224
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 6190625721516692275
+  }
+}

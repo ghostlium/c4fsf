@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8497139630436068722
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -998071404352406480
+  },
+  "m_Name": "",
+  "_armorAlphaFadeShader": {
+    "m_FileID": 0,
+    "m_PathID": 3735453204688087449
+  },
+  "_armorFadeShader": {
+    "m_FileID": 0,
+    "m_PathID": -3589397362057922329
+  }
+}

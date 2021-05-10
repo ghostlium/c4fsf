@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9026482723017798570
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9187309778436842692
+  },
+  "m_Name": "",
+  "counterLabel": {
+    "m_FileID": 0,
+    "m_PathID": -1028101668322408361
+  },
+  "labelFormat": "+{0:0%}",
+  "tickTime": 0.4,
+  "countStopTime": 1.0,
+  "scaleCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 1.0,
+        "outSlope": 0.004983554,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.244741261,
+        "value": 1.71117091,
+        "inSlope": 0.00336617231,
+        "outSlope": 0.00336617231,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.5007194,
+        "value": 0.0004423499,
+        "inSlope": 0.00233816751,
+        "outSlope": -0.993267655,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 0
+  },
+  "_onlyPopOnIncrease": 0
+}

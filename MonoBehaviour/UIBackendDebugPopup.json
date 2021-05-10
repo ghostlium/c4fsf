@@ -1,0 +1,97 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1673803561841653868
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 492860986318977847
+  },
+  "m_Name": "",
+  "popupID": -4,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 3784410924234015039
+  },
+  "positiveColor": {
+    "r": 0.572549045,
+    "g": 0.996078432,
+    "b": 0.227450982,
+    "a": 1.0
+  },
+  "negativeColor": {
+    "r": 0.838235259,
+    "g": 0.0431444533,
+    "b": 0.0431444533,
+    "a": 1.0
+  },
+  "userID": {
+    "m_FileID": 0,
+    "m_PathID": -9130436799945691279
+  },
+  "lastUpdate": {
+    "m_FileID": 0,
+    "m_PathID": -7753663237324935950
+  },
+  "lastSyncUpdate": {
+    "m_FileID": 0,
+    "m_PathID": 2149340689151432152
+  },
+  "coreFlowStatus": {
+    "m_FileID": 0,
+    "m_PathID": 180627805858903543
+  },
+  "connectedToBackend": {
+    "m_FileID": 0,
+    "m_PathID": 6579233030842221745
+  },
+  "backendAvailable": {
+    "m_FileID": 0,
+    "m_PathID": -8988837746769742136
+  },
+  "backendErrorMessage": {
+    "m_FileID": 0,
+    "m_PathID": -6655147035503028224
+  },
+  "localVersionLabel": {
+    "m_FileID": 0,
+    "m_PathID": -7159741097512916132
+  },
+  "serverVersionLabel": {
+    "m_FileID": 0,
+    "m_PathID": 172580453372331068
+  },
+  "localItemList": {
+    "m_FileID": 0,
+    "m_PathID": 7818943877717858592
+  },
+  "serverItemList": {
+    "m_FileID": 0,
+    "m_PathID": 7745616977145949460
+  },
+  "loadingObject": {
+    "m_FileID": 0,
+    "m_PathID": -4376450897190519739
+  },
+  "forceUpdateItemList": {
+    "m_FileID": 0,
+    "m_PathID": 4388292796553594235
+  },
+  "updateItemListGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3845236177393815755
+  },
+  "facebookConnected": {
+    "m_FileID": 0,
+    "m_PathID": -3702862599103429310
+  },
+  "gameCenterConnected": {
+    "m_FileID": 0,
+    "m_PathID": 5213566427393169608
+  },
+  "playServicesConnected": {
+    "m_FileID": 0,
+    "m_PathID": 9170276915952471407
+  }
+}

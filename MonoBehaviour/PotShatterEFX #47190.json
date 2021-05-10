@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4008542531668947916
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4051882032447438718
+  },
+  "m_Name": "",
+  "_model": {
+    "m_FileID": 0,
+    "m_PathID": 4609962359779438588
+  },
+  "_shatterFx": {
+    "m_FileID": 0,
+    "m_PathID": 6000309543622970189
+  }
+}

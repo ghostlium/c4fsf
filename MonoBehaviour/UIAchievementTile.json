@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8944743559564907888
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8435173222796780372
+  },
+  "m_Name": "",
+  "_stateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -3685812014660930913
+  },
+  "_nameLabel": {
+    "m_FileID": 0,
+    "m_PathID": -5721509711092347390
+  },
+  "_descriptionLabel": {
+    "m_FileID": 0,
+    "m_PathID": 3481310350203819186
+  },
+  "_claimButton": {
+    "m_FileID": 0,
+    "m_PathID": 8710583410375861265
+  },
+  "_rewardLabel": {
+    "m_FileID": 0,
+    "m_PathID": -5565163379606017710
+  },
+  "_achievementTokens": {
+    "m_FileID": 0,
+    "m_PathID": 6860185634412903738
+  },
+  "_progressNumbersLabel": {
+    "m_FileID": 0,
+    "m_PathID": -5695222910863626448
+  },
+  "_progressBar": {
+    "m_FileID": 0,
+    "m_PathID": -4101558870685933304
+  }
+}

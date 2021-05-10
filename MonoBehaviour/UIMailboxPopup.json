@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6066366777474765638
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9119152147053558312
+  },
+  "m_Name": "",
+  "popupID": 5,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 435627851722580982
+  },
+  "_inboxDialogShower": {
+    "m_FileID": 0,
+    "m_PathID": -3184864149876122355
+  },
+  "_inboxDialog": {
+    "m_FileID": 0,
+    "m_PathID": -6262345190944900216
+  },
+  "_mailDialogShower": {
+    "m_FileID": 0,
+    "m_PathID": -5236331163538855837
+  },
+  "_mailDialog": {
+    "m_FileID": 0,
+    "m_PathID": 2802263530156019534
+  },
+  "_messageDialog": {
+    "m_FileID": 0,
+    "m_PathID": -6297501255266189849
+  },
+  "_inboxUnread": {
+    "m_FileID": 0,
+    "m_PathID": -7668777550718597010
+  }
+}

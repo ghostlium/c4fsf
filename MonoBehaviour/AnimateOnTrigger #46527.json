@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5403445079985153714
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3750451583613523822
+  },
+  "m_Name": "",
+  "_triggerToActivate": "OpenPortal",
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": 5956363022352993164
+  },
+  "_trigger": {
+    "m_FileID": 0,
+    "m_PathID": 473832131090292635
+  }
+}

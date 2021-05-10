@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3680265190242880657
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6764700153593995892
+  },
+  "m_Name": "",
+  "springStrength": 16.0,
+  "nextPageThreshold": 0.0
+}

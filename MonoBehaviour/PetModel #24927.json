@@ -1,0 +1,81 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7452087589537924578
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1583093056902784744
+  },
+  "m_Name": "",
+  "_mesh": {
+    "m_FileID": 0,
+    "m_PathID": -6659472130737553727
+  },
+  "_shootPos": {
+    "m_FileID": 0,
+    "m_PathID": -176953810072583087
+  },
+  "_chestJnt": {
+    "m_FileID": 0,
+    "m_PathID": 8699153668817043882
+  },
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": 934655655771712489
+  },
+  "_armorRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -5193239825076960706
+  },
+  "_litMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -437277145453751125
+  },
+  "_alphaMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -5773876126082912892
+  },
+  "_originalMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 6618521867915780299
+  },
+  "_particles": {
+    "m_FileID": 0,
+    "m_PathID": -7090453632744693261
+  },
+  "_glowParent": {
+    "m_FileID": 0,
+    "m_PathID": 8743422420511979773
+  },
+  "_glow": {
+    "m_FileID": 0,
+    "m_PathID": -6781052404765509973
+  },
+  "_petEyeFoci": [
+    {
+      "x": 15.0,
+      "y": -45.0,
+      "z": -100.0
+    },
+    {
+      "x": 4000.0,
+      "y": -3000.0,
+      "z": -10000.0
+    }
+  ],
+  "SeatRoot": {
+    "m_FileID": 0,
+    "m_PathID": 6363043540489135937
+  },
+  "RepositionSeatRoot": {
+    "m_FileID": 0,
+    "m_PathID": -2291200865460659283
+  },
+  "_repoSeatRootPos": {
+    "x": -0.8,
+    "y": 0.45,
+    "z": 0.0
+  }
+}

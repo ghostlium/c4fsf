@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2648406393255748580
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5946067960585866430
+  },
+  "m_Name": "",
+  "_maskPosition": {
+    "x": -0.003515625,
+    "y": 0.000625
+  },
+  "_maskScale": {
+    "x": 0.641715765,
+    "y": 0.641715765
+  },
+  "_maskColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_cloudRenderer": {
+    "m_FileID": 0,
+    "m_PathID": -1512117257659789929
+  }
+}

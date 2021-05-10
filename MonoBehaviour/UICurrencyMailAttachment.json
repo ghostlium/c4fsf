@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1419765821655402790
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7099695775397085692
+  },
+  "m_Name": "",
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": 861392286932787451
+  },
+  "_currencyTileModel": {
+    "m_FileID": 0,
+    "m_PathID": 7975156370002385337
+  },
+  "_currencyAmount": {
+    "m_FileID": 0,
+    "m_PathID": 7953540533189563944
+  }
+}

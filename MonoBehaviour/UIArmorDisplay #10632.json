@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8335875203057184020
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6535996051434726850
+  },
+  "m_Name": "",
+  "_itemName": {
+    "m_FileID": 0,
+    "m_PathID": 8636892921109126768
+  },
+  "_abilityUpgrade": {
+    "m_FileID": 0,
+    "m_PathID": 4626778339090383711
+  },
+  "_simpleScoreBonusDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 4064529657023141857
+  },
+  "_raritySprites": []
+}

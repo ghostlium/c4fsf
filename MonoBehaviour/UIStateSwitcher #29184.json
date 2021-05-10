@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6816894849122506087
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5914597479601770622
+  },
+  "m_Name": "",
+  "states": [
+    {
+      "stateName": "NotFullyUpgraded",
+      "targets": [],
+      "_stateID": "802c081a-ce0b-4310-bbb0-9f5a3e481182"
+    },
+    {
+      "stateName": "FullyUpgraded",
+      "targets": [],
+      "_stateID": "1c952495-9ce9-48e5-a19a-61c9a4f3e9bd"
+    }
+  ],
+  "_currentStateID": "802c081a-ce0b-4310-bbb0-9f5a3e481182",
+  "Targets": []
+}

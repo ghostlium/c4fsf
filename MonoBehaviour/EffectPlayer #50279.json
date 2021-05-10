@@ -1,0 +1,118 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1423860927822530820
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3302657975449642423
+  },
+  "m_Name": "",
+  "_effectList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2731938687203567044
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8808172698995939092
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3497153512102233556
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3623529704406703876
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8405947360969081368
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4096479554653993918
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5886610435186009641
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1421731951919973812
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -598084180982905167
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6307047117379740702
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7515342078121275812
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8762682196004490799
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6227064773262900645
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9128841600590161630
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8774705683426330933
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1345722372734547193
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2149509065149258362
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -956103982929869515
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7471302096870556977
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4055605071957865243
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5866787436396694500
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 656733186080399669
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3778390877066977062
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6497949350359092444
+    }
+  ],
+  "_delay": 0.0,
+  "_duration": 0.46,
+  "_maxDuration": 0.46,
+  "_minimumRotation": 0.0,
+  "_maximumRotation": 0.0,
+  "_doLoop": 1,
+  "useUnscaledTime": 0,
+  "_doRandomizeStartingIndex": 1
+}

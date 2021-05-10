@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7795086800412621307
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2997751175799460190
+  },
+  "m_Name": "",
+  "popupID": 12,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 3432365638486849593
+  },
+  "_scoreBonusDisplayPrefab": {
+    "m_FileID": 0,
+    "m_PathID": 2285500032288819637
+  },
+  "_displayAnchor": {
+    "m_FileID": 0,
+    "m_PathID": -5865549158404643522
+  }
+}

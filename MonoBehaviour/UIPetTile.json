@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 606222163103378742
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 118786336903272605
+  },
+  "m_Name": "",
+  "_selectionObjects": {
+    "m_FileID": 0,
+    "m_PathID": -160954499594112955
+  },
+  "_focusSprite": {
+    "m_FileID": 0,
+    "m_PathID": 4394177787267786439
+  },
+  "_newItemBanner": {
+    "m_FileID": 0,
+    "m_PathID": 5010388400830598947
+  },
+  "_tutorialButtonIdentifier": {
+    "m_FileID": 0,
+    "m_PathID": -7059934616562221159
+  },
+  "_nonInteractiveElements": {
+    "m_FileID": 0,
+    "m_PathID": -515727412377286940
+  },
+  "_raritySprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6074095815761135768
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6907659863666700045
+    }
+  ],
+  "_petTileModel": {
+    "m_FileID": 0,
+    "m_PathID": -4001095322422177475
+  }
+}

@@ -1,0 +1,12 @@
+g mountain_cliff_basic_L_z4_decoration_a_component_mesh
+v -2.059171 14.51838 12.19357
+v -5.86173 8.552005 14.99199
+v -0.2259644 3.933254 12.80258
+v 3.576595 9.899626 10.00417
+vt 0 0
+vt 0 1
+vt 1 1
+vt 1 0
+g mountain_cliff_basic_L_z4_decoration_a_component_mesh_0
+f 3/3/3 2/2/2 1/1/1
+f 4/4/4 3/3/3 1/1/1

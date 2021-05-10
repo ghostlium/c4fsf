@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1834881995689250749
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6725088413943837647
+  },
+  "m_Name": "",
+  "_buyButton": {
+    "m_FileID": 0,
+    "m_PathID": -3141620846597567613
+  },
+  "_showButton": {
+    "m_FileID": 0,
+    "m_PathID": 3167677909654734213
+  },
+  "_raritySprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8652264578202656214
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4521345050287434926
+    }
+  ],
+  "_backgroundWidget": {
+    "m_FileID": 0,
+    "m_PathID": -4520440535825129442
+  },
+  "_petDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 5769061429589409153
+  },
+  "_petBanner": {
+    "m_FileID": 0,
+    "m_PathID": -5928179298711647279
+  },
+  "_petTileModel": {
+    "m_FileID": 0,
+    "m_PathID": 7425358981773009872
+  },
+  "_petLookRoot": {
+    "m_FileID": 0,
+    "m_PathID": 7268552405593321904
+  }
+}

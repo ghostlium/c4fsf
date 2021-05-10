@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3230123938331123151
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8247412658513629323
+  },
+  "m_Name": "",
+  "PortraitTexture": {
+    "m_FileID": 1,
+    "m_PathID": -7655018150299545470
+  },
+  "CharacterFace": {
+    "m_FileID": 1,
+    "m_PathID": -1426665409549663362
+  },
+  "Eye": {
+    "m_FileID": 1,
+    "m_PathID": -8410945883979529255
+  },
+  "EyeBlink": {
+    "m_FileID": 1,
+    "m_PathID": -8411880480373251779
+  },
+  "CharacterMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 608989742691571057
+  },
+  "CharacterMaterialMasked": {
+    "m_FileID": 0,
+    "m_PathID": -1218877506344819726
+  },
+  "MenuFocusController": {
+    "m_FileID": 0,
+    "m_PathID": -9137085699459617182
+  },
+  "MenuOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": 7607861446198863508
+  },
+  "CharacterBannerColor": {
+    "BannerColorLeftSide": {
+      "r": 0.372549027,
+      "g": 0.172549024,
+      "b": 0.647058845,
+      "a": 1.0
+    },
+    "BannerColorRightSide": {
+      "r": 0.372549027,
+      "g": 0.172549024,
+      "b": 0.647058845,
+      "a": 1.0
+    },
+    "BannerOrnamentColorLeftSide": {
+      "r": 0.698039234,
+      "g": 0.356862754,
+      "b": 0.78039217,
+      "a": 1.0
+    },
+    "BannerOrnamentColorRightSide": {
+      "r": 0.7019608,
+      "g": 0.356862754,
+      "b": 0.784313738,
+      "a": 1.0
+    },
+    "BannerSpriteName": "Heraldry_Lilith"
+  },
+  "ArmorPoseOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": -7173020219888212261
+  }
+}

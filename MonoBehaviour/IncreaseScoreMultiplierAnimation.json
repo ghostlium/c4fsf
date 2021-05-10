@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7123728104590965451
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2089772307675347946
+  },
+  "m_Name": "",
+  "_showAnimationDelay": 0.8,
+  "_currentScoreMultiplierLabel": {
+    "m_FileID": 0,
+    "m_PathID": -8028385268015487239
+  },
+  "_animatedScoreMultiplierLabel": {
+    "m_FileID": 0,
+    "m_PathID": -7160231497471082044
+  },
+  "_headerShowTweener": {
+    "m_FileID": 0,
+    "m_PathID": -2433949932282764197
+  },
+  "_headerScoreTweener": {
+    "m_FileID": 0,
+    "m_PathID": 5956981592136888821
+  },
+  "_scoreMoveTweener": {
+    "m_FileID": 0,
+    "m_PathID": -1511744998464605801
+  },
+  "_scoreShowTweener": {
+    "m_FileID": 0,
+    "m_PathID": -1983013904129883042
+  },
+  "_headerFlashTweener": {
+    "m_FileID": 0,
+    "m_PathID": -4912058367076477094
+  }
+}

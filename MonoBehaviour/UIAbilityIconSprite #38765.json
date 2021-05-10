@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2746841973848472748
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3678809857322942800
+  },
+  "m_Name": "",
+  "_parentWidget": {
+    "m_FileID": 0,
+    "m_PathID": 6667304224293023120
+  },
+  "_frameAtlas": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_frameSpriteName": "",
+  "_manualInitialization": 1
+}

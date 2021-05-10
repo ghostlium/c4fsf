@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5241043189333899173
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4842127755240732488
+  },
+  "m_Name": "",
+  "_eventNameLabel": {
+    "m_FileID": 0,
+    "m_PathID": 189163235543565716
+  },
+  "_icon": {
+    "m_FileID": 0,
+    "m_PathID": 8538315557078565455
+  },
+  "_banner": {
+    "m_FileID": 0,
+    "m_PathID": 5444893125044967595
+  },
+  "_crystal": {
+    "m_FileID": 0,
+    "m_PathID": -8120692195796044069
+  }
+}

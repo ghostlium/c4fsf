@@ -1,0 +1,173 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6633576850566954953
+  },
+  "m_Name": "StarterPackAtlasUI",
+  "material": {
+    "m_FileID": 0,
+    "m_PathID": 2316624056111111994
+  },
+  "mSprites": [
+    {
+      "name": "coins_offer_body",
+      "x": 0,
+      "y": 477,
+      "width": 624,
+      "height": 135,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 1,
+      "paddingBottom": 0
+    },
+    {
+      "name": "heart_offer",
+      "x": 780,
+      "y": 629,
+      "width": 108,
+      "height": 95,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "heart_offer_body",
+      "x": 0,
+      "y": 771,
+      "width": 742,
+      "height": 253,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 8,
+      "paddingRight": 8,
+      "paddingTop": 8,
+      "paddingBottom": 9
+    },
+    {
+      "name": "offer_title_banner_red",
+      "x": 0,
+      "y": 391,
+      "width": 464,
+      "height": 85,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 1,
+      "paddingRight": 1,
+      "paddingTop": 0,
+      "paddingBottom": 1
+    },
+    {
+      "name": "run_score_offer_body",
+      "x": 0,
+      "y": 337,
+      "width": 627,
+      "height": 53,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "starter_rays",
+      "x": 625,
+      "y": 446,
+      "width": 171,
+      "height": 166,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 1,
+      "paddingTop": 1,
+      "paddingBottom": 1
+    },
+    {
+      "name": "timer_banner_red",
+      "x": 0,
+      "y": 613,
+      "width": 779,
+      "height": 157,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 15,
+      "paddingBottom": 0
+    },
+    {
+      "name": "small_shield_icon",
+      "x": 465,
+      "y": 403,
+      "width": 68,
+      "height": 73,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0
+    },
+    {
+      "name": "heart_offer_original_plus",
+      "x": 743,
+      "y": 851,
+      "width": 179,
+      "height": 173,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 10,
+      "paddingRight": 10,
+      "paddingTop": 8,
+      "paddingBottom": 13
+    },
+    {
+      "name": "Cup_plus",
+      "x": 780,
+      "y": 725,
+      "width": 117,
+      "height": 125,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "paddingLeft": 16,
+      "paddingRight": 15,
+      "paddingTop": 10,
+      "paddingBottom": 12
+    }
+  ],
+  "mPixelSize": 1.0,
+  "mReplacement": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

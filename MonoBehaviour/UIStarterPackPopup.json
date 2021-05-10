@@ -1,0 +1,125 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -477242619696031740
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7760179547238211069
+  },
+  "m_Name": "",
+  "popupID": 13,
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -201527999099691944
+  },
+  "_purchaseButton": {
+    "m_FileID": 0,
+    "m_PathID": -8229805982615716321
+  },
+  "_coinLabel": {
+    "m_FileID": 0,
+    "m_PathID": 8602868761802742478
+  },
+  "_essenceLabel": {
+    "m_FileID": 0,
+    "m_PathID": 5123713570785426200
+  },
+  "_savingsLabel": {
+    "m_FileID": 0,
+    "m_PathID": -5083088008677605374
+  },
+  "_timeLeftLabel": {
+    "m_FileID": 0,
+    "m_PathID": 8121360386618465355
+  },
+  "_summBonusLabel": {
+    "m_FileID": 0,
+    "m_PathID": 8732889205298554170
+  },
+  "_stateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -1345356540078027400
+  },
+  "_purchaseUnavailableLabel": {
+    "m_FileID": 0,
+    "m_PathID": -2418908089763567775
+  },
+  "_closeTooltipButton": {
+    "m_FileID": 0,
+    "m_PathID": 7417560625674207148
+  },
+  "_characterModel": {
+    "m_FileID": 0,
+    "m_PathID": -5921057456667572063
+  },
+  "_characterParent": {
+    "m_FileID": 0,
+    "m_PathID": -288666557699174298
+  },
+  "_abilityUpgrade": {
+    "m_FileID": 0,
+    "m_PathID": 3564707532436694878
+  },
+  "_weaponList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5402020446445071689
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2572706316729314205
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 594696480467041424
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5941214562905162242
+    }
+  ],
+  "_armorList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7422958826487974085
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2122315835811017854
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3906462250946577989
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5261253976111387480
+    }
+  ],
+  "_arrowObject": {
+    "m_FileID": 0,
+    "m_PathID": 4847864189440162558
+  },
+  "_weaponTooltip": {
+    "m_FileID": 0,
+    "m_PathID": -5252289921851692934
+  },
+  "_armortooltip": {
+    "m_FileID": 0,
+    "m_PathID": 6916271037674273916
+  },
+  "_bonusTooltipNameLabel": {
+    "m_FileID": 0,
+    "m_PathID": 7039820331278368511
+  },
+  "_bonusTooltipScoreLabel": {
+    "m_FileID": 0,
+    "m_PathID": 3141644229161720140
+  },
+  "_tooltipRoot": {
+    "m_FileID": 0,
+    "m_PathID": 7876740037008013774
+  }
+}

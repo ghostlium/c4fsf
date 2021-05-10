@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2981247400433331166
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1291535719500378691
+  },
+  "m_Name": "",
+  "_fromColor": {
+    "r": 0.6627451,
+    "g": 0.380392164,
+    "b": 0.149019614,
+    "a": 0.392156869
+  },
+  "_toColor": {
+    "r": 0.6627451,
+    "g": 0.380392164,
+    "b": 0.149019614,
+    "a": 0.509803951
+  },
+  "_animation": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.75963223,
+        "outSlope": 0.75963223,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 0.75,
+        "value": 1.0,
+        "inSlope": 0.002493888,
+        "outSlope": 0.002493888,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      },
+      {
+        "time": 1.5,
+        "value": 0.0,
+        "inSlope": -0.6892927,
+        "outSlope": -0.6892927,
+        "weightedMode": 0,
+        "inWeight": 0.333333343,
+        "outWeight": 0.333333343
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  },
+  "_pauseTime": 5.0,
+  "_randomizePauseTime": 1
+}

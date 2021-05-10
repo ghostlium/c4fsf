@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -769527617897499594
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8101575367824347769
+  },
+  "m_Name": "",
+  "_screenWidget": {
+    "m_FileID": 0,
+    "m_PathID": -3031175100008407208
+  },
+  "_dynamicShop": {
+    "m_FileID": 0,
+    "m_PathID": -6697351164313403550
+  },
+  "_timeLeftLabel": {
+    "m_FileID": 0,
+    "m_PathID": -5656880735557840821
+  }
+}

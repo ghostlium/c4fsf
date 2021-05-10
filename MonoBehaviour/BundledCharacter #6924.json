@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -626971343310691735
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8247412658513629323
+  },
+  "m_Name": "",
+  "PortraitTexture": {
+    "m_FileID": 1,
+    "m_PathID": -7655018150299545470
+  },
+  "CharacterFace": {
+    "m_FileID": 1,
+    "m_PathID": 6674734881618314434
+  },
+  "Eye": {
+    "m_FileID": 1,
+    "m_PathID": 3374155305795418278
+  },
+  "EyeBlink": {
+    "m_FileID": 1,
+    "m_PathID": -3749891976631443032
+  },
+  "CharacterMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -3968631405830873546
+  },
+  "CharacterMaterialMasked": {
+    "m_FileID": 0,
+    "m_PathID": 3257334580977592998
+  },
+  "MenuFocusController": {
+    "m_FileID": 1,
+    "m_PathID": 6406559173124368224
+  },
+  "MenuOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": -2832830313035630994
+  },
+  "CharacterBannerColor": {
+    "BannerColorLeftSide": {
+      "r": 0.282352954,
+      "g": 0.3647059,
+      "b": 0.627451,
+      "a": 1.0
+    },
+    "BannerColorRightSide": {
+      "r": 0.282352954,
+      "g": 0.3647059,
+      "b": 0.627451,
+      "a": 1.0
+    },
+    "BannerOrnamentColorLeftSide": {
+      "r": 0.447058827,
+      "g": 0.905882359,
+      "b": 0.917647064,
+      "a": 1.0
+    },
+    "BannerOrnamentColorRightSide": {
+      "r": 0.4509804,
+      "g": 0.9098039,
+      "b": 0.921568632,
+      "a": 1.0
+    },
+    "BannerSpriteName": "Heraldry_Fay"
+  },
+  "ArmorPoseOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": 102092178503816770
+  }
+}

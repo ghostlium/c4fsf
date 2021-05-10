@@ -1,0 +1,163 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -669160207418444604
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6542559332542207951
+  },
+  "m_Name": "",
+  "_configPrefab": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5009469947388046
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1829751827467404841
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4941233991370806797
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8570027437778609362
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 28508569434556309
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3864016954420262575
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3123394596072872985
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7448687472864352272
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5432757471467370242
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4304641549291652507
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7938491564100321083
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6180561022403862875
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8317569343664508728
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7545247867647857924
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7729259072189318984
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1225043485953205208
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6912414548092131815
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8935106477734028236
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6440532451445780421
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1386274890091647633
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7370080417965481179
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8497022345207692369
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6587720668847964791
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5239679451436807692
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6345862813455956743
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -3947040100732461849
+    }
+  ],
+  "_configPortalPrefab": [
+    {
+      "Type": 5,
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": -3753840482750623263
+      }
+    },
+    {
+      "Type": 4,
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": -8570027437778609362
+      }
+    },
+    {
+      "Type": 10,
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": 5706837480840746343
+      }
+    },
+    {
+      "Type": 9,
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": -5327829216079630331
+      }
+    },
+    {
+      "Type": 8,
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": -2783733774698596331
+      }
+    },
+    {
+      "Type": 6,
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": 7323193465666674792
+      }
+    }
+  ],
+  "fallbackToEmpty": 0
+}

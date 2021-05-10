@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4267848718202765658
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8224381767962555294
+  },
+  "m_Name": "",
+  "_panel": {
+    "m_FileID": 0,
+    "m_PathID": 5978799510615037390
+  },
+  "_itemDisplayStateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": 7750126934612693671
+  },
+  "_itemInteractionStateSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -6606294524104183796
+  },
+  "_weaponDisplay": {
+    "m_FileID": 0,
+    "m_PathID": -8745924315046076285
+  },
+  "_armorDisplay": {
+    "m_FileID": 0,
+    "m_PathID": 8894662010839288712
+  },
+  "_petDisplay": {
+    "m_FileID": 0,
+    "m_PathID": -4730951010366019498
+  },
+  "_nextButton": {
+    "m_FileID": 0,
+    "m_PathID": 3431578301250315494
+  },
+  "_itemName": {
+    "m_FileID": 0,
+    "m_PathID": 8636892921109126768
+  },
+  "_itemNameTweenScale": {
+    "m_FileID": 0,
+    "m_PathID": -6302487525598224592
+  },
+  "_currencyAmount": {
+    "m_FileID": 0,
+    "m_PathID": -6062379191165071774
+  },
+  "_currencySprite": {
+    "m_FileID": 0,
+    "m_PathID": 1099444619531003389
+  },
+  "_watchVideoButton": {
+    "m_FileID": 0,
+    "m_PathID": 2117813665436716593
+  },
+  "_watchVideoButtonContent": {
+    "m_FileID": 0,
+    "m_PathID": -538793414850523622
+  },
+  "_watchVideoBtnLabel": {
+    "m_FileID": 0,
+    "m_PathID": 3552619804311304901
+  },
+  "_videoLoadingRotate": {
+    "m_FileID": 0,
+    "m_PathID": -5791113815291177070
+  }
+}

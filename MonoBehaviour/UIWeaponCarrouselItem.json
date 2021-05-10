@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -692120265012946299
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2492182047032460300
+  },
+  "m_Name": "",
+  "_weaponModelRoot": {
+    "m_FileID": 0,
+    "m_PathID": -7300718851544306466
+  },
+  "_sinMove": {
+    "m_FileID": 0,
+    "m_PathID": -1536381677399300880
+  }
+}

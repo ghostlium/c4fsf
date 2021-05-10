@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5595634690068014351
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8780088061580511845
+  },
+  "m_Name": "",
+  "_bannerLeftSide": {
+    "m_FileID": 0,
+    "m_PathID": -3352936384307951467
+  },
+  "_bannerRightSide": {
+    "m_FileID": 0,
+    "m_PathID": -5150029037810424069
+  },
+  "_bannerOrnamentLeftSide": {
+    "m_FileID": 0,
+    "m_PathID": -2573492971399337470
+  },
+  "_bannerOrnamentRightSide": {
+    "m_FileID": 0,
+    "m_PathID": -6053199894659610265
+  },
+  "_unOnownedBannerColor": {
+    "r": 0.5294118,
+    "g": 0.5294118,
+    "b": 0.5294118,
+    "a": 1.0
+  },
+  "_unOwnedBannerOrnamentColor": {
+    "r": 0.661764741,
+    "g": 0.661764741,
+    "b": 0.661764741,
+    "a": 1.0
+  },
+  "_otherObjectsToColor": [],
+  "_ignoreUnowned": 0,
+  "_bannerIcon": {
+    "m_FileID": 0,
+    "m_PathID": -4101622402619512404
+  }
+}

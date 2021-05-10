@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3372034055296197470
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7252222523441191067
+  },
+  "m_Name": "",
+  "_arrowSprite": {
+    "m_FileID": 0,
+    "m_PathID": 7885412952428448247
+  },
+  "_upgradeSlotPrefab": {
+    "m_FileID": 1,
+    "m_PathID": 3769499672829894328
+  },
+  "_sizeWidget": {
+    "m_FileID": 0,
+    "m_PathID": -4288727312453427701
+  },
+  "_lineGrid": {
+    "m_FileID": 0,
+    "m_PathID": -7433861846653895159
+  }
+}

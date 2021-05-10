@@ -1,0 +1,49 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4841075813014828041
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5745306136021037560
+  },
+  "m_Name": "",
+  "movement": 1,
+  "dragEffect": 2,
+  "restrictWithinPanel": 1,
+  "constrainOnDrag": 0,
+  "disableDragIfFits": 0,
+  "smoothDragStart": 1,
+  "iOSDragEmulation": 1,
+  "scrollWheelFactor": 0.25,
+  "momentumAmount": 100.0,
+  "dampenStrength": 9.0,
+  "horizontalScrollBar": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "verticalScrollBar": {
+    "m_FileID": 0,
+    "m_PathID": 8456740683686180302
+  },
+  "showScrollBars": 1,
+  "customMovement": {
+    "x": 1.0,
+    "y": 0.0
+  },
+  "contentPivot": 0,
+  "scale": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "relativePositionOnReset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "centerOnChild": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

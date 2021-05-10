@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1853703468506029781
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7098266406204240309
+  },
+  "m_Name": "",
+  "_buyButton": {
+    "m_FileID": 0,
+    "m_PathID": 6136609053006384855
+  },
+  "_savingsBanner": {
+    "m_FileID": 0,
+    "m_PathID": 4234292545755596091
+  },
+  "_savingsLabel": {
+    "m_FileID": 0,
+    "m_PathID": 590198632208598091
+  },
+  "_dividerSprite": {
+    "m_FileID": 0,
+    "m_PathID": -3801585265737447315
+  },
+  "_amountLabel": {
+    "m_FileID": 0,
+    "m_PathID": 3798747318544931964
+  }
+}

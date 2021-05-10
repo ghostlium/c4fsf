@@ -1,0 +1,61 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1155706666201223455
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6972197722457714959
+  },
+  "m_Name": "",
+  "_overriderSets": [
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": 5112764369533765547
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 8767116794928772361
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -2694789899387300352
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -5723349574285961016
+        }
+      ],
+      "useOriginalClip": 0
+    },
+    {
+      "clip": {
+        "m_FileID": 0,
+        "m_PathID": -2299532174366900480
+      },
+      "overrideClips": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -5723349574285961016
+        }
+      ],
+      "useOriginalClip": 0
+    }
+  ],
+  "_overrideController": {
+    "m_FileID": 1,
+    "m_PathID": -3231391545004854547
+  },
+  "_controller": {
+    "m_FileID": 1,
+    "m_PathID": 843026937816953606
+  }
+}

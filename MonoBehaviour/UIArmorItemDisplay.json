@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4067492654663757211
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 942117272467898997
+  },
+  "m_Name": "",
+  "_armorDisplay": {
+    "m_FileID": 0,
+    "m_PathID": -2143707450392798555
+  },
+  "_equipButton": {
+    "m_FileID": 0,
+    "m_PathID": 5479472702789199367
+  },
+  "_lockedCharacterButton": {
+    "m_FileID": 0,
+    "m_PathID": 128351313005990343
+  }
+}

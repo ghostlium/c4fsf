@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3983438851353896545
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5678848869130430200
+  },
+  "m_Name": "",
+  "rotateObject": {
+    "m_FileID": 0,
+    "m_PathID": 4161703184182436755
+  },
+  "resetWaitTime": 1.0,
+  "_idleType": 1,
+  "_idleRotateDrag": {
+    "x": -0.002,
+    "y": 0.0
+  },
+  "mappings": [
+    {
+      "source": 0,
+      "factor": {
+        "x": 0.0,
+        "y": -500.0,
+        "z": 0.0
+      }
+    }
+  ]
+}

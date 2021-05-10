@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2094600662741336119
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3618854596490538704
+  },
+  "m_Name": "",
+  "label": {
+    "m_FileID": 0,
+    "m_PathID": -6408486204975975356
+  },
+  "lockedTranslationKey": "itemFocusScreen_equipped",
+  "lockedFallbackString": "EQUIPPED",
+  "unlockedTranslationKey": "itemFocusScreen_equip",
+  "unlockedFallbackString": "EQUIP"
+}

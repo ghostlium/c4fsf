@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1683141483667527934
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2097836168572854338
+  },
+  "m_Name": "",
+  "_trigger": {
+    "m_FileID": 0,
+    "m_PathID": 2552628505853878274
+  },
+  "_renderer": {
+    "m_FileID": 0,
+    "m_PathID": -3088217968476268439
+  },
+  "_fadeInColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_fadeInSpeed": 0.5
+}
